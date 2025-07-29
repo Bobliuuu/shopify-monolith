@@ -1,0 +1,89 @@
+version: 2
+
+models:
+  - name: fct_shopify_transactions
+    description: "Fact table with calculated fields and business logic"
+    columns:
+      - name: transaction_id
+        description: "Unique identifier for the transaction"
+        tests:
+          - unique
+          - not_null
+      - name: order_id
+        description: "Order identifier"
+        tests:
+          - not_null
+      - name: customer_id
+        description: "Customer identifier"
+        tests:
+          - not_null
+      - name: transaction_status
+        description: "Status of the transaction"
+        tests:
+          - accepted_values:
+              values: ['pending', 'completed', 'failed']
+      - name: payment_method
+        description: "Method of payment used"
+        tests:
+          - accepted_values:
+              values: ['credit_card', 'paypal', 'shop_pay']
+      - name: transaction_amount
+        description: "Amount of the transaction"
+        tests:
+          - not_null
+      - name: tax_amount
+        description: "Tax amount"
+        tests:
+          - not_null
+      - name: shipping_amount
+        description: "Shipping amount"
+        tests:
+          - not_null
+      - name: currency
+        description: "Currency code"
+        tests:
+          - not_null
+      - name: created_at
+        description: "Creation timestamp"
+        tests:
+          - not_null
+      - name: updated_at
+        description: "Last update timestamp"
+        tests:
+          - not_null
+      - name: country_code
+        description: "Country code"
+        tests:
+          - not_null
+      - name: sales_channel
+        description: "Sales channel"
+        tests:
+          - accepted_values:
+              values: ['online', 'in_store']
+      - name: source_table
+        description: "Source table identifier"
+        tests:
+          - not_null
+      - name: total_amount
+        description: "Total amount including tax and shipping"
+        tests:
+          - not_null
+      - name: successful_amount
+        description: "Amount for successful transactions only"
+        tests:
+          - not_null
+      - name: transaction_recency
+        description: "Categorization of transaction age"
+        tests:
+          - accepted_values:
+              values: ['recent', 'recent_month', 'older']
+      - name: transaction_value_category
+        description: "Transaction value categorization"
+        tests:
+          - accepted_values:
+              values: ['high_value', 'medium_value', 'low_value']
+      - name: payment_category
+        description: "Payment method categorization"
+        tests:
+          - accepted_values:
+              values: ['card', 'digital_wallet', 'shop_pay'] 
