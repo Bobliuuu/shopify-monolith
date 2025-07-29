@@ -1,0 +1,11 @@
+shopify_monolith:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: shopify_monolith.duckdb
+      threads: 4
+    prod:
+      type: duckdb
+      path: shopify_monolith.duckdb
+      threads: 4 
