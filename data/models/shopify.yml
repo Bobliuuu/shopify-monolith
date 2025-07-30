@@ -1,0 +1,66 @@
+version: 2
+
+models:
+  - name: stg_shopify_transactions
+    description: "{{ doc('stg_shopify_transactions') }}"
+    columns:
+      - name: transaction_id
+        description: "{{ doc('stg_transaction_id') }}"
+        tests:
+          - unique
+          - not_null
+      - name: order_id
+        description: "{{ doc('stg_order_id') }}"
+        tests:
+          - not_null
+      - name: customer_id
+        description: "{{ doc('stg_customer_id') }}"
+        tests:
+          - not_null
+      - name: transaction_status
+        description: "{{ doc('stg_transaction_status') }}"
+        tests:
+          - accepted_values:
+              values: ['pending', 'completed', 'failed']
+      - name: payment_method
+        description: "{{ doc('stg_payment_method') }}"
+        tests:
+          - accepted_values:
+              values: ['credit_card', 'paypal', 'shop_pay']
+      - name: transaction_amount
+        description: "{{ doc('stg_transaction_amount') }}"
+        tests:
+          - not_null
+      - name: tax_amount
+        description: "{{ doc('stg_tax_amount') }}"
+        tests:
+          - not_null
+      - name: shipping_amount
+        description: "{{ doc('stg_shipping_amount') }}"
+        tests:
+          - not_null
+      - name: currency
+        description: "{{ doc('stg_currency') }}"
+        tests:
+          - not_null
+      - name: created_at
+        description: "{{ doc('stg_created_at') }}"
+        tests:
+          - not_null
+      - name: updated_at
+        description: "{{ doc('stg_updated_at') }}"
+        tests:
+          - not_null
+      - name: country_code
+        description: "{{ doc('stg_country_code') }}"
+        tests:
+          - not_null
+      - name: sales_channel
+        description: "{{ doc('stg_sales_channel') }}"
+        tests:
+          - accepted_values:
+              values: ['online', 'in_store']
+      - name: source_table
+        description: "{{ doc('stg_source_table') }}"
+        tests:
+          - not_null 
