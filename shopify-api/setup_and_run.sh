@@ -8,7 +8,7 @@ bundle install
 
 # Set environment variables
 export SHOPIFY_DOMAIN=shop-monolith.myshopify.com
-export SHOPIFY_ACCESS_TOKEN=***REMOVED***
+export SHOPIFY_ACCESS_TOKEN=test
 export SHOPIFY_API_KEY=dummy_key
 export SHOPIFY_API_SECRET=dummy_secret
 export SHOPIFY_HOST=https://localhost:3000

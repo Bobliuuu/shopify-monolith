@@ -28,7 +28,7 @@ class ProductController < ApplicationController
   def setup_shopify_client
     # Load environment variables
     domain = ENV['SHOPIFY_DOMAIN'] || 'shop-monolith.myshopify.com'
-    access_token = ENV['SHOPIFY_ACCESS_TOKEN'] || '***REMOVED***'
+    access_token = ENV['SHOPIFY_ACCESS_TOKEN'] || 'test'
     
     # Initialize Shopify API client with correct parameters
     @client = ShopifyAPI::Clients::Rest::Admin.new(
