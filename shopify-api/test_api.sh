@@ -3,8 +3,8 @@
 echo "🧪 Testing Shopify Products API..."
 
 # Set environment variables
-export SHOPIFY_DOMAIN=shop-monolith.myshopify.com
-export SHOPIFY_ACCESS_TOKEN=***REMOVED***
+export SHOPIFY_DOMAIN=no
+export SHOPIFY_ACCESS_TOKEN=way
 
 echo "📋 Environment variables:"
 echo "  SHOPIFY_DOMAIN: $SHOPIFY_DOMAIN"
