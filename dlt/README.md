@@ -16,7 +16,7 @@ To run a pipeline, execute the corresponding file in the `pipelines/` directory.
 ### Shopify
 
 **Command:**  
-`python pipelines/run_shopify_pipeline.py`
+`python -m pipelines.run_shopify_pipeline`
 
 **Expected Tables:**
 - `shopify_data__shopify_products`
@@ -26,7 +26,7 @@ To run a pipeline, execute the corresponding file in the `pipelines/` directory.
 ### Stripe
 
 **Command:**  
-`python pipelines/run_stripe_pipeline.py`
+`python -m pipelines.run_stripe_pipeline.py`
 
 **Expected Tables:**
 - `stripe_data__stripe_customers`

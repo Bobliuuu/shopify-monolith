@@ -1,14 +1,17 @@
 import dlt
 import requests
 import os
+import dotenv
 
+dotenv.load_dotenv()
 
 def shopify_api_get(endpoint):
     api_key = os.getenv('SHOPIFY_API_KEY')
     password = os.getenv('SHOPIFY_API_PASSWORD')
     shop_name = os.getenv('SHOPIFY_SHOP_NAME')
 
-    url = f"https://{shop_name}.myshopify.com/admin/api/.../{endpoint}.json"
+    url = f"https://{shop_name}.myshopify.com/admin/api/2023-10/{endpoint}.json"
+    print(url)
     response = requests.get(url, auth=(api_key, password))
     response.raise_for_status()
     return response.json()
