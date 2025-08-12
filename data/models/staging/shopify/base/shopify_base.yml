@@ -68,70 +68,150 @@ models:
   - name: shopify_customers_base
     description: "Base model for Shopify transactions with sample data"
     columns:
-      - name: customer_id
-        description: "Customer identifier"
+      - name: id
+        description: "Globally‑unique identifier"
         tests:
+          - unique
           - not_null
-      - name: first_name
-        description: "First Name"
-        tests:
-          - not_null  
-      - name: last_name
-        description: "Customer last name"
-      - name: created_at
-        description: "Creation timestamp"
-        tests:
-          - not_null
-      - name: phone_number            
-        description: "Customer phone number"
-      - name: total_spend
-        description: "total expendeture from customers"
-      - name: customer_state
-        description: "Current state of state of user if they are active or not "    
+      - name: legacyResourceId
+        description: "REST Admin API equivalent ID"
+      - name: displayName
+        description: "Full name or fallback"
+      - name: defaultEmailAddress
+        description: "Default email contact"
+      - name: defaultPhoneNumber
+        description: "Default phone contact"        
+      - name: emailVerified
+        description: "Whether email is verified"
+      - name: locale
+        description: "Customer's locale"
+      - name: state
+        description: "Account state"
+      - name: companyContactProfiles 
+        description: "B2B-related contact profiles"
+      - name: addresses
+        description: "Addresses (old-style list) "
+      - name: addressesV2
+        description: "New address pagination API"
+      - name: defaultAddress
+        description: "Default address from the list"
+      - name: image
+        description: "Customer profile image"
+      - name: amountSpent
+        description: "Total spent lifetime value"
+      - name: numberOfOrders
+        description: "Lifetime order count"
+      - name: lifetimeDuration
+        description: "Time since first order or creation"
+      - name: orders
+        description: "Historical orders list"      
+      - name: lastOrder
+        description: " Most recent completed order "
+      - name: statistics
+        description: "Aggregated stats: returns, average etc."
+      - name: events
+        description: "Timeline of customer-related events"
+      - name: tags
+        description: "Tags labels, comma separated"
+      - name: taxExempt
+        description: "Tax-exemption flag for the customer"
+      - name: taxExemptions
+        description: "Specific tax exemptions"
+      - name: storeCreditAccounts
+        description: "Store credits in different currencies"
+      - name: subscriptionContracts
+        description: "Subscription contracts if applicable"
+      - name: productSubscriberStatus
+        description: "Subscription-based product relationship state"
+      - name: canDelete
+        description: "Whether deletion is allowed (only before any order)"
+      - name: dataSaleOptOut
+        description: "If opted out from data sale disclosures"
+      - name: mergeable
+        description: "Whether this customer can be merged with another"
+      - name: note
+        description: "Merchant note about this customer"
+      - name: multipassIdentifier
+        description: "Unique Multipass login identifier"
 
   - name: shopify_inventory_base
     description: "Base model for Shopify inventory with sample data"
     columns:
-      - name: inventory_item_id
-        description: "Unique inventory id"
+      - name: id
+        description: "Internal primary key for your database"
         tests:
           - unique
           - not_null
-      - name: available
-        description: "number of items available"   
-      - name: location_id
-        description: "inventory location_id"
+      - name: shopify_inventory_item_id
+        description: "Shopify GID"   
+      - name: variant_id
+        description: "Foreign key to the associated product variant"
+      - name: sku
+        description: "Stock Keeping Unit identifier"
+      - name: tracked
+        description: " Whether Shopify is tracking this item inventory "
+      - name: available_quantity
+        description: "How many units are available for sale"        
+      - name: reserved_quantity
+        description: "Optional: Quantity reserved"        
+      - name: incoming_quantity
+        description: " Optional: Quantity expected in restocks or transfers "
+      - name: created_at
+        description: "Timestamp when the record was created"
       - name: updated_at
-        description: "updated inventory timestamp"
-        tests:
-          - not_null
+        description: "Timestamp when the record was last updated"                           
 
   - name: shopify_orders_base
     description: " Base model for Shopify orders with sample data"
     columns:
-      - name: order_id
-        description: "Unique order id"
+      - name: id
+        description: "Internal primary key for your database"
         tests:
           - unique
           - not_null
-      - name: available
-        description: "number of items available"
-      - name: created_at
-        description: "Creation timestamp"
-        tests:
-          - not_null 
-      - name: total_price
-        description: "total price of order"
-      - name: currency
-        description: "currency of order"
-      - name: fulfillment_status
-        description: "currency of order"
+      - name: legacy_resource_id 
+        description: " Classic numeric ID used in Shopify REST API"              
+      - name: name 
+        description: " Order name"      
+      - name: email
+        description: " Customer's email"      
       - name: customer_id
-        description: " unique id of shopify customer"
-        tests:
-          - unique
-          - not_null
+        description: "Shopify GID of the customer who placed the order"      
+      - name: processed_at
+        description: "When the order was processed"
+      - name: currency_code
+        description: "ISO currency code"
+      - name: financial_status
+        description: "Enum representing payment status (PAID, PENDING, etc.)"
+      - name: fulfillment_status
+        description: "Enum representing fulfillment status (FULFILLED, UNFULFILLED, etc.)"
+      - name: subtotal_price
+        description: "Subtotal before tax and shipping"
+      - name: total_price
+        description: "Final total price charged to the customer"
+      - name: total_tax
+        description: "Total tax amount"
+      - name: total_discounts
+        description: "Total discounts applied"
+      - name: net_payment
+        description: "Net payment after all adjustments"
+      - name: cancelled_at
+        description: "Timestamp of cancellation, if applicable"
+      - name: cancel_reason
+        description: "Reason for cancellation"              
+      - name: closed_at
+        description: "Timestamp when the order was closed or archived"      
+      - name: source_name
+        description: "Source of the order (e.g., web, pos)"      
+      - name: status_page_url
+        description: "Link to the customer's order status page"      
       - name: shipping_address
-        description: " shipping address of order"        
-
-
+        description: "Shipping address (can be flattened or stored as JSON)"
+      - name: billing_address
+        description: "Billing address (can be flattened or stored as JSON)"
+      - name: tags
+        description: "Tags applied to the order"
+      - name: created_at
+        description: "Timestamp when the record was created in your system"
+      - name: updated_at
+        description: "Timestamp when the record was last updated"                           

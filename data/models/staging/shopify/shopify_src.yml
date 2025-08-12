@@ -128,71 +128,11 @@ sources:
         
       - name: shopify__customers
         description: "Customers source table for Shopify transactions from Airflow"
-        columns:
-          - name: customer_id
-            description: "Unique customer id"
-            tests:
-              - unique
-              - not_null
-          - name: first_name
-            description: "Customer first name"   
-          - name: last_name
-            description: "Customer last name"
-          - name: created_at
-            description: "Creation timestamp"
-            tests:
-              - not_null
-          - name: phone_number            
-            description: "Customer phone number"
-          - name: total_spend
-            description: "total expendeture from customers"
-          - name: customer_state
-            description: "Current state of state of user if they are active or not "
-
+      
       - name: inventory_table
         description: " Shopify inventory"
-        columns:
-          - name: inventory_item_id
-            description: "Unique inventory id"
-            tests:
-              - unique
-              - not_null
-          - name: available
-            description: "number of items available"   
-          - name: location_id
-            description: "inventory location_id"
-          - name: updated_at
-            description: "updated inventory timestamp"
-            tests:
-              - not_null
 
       - name: orders_table
         description: " Shopify orders"
-        columns:
-          - name: order_id
-            description: "Unique order id"
-            tests:
-              - unique
-              - not_null
-          - name: available
-            description: "number of items available"
-          - name: created_at
-            description: "Creation timestamp"
-            tests:
-              - not_null 
-          - name: total_price
-            description: "total price of order"
-          - name: currency
-            description: "currency of order"
-          - name: fulfillment_status
-            description: "currency of order"
-          - name: customer_id
-            description: " unique id of shopify customer"
-            tests:
-              - unique
-              - not_null
-          - name: shipping_address
-            description: " shipping address of order"                                
-                      
 
                                
