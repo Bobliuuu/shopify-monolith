@@ -1,0 +1,52 @@
+{
+  "name": "bun-react-template",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "src/index.tsx",
+  "module": "src/index.tsx",
+  "scripts": {
+    "dev": "concurrently \"bun run server\" \"bun run client\"",
+    "client": "bun --hot --port 3001 src/index.tsx",
+    "server": "bun --watch src/server.ts",
+    "build": "bun build ./src/index.html --outdir=dist --sourcemap --target=browser --minify --define:process.env.NODE_ENV='\"production\"' --env='BUN_PUBLIC_*'",
+    "start": "NODE_ENV=production bun src/server.ts",
+    "seed": "bun src/seed.ts",
+    "db:reset": "bun src/scripts/reset-db.ts",
+    "type-check": "tsc --noEmit",
+    "test": "bun run src/tests/test-integrations.ts"
+  },
+  "dependencies": {
+    "@stripe/react-stripe-js": "^3.9.0",
+    "@stripe/stripe-js": "^7.8.0",
+    "axios": "^1.11.0",
+    "bcryptjs": "^3.0.2",
+    "concurrently": "^9.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "express-rate-limit": "^8.0.1",
+    "express-validator": "^7.2.1",
+    "helmet": "^8.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "^1.10.1",
+    "nodemon": "^3.1.10",
+    "pg": "^8.16.3",
+    "pg-hstore": "^2.3.4",
+    "react": "^19",
+    "react-dom": "^19",
+    "sequelize": "^6.37.7",
+    "stripe": "^18.4.0"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.3",
+    "@types/node": "^24.1.0",
+    "@types/pg": "^8.15.5",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "tsx": "^4.20.3",
+    "typescript": "^5.9.2"
+  }
+}
