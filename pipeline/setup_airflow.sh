@@ -5,38 +5,22 @@
 echo "Setting up Airflow for Shopify data pipeline..."
 
 # Create virtual environment if it doesn't exist
-if [ ! -d "venv" ]; then
+if [ ! -d "../env" ]; then
     echo "Creating virtual environment..."
-    python3 -m venv venv
+    python3 -m venv ../env
 fi
 
 # Activate virtual environment
-source venv/bin/activate
+echo "Activating virtual environment..."
+source ../env/bin/activate
 
 # Install requirements
 echo "Installing requirements..."
-pip install -r requirements.txt
+pip install -r ../requirements.txt
 
 # Initialize Airflow database
 echo "Initializing Airflow database..."
-airflow db init
-
-# Create admin user
-echo "Creating Airflow admin user..."
-airflow users create \
-    --username admin \
-    --firstname Admin \
-    --lastname User \
-    --role Admin \
-    --email admin@example.com \
-    --password admin
-
-# Set environment variables
-echo "Setting up environment variables..."
-if [ ! -f ".env" ]; then
-    cp env.example .env
-    echo "Please edit .env file with your Shopify credentials"
-fi
+airflow db migrate
 
 echo "Airflow setup complete!"
 echo "To start Airflow webserver: airflow webserver --port 8080"

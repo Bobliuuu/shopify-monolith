@@ -1,0 +1,28 @@
+# Kubernetes resources for local debug of the Shopify DAG
+# - Namespace: shopify-debug
+# - PVC: shopify-duckdb-pvc (1Gi, RWO)
+#
+# Apply with:
+#   kubectl apply -f pipeline/k8/debug_resources.yaml
+#
+# Notes:
+# - Relies on a default StorageClass in the cluster (Minikube typically provides "standard").
+# - If your cluster lacks a default StorageClass, set one or add `storageClassName` below.
+
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: shopify-debug
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: shopify-duckdb-pvc
+  namespace: shopify-debug
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 1Gi
+  # storageClassName: standard  # uncomment if you want to reference a specific StorageClass 

@@ -1,0 +1,110 @@
+Started GET "/" for ::1 at 2025-08-04 02:49:30 -0400
+  [1m[35m (1.5ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY) /*application='ShopifyApi'*/[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL) /*application='ShopifyApi'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='ShopifyApi'*/[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /opt/homebrew/lib/ruby/gems/3.4.0/gems/railties-8.0.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /opt/homebrew/lib/ruby/gems/3.4.0/gems/railties-8.0.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.8ms | GC: 0.0ms)
+Completed 200 OK in 24ms (Views: 5.5ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for ::1 at 2025-08-04 02:49:32 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /opt/homebrew/lib/ruby/gems/3.4.0/gems/railties-8.0.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /opt/homebrew/lib/ruby/gems/3.4.0/gems/railties-8.0.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | GC: 0.0ms)
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/icon.png" for ::1 at 2025-08-04 02:49:33 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/icon.png"):
+  
+Started GET "/products" for 127.0.0.1 at 2025-08-04 02:49:43 -0400
+Processing by ProductController#index as */*
+Failed to fetch products from Shopify: {"errors":"[API] Invalid API key or access token (unrecognized login or wrong password)","error_reference":"If you report this error, please include this id: 17959803-3356-41d9-8ca2-41c369a81964-1754290183."}
+Completed 500 Internal Server Error in 319ms (Views: 0.3ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2025-08-04 02:50:40 -0400
+Processing by ProductController#index as */*
+Failed to fetch products from Shopify: {"errors":"[API] Invalid API key or access token (unrecognized login or wrong password)","error_reference":"If you report this error, please include this id: dedb9a39-3f8b-40c7-a650-0475be18fcb5-1754290240."}
+Completed 500 Internal Server Error in 168ms (Views: 2.8ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2025-08-04 02:51:06 -0400
+Processing by ProductController#index as */*
+Fetched 17 products from Shopify
+Products: Gift Card, Selling Plans Ski Wax, The 3p Fulfilled Snowboard, The Archived Snowboard, The Collection Snowboard: Hydrogen, The Collection Snowboard: Liquid, The Collection Snowboard: Oxygen, The Compare at Price Snowboard, The Complete Snowboard, The Draft Snowboard, The Hidden Snowboard, The Inventory Not Tracked Snowboard, The Minimal Snowboard, The Multi-location Snowboard, The Multi-managed Snowboard, The Out of Stock Snowboard, The Videographer Snowboard
+Completed 200 OK in 226ms (Views: 2.1ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2025-08-04 02:51:21 -0400
+Processing by ProductController#index as */*
+Fetched 17 products from Shopify
+Products: Gift Card, Selling Plans Ski Wax, The 3p Fulfilled Snowboard, The Archived Snowboard, The Collection Snowboard: Hydrogen, The Collection Snowboard: Liquid, The Collection Snowboard: Oxygen, The Compare at Price Snowboard, The Complete Snowboard, The Draft Snowboard, The Hidden Snowboard, The Inventory Not Tracked Snowboard, The Minimal Snowboard, The Multi-location Snowboard, The Multi-managed Snowboard, The Out of Stock Snowboard, The Videographer Snowboard
+Completed 200 OK in 227ms (Views: 1.4ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for ::1 at 2025-08-04 13:50:52 -0400
+  
+LoadError (cannot load such file -- /Users/jhome/Documents/GitHub/shopify-monolith/shopify-api/config/routes.rb):
+  
+railties (8.0.2) lib/rails/application/routes_reloader.rb:64:in 'Kernel#load'
+railties (8.0.2) lib/rails/application/routes_reloader.rb:64:in 'block in Rails::Application::RoutesReloader#load_paths'
+railties (8.0.2) lib/rails/application/routes_reloader.rb:64:in 'Array#each'
+railties (8.0.2) lib/rails/application/routes_reloader.rb:64:in 'Rails::Application::RoutesReloader#load_paths'
+railties (8.0.2) lib/rails/application/routes_reloader.rb:25:in 'Rails::Application::RoutesReloader#reload!'
+railties (8.0.2) lib/rails/application/routes_reloader.rb:52:in 'block in Rails::Application::RoutesReloader#updater'
+activesupport (8.0.2) lib/active_support/file_update_checker.rb:85:in 'ActiveSupport::FileUpdateChecker#execute'
+railties (8.0.2) lib/rails/application/routes_reloader.rb:34:in 'Rails::Application::RoutesReloader#execute'
+railties (8.0.2) lib/rails/application/finisher.rb:175:in 'block (2 levels) in <module:Finisher>'
+activesupport (8.0.2) lib/active_support/callbacks.rb:406:in 'BasicObject#instance_exec'
+activesupport (8.0.2) lib/active_support/callbacks.rb:406:in 'block in ActiveSupport::Callbacks::CallTemplate::InstanceExec0#make_lambda'
+activesupport (8.0.2) lib/active_support/callbacks.rb:178:in 'block in ActiveSupport::Callbacks::Filters::Before#call'
+activesupport (8.0.2) lib/active_support/callbacks.rb:668:in 'block (2 levels) in ActiveSupport::Callbacks::CallbackChain#default_terminator'
+activesupport (8.0.2) lib/active_support/callbacks.rb:667:in 'Kernel#catch'
+activesupport (8.0.2) lib/active_support/callbacks.rb:667:in 'block in ActiveSupport::Callbacks::CallbackChain#default_terminator'
+activesupport (8.0.2) lib/active_support/callbacks.rb:179:in 'ActiveSupport::Callbacks::Filters::Before#call'
+activesupport (8.0.2) lib/active_support/callbacks.rb:559:in 'block in ActiveSupport::Callbacks::CallbackSequence#invoke_before'
+activesupport (8.0.2) lib/active_support/callbacks.rb:559:in 'Array#each'
+activesupport (8.0.2) lib/active_support/callbacks.rb:559:in 'ActiveSupport::Callbacks::CallbackSequence#invoke_before'
+activesupport (8.0.2) lib/active_support/callbacks.rb:108:in 'ActiveSupport::Callbacks#run_callbacks'
+activesupport (8.0.2) lib/active_support/execution_wrapper.rb:128:in 'ActiveSupport::ExecutionWrapper#run'
+activesupport (8.0.2) lib/active_support/execution_wrapper.rb:124:in 'ActiveSupport::ExecutionWrapper#run!'
+activesupport (8.0.2) lib/active_support/reloader.rb:122:in 'ActiveSupport::Reloader#run!'
+activesupport (8.0.2) lib/active_support/execution_wrapper.rb:77:in 'block in ActiveSupport::ExecutionWrapper.run!'
+<internal:kernel>:91:in 'Kernel#tap'
+activesupport (8.0.2) lib/active_support/execution_wrapper.rb:74:in 'ActiveSupport::ExecutionWrapper.run!'
+activesupport (8.0.2) lib/active_support/reloader.rb:64:in 'ActiveSupport::Reloader.run!'
+actionpack (8.0.2) lib/action_dispatch/middleware/executor.rb:14:in 'ActionDispatch::Executor#call'
+actionpack (8.0.2) lib/action_dispatch/middleware/actionable_exceptions.rb:18:in 'ActionDispatch::ActionableExceptions#call'
+actionpack (8.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:31:in 'ActionDispatch::DebugExceptions#call'
+actionpack (8.0.2) lib/action_dispatch/middleware/show_exceptions.rb:32:in 'ActionDispatch::ShowExceptions#call'
+railties (8.0.2) lib/rails/rack/logger.rb:41:in 'Rails::Rack::Logger#call_app'
+railties (8.0.2) lib/rails/rack/logger.rb:29:in 'Rails::Rack::Logger#call'
+actionpack (8.0.2) lib/action_dispatch/middleware/remote_ip.rb:96:in 'ActionDispatch::RemoteIp#call'
+actionpack (8.0.2) lib/action_dispatch/middleware/request_id.rb:34:in 'ActionDispatch::RequestId#call'
+rack (3.2.0) lib/rack/runtime.rb:24:in 'Rack::Runtime#call'
+actionpack (8.0.2) lib/action_dispatch/middleware/server_timing.rb:61:in 'block in ActionDispatch::ServerTiming#call'
+actionpack (8.0.2) lib/action_dispatch/middleware/server_timing.rb:26:in 'ActionDispatch::ServerTiming::Subscriber#collect_events'
+actionpack (8.0.2) lib/action_dispatch/middleware/server_timing.rb:60:in 'ActionDispatch::ServerTiming#call'
+actionpack (8.0.2) lib/action_dispatch/middleware/executor.rb:16:in 'ActionDispatch::Executor#call'
+actionpack (8.0.2) lib/action_dispatch/middleware/static.rb:27:in 'ActionDispatch::Static#call'
+rack (3.2.0) lib/rack/sendfile.rb:114:in 'Rack::Sendfile#call'
+actionpack (8.0.2) lib/action_dispatch/middleware/host_authorization.rb:143:in 'ActionDispatch::HostAuthorization#call'
+railties (8.0.2) lib/rails/engine.rb:535:in 'Rails::Engine#call'
+puma (6.6.1) lib/puma/configuration.rb:279:in 'Puma::Configuration::ConfigMiddleware#call'
+puma (6.6.1) lib/puma/request.rb:99:in 'block in Puma::Request#handle_request'
+puma (6.6.1) lib/puma/thread_pool.rb:390:in 'Puma::ThreadPool#with_force_shutdown'
+puma (6.6.1) lib/puma/request.rb:98:in 'Puma::Request#handle_request'
+puma (6.6.1) lib/puma/server.rb:472:in 'Puma::Server#process_client'
+puma (6.6.1) lib/puma/server.rb:254:in 'block in Puma::Server#run'
+puma (6.6.1) lib/puma/thread_pool.rb:167:in 'block in Puma::ThreadPool#spawn_thread'
+Started GET "/" for ::1 at 2025-08-04 13:53:50 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/"):
+  
+Started GET "/" for ::1 at 2025-08-09 03:34:54 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/"):
+  

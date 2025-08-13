@@ -1,251 +1,157 @@
-"""
-Airflow DAG for Shopify Products Data Ingestion
-
-This DAG extracts product data from Shopify API and loads it into DuckDB.
-"""
-
+from __future__ import annotations
 from datetime import datetime, timedelta
+from pathlib import Path
+import os
+import sys
+
 from airflow import DAG
 from airflow.operators.python import PythonOperator
-from airflow.providers.http.operators.http import SimpleHttpOperator
-from airflow.providers.sqlite.operators.sqlite import SqliteOperator
-import json
-import requests
-import duckdb
-import os
-from typing import Dict, List, Any
+from airflow.operators.bash import BashOperator
+from airflow.operators.empty import EmptyOperator
+from airflow.providers.cncf.kubernetes.operators.pod import KubernetesPodOperator
+from kubernetes.client import models as k8s
 
-# Default arguments for the DAG
+# --- Paths --------------------------------------------------------------------
+HERE = Path(__file__).resolve().parent
+PIPELINE_ROOT = HERE.parent  # ../
+DATA_ROOT = PIPELINE_ROOT.parent  # ../../
+DLT_ROOT = HERE.parent.parent / "dlt"  # ../../dlt
+
+# Add project dirs to PYTHONPATH so imports work when Airflow parses the DAG
+for p in (PIPELINE_ROOT, DLT_ROOT):
+    p_str = str(p)
+    if p_str not in sys.path:
+        sys.path.append(p_str)
+
+# --- Config -------------------------------------------------------------------
 default_args = {
-    'owner': 'data_team',
-    'depends_on_past': False,
-    'start_date': datetime(2024, 1, 1),
-    'email_on_failure': False,
-    'email_on_retry': False,
-    'retries': 1,
-    'retry_delay': timedelta(minutes=5),
+    "owner": "airflow",
+    "depends_on_past": False,
+    "start_date": datetime(2024, 1, 1),
+    "email_on_failure": False,
+    "email_on_retry": False,
+    "retries": 1,
+    "retry_delay": timedelta(minutes=5),
 }
 
-# DAG definition
-dag = DAG(
-    'shopify_products_ingestion',
+# Execution mode flags
+DEBUG_MODE = True      # True -> generate dummy data with SDV; False -> run DLT pipeline
+K8_MODE = True       # True -> run in Kubernetes pod; False -> run locally
+
+# --- Callables ----------------------------------------------------------------
+def generate_dummy_data():
+    """Generate dummy Shopify product data using SDV."""
+    from synthetic_data_generator import generate_synthetic_data, save_synthetic_data_to_duckdb
+
+    tables = ["shopify.products"]
+    db_path = str(DATA_ROOT / "data.duckdb")
+
+    synthetic_data = generate_synthetic_data(
+        tables=tables,
+        db_path=db_path,
+        num_rows=1000,
+    )
+
+    save_synthetic_data_to_duckdb(
+        synthetic_data=synthetic_data,
+        db_path=db_path,
+        replace_existing=True,
+    )
+    print("✅ Generated and saved synthetic Shopify products data")
+
+def run_dlt_pipeline():
+    """Run the DLT Shopify pipeline."""
+    from pipelines.run_shopify_pipeline import run
+    run()
+
+# --- DAG ----------------------------------------------------------------------
+with DAG(
+    dag_id="shopify_products_dag",
+    description="Shopify products pipeline (debug uses SDV; prod runs DLT; k8 runs in Kubernetes)",
     default_args=default_args,
-    description='Extract Shopify products and load into DuckDB',
-    schedule_interval='0 2 * * *',  # Daily at 2 AM
+    schedule=timedelta(days=1),
     catchup=False,
-    tags=['shopify', 'products', 'etl'],
-)
+    tags=["shopify", "dlt", "sdv", "kubernetes"],
+) as dag:
 
-def get_shopify_products(**context) -> List[Dict[str, Any]]:
-    """
-    Extract products from Shopify API
-    """
-    import os
-    
-    # Get Shopify credentials from environment variables
-    shopify_domain = os.getenv('SHOPIFY_DOMAIN')
-    access_token = os.getenv('SHOPIFY_ACCESS_TOKEN')
-    
-    if not shopify_domain or not access_token:
-        raise ValueError("SHOPIFY_DOMAIN and SHOPIFY_ACCESS_TOKEN must be set")
-    
-    headers = {
-        'X-Shopify-Access-Token': access_token,
-        'Content-Type': 'application/json'
-    }
-    
-    products = []
-    page_info = None
-    
-    while True:
-        url = f"https://{shopify_domain}/admin/api/2024-01/products.json"
-        params = {'limit': 250}  # Maximum allowed by Shopify
-        
-        if page_info:
-            params['page_info'] = page_info
-            
-        response = requests.get(url, headers=headers, params=params)
-        response.raise_for_status()
-        
-        data = response.json()
-        products.extend(data.get('products', []))
-        
-        # Check for next page
-        link_header = response.headers.get('Link', '')
-        if 'rel="next"' not in link_header:
-            break
-            
-        # Extract page_info from Link header
-        import re
-        next_match = re.search(r'<[^>]*page_info=([^&>]+)[^>]*>; rel="next"', link_header)
-        if next_match:
-            page_info = next_match.group(1)
+    start = EmptyOperator(task_id="start")
+
+    if K8_MODE:
+        # Kubernetes mode: Run specific Python files in isolated pods
+        if DEBUG_MODE:
+            # K8 + Debug: Generate dummy data using synthetic_data_generator_k8.py
+            generate_data_k8 = KubernetesPodOperator(
+                task_id="generate_dummy_data_k8",
+                namespace="default",
+                image="python:3.11-slim",
+                cmds=["bash", "-c"],
+                arguments=[
+                    """
+                    pip install -r /opt/airflow/dags/../requirements.txt &&
+                    python /opt/airflow/dags/synthetic_data_generator_k8.py
+                    """
+                ],
+                volumes=[
+                    k8s.V1Volume(
+                        name="dags-volume",
+                        persistent_volume_claim=k8s.V1PersistentVolumeClaimVolumeSource(
+                            claim_name="airflow-dags-pvc"
+                        )
+                    )
+                ],
+                volume_mounts=[
+                    k8s.V1VolumeMount(
+                        name="dags-volume",
+                        mount_path="/opt/airflow/dags"
+                    )
+                ],
+                get_logs=True,
+                is_delete_operator_pod=True,
+            )
+            start >> generate_data_k8
         else:
-            break
-    
-    # Push to XCom for next task
-    context['task_instance'].xcom_push(key='products_data', value=products)
-    return products
+            # K8 + Production: Run DLT pipeline using run_shopify_pipeline.py
+            run_pipeline_k8 = KubernetesPodOperator(
+                task_id="run_dlt_pipeline_k8",
+                namespace="default",
+                image="python:3.11-slim",
+                cmds=["bash", "-c"],
+                arguments=[
+                    """
+                    pip install -r /opt/airflow/dags/../requirements.txt &&
+                    python /opt/airflow/dags/run_shopify_pipeline.py
+                    """
+                ],
+                volumes=[
+                    k8s.V1Volume(
+                        name="dags-volume",
+                        persistent_volume_claim=k8s.V1PersistentVolumeClaimVolumeSource(
+                            claim_name="airflow-dags-pvc"
+                        )
+                    )
+                ],
+                volume_mounts=[
+                    k8s.V1VolumeMount(
+                        name="dags-volume",
+                        mount_path="/opt/airflow/dags"
+                    )
+                ],
+                get_logs=True,
+                is_delete_operator_pod=True,
+            )
+            start >> run_pipeline_k8
 
-def transform_shopify_products(**context) -> List[Dict[str, Any]]:
-    """
-    Transform Shopify products data
-    """
-    products = context['task_instance'].xcom_pull(task_ids='extract_products', key='products_data')
-    
-    transformed_products = []
-    
-    for product in products:
-        # Flatten and transform the product data
-        transformed_product = {
-            'id': product.get('id'),
-            'title': product.get('title'),
-            'body_html': product.get('body_html'),
-            'vendor': product.get('vendor'),
-            'product_type': product.get('product_type'),
-            'created_at': product.get('created_at'),
-            'handle': product.get('handle'),
-            'updated_at': product.get('updated_at'),
-            'published_at': product.get('published_at'),
-            'template_suffix': product.get('template_suffix'),
-            'status': product.get('status'),
-            'published_scope': product.get('published_scope'),
-            'admin_graphql_api_id': product.get('admin_graphql_api_id'),
-            'tags': product.get('tags'),
-            'total_inventory': product.get('total_inventory', 0),
-            'total_variants': len(product.get('variants', [])),
-            'total_images': len(product.get('images', [])),
-            'total_options': len(product.get('options', [])),
-            'extraction_timestamp': datetime.now().isoformat()
-        }
-        
-        # Add variant information
-        variants = product.get('variants', [])
-        for variant in variants:
-            variant_data = transformed_product.copy()
-            variant_data.update({
-                'variant_id': variant.get('id'),
-                'variant_title': variant.get('title'),
-                'variant_sku': variant.get('sku'),
-                'variant_price': variant.get('price'),
-                'variant_compare_at_price': variant.get('compare_at_price'),
-                'variant_inventory_quantity': variant.get('inventory_quantity'),
-                'variant_inventory_management': variant.get('inventory_management'),
-                'variant_inventory_policy': variant.get('inventory_policy'),
-                'variant_fulfillment_service': variant.get('fulfillment_service'),
-                'variant_taxable': variant.get('taxable'),
-                'variant_barcode': variant.get('barcode'),
-                'variant_grams': variant.get('grams'),
-                'variant_weight': variant.get('weight'),
-                'variant_weight_unit': variant.get('weight_unit'),
-                'variant_requires_shipping': variant.get('requires_shipping'),
-                'variant_tax_code': variant.get('tax_code'),
-                'variant_position': variant.get('position'),
-                'variant_option1': variant.get('option1'),
-                'variant_option2': variant.get('option2'),
-                'variant_option3': variant.get('option3'),
-            })
-            transformed_products.append(variant_data)
-    
-    # Push transformed data to XCom
-    context['task_instance'].xcom_push(key='transformed_products', value=transformed_products)
-    return transformed_products
-
-def load_to_duckdb(**context):
-    """
-    Load transformed products data into DuckDB
-    """
-    import os
-    
-    transformed_products = context['task_instance'].xcom_pull(
-        task_ids='transform_products', 
-        key='transformed_products'
-    )
-    
-    # Connect to DuckDB
-    db_path = os.path.join(os.getcwd(), 'data', 'shopify_monolith.duckdb')
-    conn = duckdb.connect(db_path)
-    
-    # Create table if not exists
-    create_table_sql = """
-    CREATE TABLE IF NOT EXISTS shopify_products (
-        id BIGINT,
-        title VARCHAR,
-        body_html TEXT,
-        vendor VARCHAR,
-        product_type VARCHAR,
-        created_at TIMESTAMP,
-        handle VARCHAR,
-        updated_at TIMESTAMP,
-        published_at TIMESTAMP,
-        template_suffix VARCHAR,
-        status VARCHAR,
-        published_scope VARCHAR,
-        admin_graphql_api_id VARCHAR,
-        tags VARCHAR,
-        total_inventory INTEGER,
-        total_variants INTEGER,
-        total_images INTEGER,
-        total_options INTEGER,
-        extraction_timestamp TIMESTAMP,
-        variant_id BIGINT,
-        variant_title VARCHAR,
-        variant_sku VARCHAR,
-        variant_price DECIMAL(10,2),
-        variant_compare_at_price DECIMAL(10,2),
-        variant_inventory_quantity INTEGER,
-        variant_inventory_management VARCHAR,
-        variant_inventory_policy VARCHAR,
-        variant_fulfillment_service VARCHAR,
-        variant_taxable BOOLEAN,
-        variant_barcode VARCHAR,
-        variant_grams INTEGER,
-        variant_weight DECIMAL(10,2),
-        variant_weight_unit VARCHAR,
-        variant_requires_shipping BOOLEAN,
-        variant_tax_code VARCHAR,
-        variant_position INTEGER,
-        variant_option1 VARCHAR,
-        variant_option2 VARCHAR,
-        variant_option3 VARCHAR
-    )
-    """
-    
-    conn.execute(create_table_sql)
-    
-    # Insert data
-    if transformed_products:
-        # Convert to DataFrame for easier insertion
-        import pandas as pd
-        df = pd.DataFrame(transformed_products)
-        
-        # Insert with replace to handle duplicates
-        conn.execute("DELETE FROM shopify_products WHERE extraction_timestamp = ?", 
-                    [transformed_products[0]['extraction_timestamp']])
-        
-        conn.execute("INSERT INTO shopify_products SELECT * FROM df")
-    
-    conn.close()
-    print(f"Loaded {len(transformed_products)} product records to DuckDB")
-
-# Task definitions
-extract_task = PythonOperator(
-    task_id='extract_products',
-    python_callable=get_shopify_products,
-    dag=dag,
-)
-
-transform_task = PythonOperator(
-    task_id='transform_products',
-    python_callable=transform_shopify_products,
-    dag=dag,
-)
-
-load_task = PythonOperator(
-    task_id='load_to_duckdb',
-    python_callable=load_to_duckdb,
-    dag=dag,
-)
-
-# Task dependencies
-extract_task >> transform_task >> load_task 
+    else:
+        # Local mode: Run in Airflow worker
+        if DEBUG_MODE:
+            generate_data = PythonOperator(
+                task_id="generate_dummy_data",
+                python_callable=generate_dummy_data,
+            )
+            start >> generate_data
+        else:
+            run_pipeline = PythonOperator(
+                task_id="run_dlt_pipeline",
+                python_callable=run_dlt_pipeline,
+            )
+            start >> run_pipeline
