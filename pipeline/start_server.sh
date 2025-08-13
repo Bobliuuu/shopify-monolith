@@ -2,6 +2,8 @@
 
 echo "🚀 Starting Airflow services in separate windows..."
 
+airflow db migrate
+
 # Get the current directory
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 

@@ -1,9 +1,12 @@
 apache-airflow
-apache-airflow-providers-http=
-apache-airflow-providers-ducdb
+airflow-provider-duckdb
+apache-airflow-providers-cncf-kubernetes
 duckdb
 dbt-duckdb
 pandas
 requests
 python-dotenv
-pyarrow
+dlt
+sdv
+rdt
+python-dateutil
