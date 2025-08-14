@@ -2481,3 +2481,140 @@ alter table "shopify_monolith"."main_dev"."fct_shopify_transactions__dbt_tmp" re
 [0m19:25:25.478207 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10976be30>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1096b6c00>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1096b6de0>]}
 [0m19:25:25.478415 [debug] [MainThread]: Flushing usage events
 [0m19:25:25.712554 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m19:31:00.671856 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B544AAE4A0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B545BA21A0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B545BA1FC0>]}
+
+
+============================== 19:31:00.680872 | 989cfda3-6320-4785-b1d6-8366743feaac ==============================
+[0m19:31:00.680872 [info ] [MainThread]: Running with dbt=1.9.6
+[0m19:31:00.682871 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': 'C:\\Users\\Nitpreet Bamra\\Desktop\\shopify-monolith\\shopify-monolith\\data', 'fail_fast': 'False', 'debug': 'False', 'log_path': 'C:\\Users\\Nitpreet Bamra\\Desktop\\shopify-monolith\\shopify-monolith\\data\\logs', 'warn_error': 'None', 'version_check': 'True', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'empty': 'False', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'static_parser': 'True', 'invocation_command': 'dbt run -s fct_shopify_transactions', 'introspect': 'True', 'target_path': 'None', 'log_format': 'default', 'send_anonymous_usage_stats': 'True'}
+[0m19:31:00.691881 [info ] [MainThread]: Error importing adapter: No module named 'dbt.adapters.duckdb'
+[0m19:31:00.693869 [error] [MainThread]: Encountered an error:
+Runtime Error
+  Credentials in profile "shopify_monolith", target "dev" invalid: Runtime Error
+    Could not find adapter type duckdb!
+[0m19:31:00.696872 [debug] [MainThread]: Command `dbt run` failed at 19:31:00.695872 after 0.20 seconds
+[0m19:31:00.697868 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B544AAE4A0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B545BA3130>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B545BA3250>]}
+[0m19:31:00.698875 [debug] [MainThread]: Flushing usage events
+[0m19:31:00.902379 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m19:32:49.114862 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022996E7E590>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022997F72290>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022997F720B0>]}
+
+
+============================== 19:32:49.114862 | c810fc1f-2bd3-4007-8533-381a47b61373 ==============================
+[0m19:32:49.114862 [info ] [MainThread]: Running with dbt=1.9.6
+[0m19:32:49.114862 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'fail_fast': 'False', 'debug': 'False', 'log_path': 'C:\\Users\\Nitpreet Bamra\\Desktop\\shopify-monolith\\shopify-monolith\\data\\logs', 'profiles_dir': 'C:\\Users\\Nitpreet Bamra\\Desktop\\shopify-monolith\\shopify-monolith\\data', 'version_check': 'True', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'empty': 'False', 'log_format': 'default', 'invocation_command': 'dbt run -s fct_shopify_transactions', 'introspect': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'target_path': 'None', 'static_parser': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m19:32:50.005165 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': 'c810fc1f-2bd3-4007-8533-381a47b61373', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000229947AA1A0>]}
+[0m19:32:50.121726 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': 'c810fc1f-2bd3-4007-8533-381a47b61373', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002299809F340>]}
+[0m19:32:50.154871 [info ] [MainThread]: Registered adapter: duckdb=1.9.4
+[0m19:32:50.890239 [debug] [MainThread]: checksum: dd6dc1e5178459e3de3bf2eeb7c86bed4be2266c311fce8c15d86eb4ff94e7ad, vars: {}, profile: , target: , version: 1.9.6
+[0m19:32:51.109599 [info ] [MainThread]: Unable to do partial parsing because of a version mismatch
+[0m19:32:51.109599 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'partial_parser', 'label': 'c810fc1f-2bd3-4007-8533-381a47b61373', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000229978DF640>]}
+[0m19:32:55.270153 [error] [MainThread]: Encountered an error:
+Compilation Error
+  dbt found two schema.yml entries for the same resource named fct_shopify_transactions. Resources and their associated columns may only be described a single time. To fix this, remove the resource entry for fct_shopify_transactions in one of these files:
+   - models\marts\shopify_marts.yml
+  models\shopify_marts.yml
+[0m19:32:55.286195 [debug] [MainThread]: Command `dbt run` failed at 19:32:55.286195 after 6.32 seconds
+[0m19:32:55.286195 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022996E7E590>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002299982FBB0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002299982DC90>]}
+[0m19:32:55.286195 [debug] [MainThread]: Flushing usage events
+[0m19:32:55.518913 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m00:09:15.616854 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023A1177E5C0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023A128622F0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023A12862110>]}
+
+
+============================== 00:09:15.628348 | 1c6f537f-93f4-4ab6-8d7e-17340a3e745d ==============================
+[0m00:09:15.628348 [info ] [MainThread]: Running with dbt=1.9.6
+[0m00:09:15.630686 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'fail_fast': 'False', 'profiles_dir': 'C:\\Users\\Nitpreet Bamra\\Desktop\\shopify-monolith\\shopify-monolith\\data', 'log_path': 'C:\\Users\\Nitpreet Bamra\\Desktop\\shopify-monolith\\shopify-monolith\\data\\logs', 'debug': 'False', 'version_check': 'True', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'False', 'quiet': 'False', 'no_print': 'None', 'log_format': 'default', 'introspect': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'static_parser': 'True', 'target_path': 'None', 'invocation_command': 'dbt run -s shopify_customers_base', 'send_anonymous_usage_stats': 'True'}
+[0m00:09:16.597784 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': '1c6f537f-93f4-4ab6-8d7e-17340a3e745d', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023A0F0AA1D0>]}
+[0m00:09:16.709246 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': '1c6f537f-93f4-4ab6-8d7e-17340a3e745d', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023A1297DAB0>]}
+[0m00:09:16.756849 [info ] [MainThread]: Registered adapter: duckdb=1.9.4
+[0m00:09:17.475144 [debug] [MainThread]: checksum: dd6dc1e5178459e3de3bf2eeb7c86bed4be2266c311fce8c15d86eb4ff94e7ad, vars: {}, profile: , target: , version: 1.9.6
+[0m00:09:17.690913 [info ] [MainThread]: Unable to do partial parsing because of a version mismatch
+[0m00:09:17.692531 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'partial_parser', 'label': '1c6f537f-93f4-4ab6-8d7e-17340a3e745d', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023A121E3670>]}
+[0m00:09:22.047128 [error] [MainThread]: Encountered an error:
+Compilation Error
+  dbt found two schema.yml entries for the same resource named fct_shopify_transactions. Resources and their associated columns may only be described a single time. To fix this, remove the resource entry for fct_shopify_transactions in one of these files:
+   - models\marts\shopify_marts.yml
+  models\shopify_marts.yml
+[0m00:09:22.049672 [debug] [MainThread]: Command `dbt run` failed at 00:09:22.049672 after 6.64 seconds
+[0m00:09:22.051034 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023A1177E5C0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023A13F9C0D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023A140F0700>]}
+[0m00:09:22.052045 [debug] [MainThread]: Flushing usage events
+[0m00:09:22.354248 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m00:09:56.607785 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000010709BFE590>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001070BCB2320>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001070BCB2140>]}
+
+
+============================== 00:09:56.616091 | 1de614f6-c0d8-413b-97ea-53451e291021 ==============================
+[0m00:09:56.616091 [info ] [MainThread]: Running with dbt=1.9.6
+[0m00:09:56.618095 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'fail_fast': 'False', 'debug': 'False', 'log_path': 'C:\\Users\\Nitpreet Bamra\\Desktop\\shopify-monolith\\shopify-monolith\\data\\logs', 'profiles_dir': 'C:\\Users\\Nitpreet Bamra\\Desktop\\shopify-monolith\\shopify-monolith\\data', 'version_check': 'True', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'False', 'quiet': 'False', 'no_print': 'None', 'log_format': 'default', 'static_parser': 'True', 'introspect': 'True', 'invocation_command': 'dbt run -s shopify_customers_base', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'send_anonymous_usage_stats': 'True'}
+[0m00:09:57.147849 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': '1de614f6-c0d8-413b-97ea-53451e291021', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000010708D2A1A0>]}
+[0m00:09:57.260510 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': '1de614f6-c0d8-413b-97ea-53451e291021', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000010709037580>]}
+[0m00:09:57.275103 [info ] [MainThread]: Registered adapter: duckdb=1.9.4
+[0m00:09:57.708918 [debug] [MainThread]: checksum: dd6dc1e5178459e3de3bf2eeb7c86bed4be2266c311fce8c15d86eb4ff94e7ad, vars: {}, profile: , target: , version: 1.9.6
+[0m00:09:57.908900 [info ] [MainThread]: Unable to do partial parsing because of a version mismatch
+[0m00:09:57.910378 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'partial_parser', 'label': '1de614f6-c0d8-413b-97ea-53451e291021', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001070B633640>]}
+[0m00:10:00.490005 [error] [MainThread]: Encountered an error:
+Compilation Error
+  dbt found two schema.yml entries for the same resource named shopify_transactions_base. Resources and their associated columns may only be described a single time. To fix this, remove the resource entry for shopify_transactions_base in one of these files:
+   - models\staging\shopify\base\shopify_base.yml
+  models\shopify_base.yml
+[0m00:10:00.493258 [debug] [MainThread]: Command `dbt run` failed at 00:10:00.493258 after 4.06 seconds
+[0m00:10:00.495257 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000010709BFE590>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001070D621C90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001070D621D20>]}
+[0m00:10:00.496258 [debug] [MainThread]: Flushing usage events
+[0m00:10:00.742441 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m00:10:19.703726 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002B24B30E590>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002B24C3F2320>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002B24C3F2140>]}
+
+
+============================== 00:10:19.711982 | cca17e29-75b1-4426-8866-10ca8d866ff5 ==============================
+[0m00:10:19.711982 [info ] [MainThread]: Running with dbt=1.9.6
+[0m00:10:19.713976 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'fail_fast': 'False', 'debug': 'False', 'log_path': 'C:\\Users\\Nitpreet Bamra\\Desktop\\shopify-monolith\\shopify-monolith\\data\\logs', 'version_check': 'True', 'profiles_dir': 'C:\\Users\\Nitpreet Bamra\\Desktop\\shopify-monolith\\shopify-monolith\\data', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'False', 'quiet': 'False', 'no_print': 'None', 'log_format': 'default', 'static_parser': 'True', 'introspect': 'True', 'invocation_command': 'dbt run -s shopify_customers_base', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'send_anonymous_usage_stats': 'True'}
+[0m00:10:20.241710 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': 'cca17e29-75b1-4426-8866-10ca8d866ff5', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002B24947A1A0>]}
+[0m00:10:20.354836 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': 'cca17e29-75b1-4426-8866-10ca8d866ff5', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002B249787580>]}
+[0m00:10:20.369097 [info ] [MainThread]: Registered adapter: duckdb=1.9.4
+[0m00:10:20.844534 [debug] [MainThread]: checksum: dd6dc1e5178459e3de3bf2eeb7c86bed4be2266c311fce8c15d86eb4ff94e7ad, vars: {}, profile: , target: , version: 1.9.6
+[0m00:10:21.032083 [info ] [MainThread]: Unable to do partial parsing because of a version mismatch
+[0m00:10:21.034093 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'partial_parser', 'label': 'cca17e29-75b1-4426-8866-10ca8d866ff5', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002B24BD73640>]}
+[0m00:10:23.507726 [error] [MainThread]: Encountered an error:
+Compilation Error
+  dbt found two schema.yml entries for the same resource named shopify_inventory_base. Resources and their associated columns may only be described a single time. To fix this, remove one of the resource entries for shopify_inventory_base in this file:
+   - models\staging\shopify\base\shopify_base.yml
+  
+[0m00:10:23.511221 [debug] [MainThread]: Command `dbt run` failed at 00:10:23.510725 after 3.96 seconds
+[0m00:10:23.512297 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002B24B30E590>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002B24DD41150>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002B24DD41210>]}
+[0m00:10:23.513294 [debug] [MainThread]: Flushing usage events
+[0m00:10:23.775164 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m00:11:42.448521 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001833F42E590>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000183414E2320>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000183414E2140>]}
+
+
+============================== 00:11:42.456914 | 06f6f439-5a88-4f50-97b9-5771890e55b5 ==============================
+[0m00:11:42.456914 [info ] [MainThread]: Running with dbt=1.9.6
+[0m00:11:42.458914 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': 'C:\\Users\\Nitpreet Bamra\\Desktop\\shopify-monolith\\shopify-monolith\\data', 'version_check': 'True', 'fail_fast': 'False', 'log_path': 'C:\\Users\\Nitpreet Bamra\\Desktop\\shopify-monolith\\shopify-monolith\\data\\logs', 'debug': 'False', 'warn_error': 'None', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'False', 'quiet': 'False', 'no_print': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'static_parser': 'True', 'log_format': 'default', 'invocation_command': 'dbt run -s shopify_customers_base', 'target_path': 'None', 'introspect': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m00:11:42.994064 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': '06f6f439-5a88-4f50-97b9-5771890e55b5', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001833DD1A1A0>]}
+[0m00:11:43.110117 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': '06f6f439-5a88-4f50-97b9-5771890e55b5', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001833E847580>]}
+[0m00:11:43.124621 [info ] [MainThread]: Registered adapter: duckdb=1.9.4
+[0m00:11:43.577103 [debug] [MainThread]: checksum: dd6dc1e5178459e3de3bf2eeb7c86bed4be2266c311fce8c15d86eb4ff94e7ad, vars: {}, profile: , target: , version: 1.9.6
+[0m00:11:43.765031 [info ] [MainThread]: Unable to do partial parsing because of a version mismatch
+[0m00:11:43.767777 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'partial_parser', 'label': '06f6f439-5a88-4f50-97b9-5771890e55b5', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000018340E63640>]}
+[0m00:11:46.536009 [error] [MainThread]: Encountered an error:
+Compilation Error
+  Model 'model.shopify_monolith.shopify_customers_base' (models\staging\shopify\base\shopify_customers_base.sql) depends on a source named 'shopify_customer.customers_table' which was not found
+[0m00:11:46.539084 [debug] [MainThread]: Command `dbt run` failed at 00:11:46.539084 after 4.25 seconds
+[0m00:11:46.540509 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001833F42E590>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000018340694910>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000018342BE9BA0>]}
+[0m00:11:46.541586 [debug] [MainThread]: Flushing usage events
+[0m00:11:46.752609 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m00:13:30.128350 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000254A243E5C0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000254A44F22F0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000254A44F2110>]}
+
+
+============================== 00:13:30.136070 | 1fbea5e5-01d1-4579-8e43-0230e5482a05 ==============================
+[0m00:13:30.136070 [info ] [MainThread]: Running with dbt=1.9.6
+[0m00:13:30.138094 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': 'C:\\Users\\Nitpreet Bamra\\Desktop\\shopify-monolith\\shopify-monolith\\data', 'debug': 'False', 'warn_error': 'None', 'log_path': 'C:\\Users\\Nitpreet Bamra\\Desktop\\shopify-monolith\\shopify-monolith\\data\\logs', 'version_check': 'True', 'fail_fast': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'False', 'quiet': 'False', 'no_print': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'static_parser': 'True', 'invocation_command': 'dbt run -s shopify_customers_base', 'introspect': 'True', 'target_path': 'None', 'log_format': 'default', 'send_anonymous_usage_stats': 'True'}
+[0m00:13:30.667857 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': '1fbea5e5-01d1-4579-8e43-0230e5482a05', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000254A153A1D0>]}
+[0m00:13:30.780997 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': '1fbea5e5-01d1-4579-8e43-0230e5482a05', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000254A4609AB0>]}
+[0m00:13:30.795502 [info ] [MainThread]: Registered adapter: duckdb=1.9.4
+[0m00:13:31.247637 [debug] [MainThread]: checksum: dd6dc1e5178459e3de3bf2eeb7c86bed4be2266c311fce8c15d86eb4ff94e7ad, vars: {}, profile: , target: , version: 1.9.6
+[0m00:13:31.437138 [info ] [MainThread]: Unable to do partial parsing because of a version mismatch
+[0m00:13:31.439516 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'partial_parser', 'label': '1fbea5e5-01d1-4579-8e43-0230e5482a05', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000254A3E6F670>]}
+[0m00:13:34.246352 [error] [MainThread]: Encountered an error:
+Compilation Error
+  Model 'model.shopify_monolith.shopify_customers_base' (models\staging\shopify\base\shopify_customers_base.sql) depends on a source named 'shopify_customer.customers_table' which was not found
+[0m00:13:34.249362 [debug] [MainThread]: Command `dbt run` failed at 00:13:34.249362 after 4.27 seconds
+[0m00:13:34.250360 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000254A243E5C0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000254A5D1E020>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000254A5D1FE50>]}
+[0m00:13:34.251651 [debug] [MainThread]: Flushing usage events
+[0m00:13:34.481747 [debug] [MainThread]: An error was encountered while trying to flush usage events
