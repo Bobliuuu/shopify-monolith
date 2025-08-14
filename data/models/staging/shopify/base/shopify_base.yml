@@ -214,4 +214,191 @@ models:
       - name: created_at
         description: "Timestamp when the record was created in your system"
       - name: updated_at
-        description: "Timestamp when the record was last updated"                           
+        description: "Timestamp when the record was last updated"
+  
+  - name: shopify_refunds_base
+    description: "Base model for Shopify refunds with raw refund-related data"
+    columns:
+      - name: id
+        description: "Primary key for the refund record"
+        tests:
+          - unique
+          - not_null
+      - name: created_at
+        description: "Timestamp when the refund record was created"
+      - name: duties
+        description: "JSON object containing refunded duties information"
+      - name: legacy_resource_id
+        description: "Classic numeric refund ID from Shopify REST API"
+      - name: note
+        description: "Optional note attached to the refund"
+      - name: order_id
+        description: "Shopify order ID associated with the refund"
+      - name: order_adjustments
+        description: "JSON array of adjustments applied to the order"
+      - name: refund_line_items
+        description: "JSON array of line items refunded"
+      - name: refund_shipping_lines
+        description: "JSON array of refunded shipping lines"
+      - name: return_id
+        description: "ID of the return record linked to the refund, if applicable"
+      - name: staff_member_id
+        description: "Shopify ID of the staff member who processed the refund"
+      - name: total_refunded_set
+        description: "Total amount refunded in shop currency"
+      - name: transactions
+        description: "JSON array of financial transactions related to the refund"
+      - name: updated_at
+        description: "Timestamp when the refund record was last updated"
+
+  - name: shopify_products_base
+    description: "Base model for Shopify products with raw product-level data"
+    columns:
+      - name: id
+        description: "Unique identifier (UUID) for the product"
+        tests:
+          - unique
+          - not_null
+      - name: bundle_components
+        description: "JSON object containing product bundle components"
+      - name: category
+        description: "JSON object with category details for the product"
+      - name: collections
+        description: "JSON array of collections the product belongs to"
+      - name: combined_listing
+        description: "JSON containing combined listing data"
+      - name: combined_listing_role
+        description: "Role of the product in a combined listing"
+      - name: compare_at_price_range
+        description: "JSON representing the product's compare-at price range"
+      - name: contextual_pricing
+        description: "JSON with contextual pricing details"
+      - name: created_at
+        description: "Timestamp when the product was created"
+      - name: default_cursor
+        description: "Default pagination cursor for the product"
+      - name: description
+        description: "Plain text product description"
+      - name: description_html
+        description: "HTML formatted product description"
+      - name: events
+        description: "JSON array of product-related events"
+      - name: featured_media
+        description: "JSON object for featured product media"
+      - name: feedback
+        description: "JSON containing product feedback details"
+      - name: gift_card_template_suffix
+        description: "Template suffix for gift card products"
+      - name: handle
+        description: "Human-readable handle used in product URLs"
+      - name: has_only_default_variant
+        description: "Boolean indicating if the product has only a default variant"
+      - name: has_out_of_stock_variants
+        description: "Boolean indicating if any variants are out of stock"
+      - name: has_variants_that_requires_components
+        description: "Boolean indicating if variants require components"
+      - name: in_collection
+        description: "Boolean indicating if the product belongs to a collection"
+      - name: is_gift_card
+        description: "Boolean indicating if the product is a gift card"
+      - name: legacy_resource_id
+        description: "Classic numeric product ID from Shopify REST API"
+      - name: media
+        description: "JSON array of media items for the product"
+      - name: media_count
+        description: "Number of media items associated with the product"
+      - name: metafield
+        description: "JSON object for a single metafield"
+      - name: metafields
+        description: "JSON array of metafields associated with the product"
+      - name: online_store_preview_url
+        description: "Preview URL for the product in the online store"
+      - name: online_store_url
+        description: "Live URL for the product in the online store"
+      - name: options
+        description: "JSON array of product options"
+      - name: price_range_v2
+        description: "JSON object for the product's price range"
+      - name: product_components
+        description: "JSON array of product components"
+      - name: product_components_count
+        description: "Number of product components"
+      - name: product_parents
+        description: "JSON array of parent products"
+      - name: product_type
+        description: "Type/category of the product"
+      - name: published_at
+        description: "Timestamp when the product was published"
+      - name: published_on_publication
+        description: "Boolean indicating if the product is published on a publication"
+      - name: requires_selling_plan
+        description: "Boolean indicating if the product requires a selling plan"
+      - name: restricted_for_resource
+        description: "JSON object detailing resource restrictions"
+      - name: selling_plan_groups
+        description: "JSON array of selling plan groups"
+      - name: selling_plan_groups_count
+        description: "Number of selling plan groups"
+      - name: seo
+        description: "JSON object containing SEO metadata"
+      - name: status
+        description: "Current status of the product (active, draft, archived)"
+      - name: tags
+        description: "Comma-separated list of product tags"
+      - name: template_suffix
+        description: "Template suffix used for rendering the product page"
+      - name: title
+        description: "Title of the product"
+      - name: total_inventory
+        description: "Total available inventory for the product"
+      - name: tracks_inventory
+        description: "Boolean indicating if inventory tracking is enabled"
+      - name: translations
+        description: "JSON array of product translations"
+      - name: updated_at
+        description: "Timestamp when the product record was last updated"
+      - name: variants
+        description: "JSON array of product variants"
+      - name: variants_count
+        description: "Number of product variants"
+      - name: vendor
+        description: "Vendor or brand name for the product"
+
+  - name: shopify_order_transactions_base
+    description: "Base model for Shopify order transactions"
+    columns:
+      - name: created_at
+        description: "The date and time when the transaction was created"
+        tests:
+          - not_null
+
+      - name: gift_card_details
+        description: "JSON field containing gift card details for the transaction"
+
+      - name: id
+        description: "Globally-unique transaction ID"
+        tests:
+          - unique
+          - not_null
+      - name: kind
+        description: "The kind of the transaction (e.g., sale, refund, authorization)"
+      - name: order_id
+        description: "Associated order ID for the transaction"
+      - name: payment_details
+        description: "JSON field containing payment details such as card info, AVS/CVV results, etc."
+      - name: payment_icon
+        description: "JSON field specifying the payment icon to display"
+      - name: processed_at
+        description: "The date and time when the transaction was processed"
+      - name: status
+        description: "The status of the transaction (e.g., success, pending, failed)"
+      - name: transaction_amount
+        description: "The amount and currency of the transaction"
+      - name: transaction_parent_id
+        description: "The ID of the parent transaction, if applicable"
+      - name: type
+        description: "The type of the transaction"
+        tests:
+          - not_null
+      - name: type_details
+        description: "JSON field containing the details of the transaction type"

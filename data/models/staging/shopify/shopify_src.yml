@@ -135,4 +135,11 @@ sources:
       - name: orders_table
         description: " Shopify orders"
 
-                               
+      - name: refunds_table
+        description: " Shopify refunds"
+
+      - name: products_table
+        description: " Shopify products"
+
+      - name: orders_transaction_table
+        description: " Shopify orders transaction"                                
