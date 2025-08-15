@@ -126,20 +126,20 @@ sources:
               - accepted_values:
                   values: ['online', 'in_store']
         
-      - name: shopify__customers
+      - name: customer
         description: "Customers source table for Shopify transactions from Airflow"
       
-      - name: inventory_table
+      - name: Inventory_Item
         description: " Shopify inventory"
 
-      - name: orders_table
+      - name: order
         description: " Shopify orders"
 
-      - name: refunds_table
+      - name: refund
         description: " Shopify refunds"
 
-      - name: products_table
+      - name: product
         description: " Shopify products"
 
-      - name: orders_transaction_table
+      - name: order_transaction
         description: " Shopify orders transaction"                                

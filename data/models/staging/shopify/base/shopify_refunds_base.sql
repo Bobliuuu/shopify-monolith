@@ -18,7 +18,7 @@ with refunds_source_table as (
         total_refunded_set,
         transactions,
         updated_at
-    from {{ source('shopify_refunds_table', 'refunds_table') }}
+    from {{ source('shopify_refunds_table', 'refund') }}
 )
 
 select * 

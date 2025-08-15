@@ -57,7 +57,7 @@ with products_source_table as (
         variants,
         variants_count,
         vendor
-    from {{ source('shopify_products_table', 'products_table') }}
+    from {{ source('shopify_products_table', 'product') }}
 )
 
 select * 

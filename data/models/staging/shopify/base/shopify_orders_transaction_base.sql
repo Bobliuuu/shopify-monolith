@@ -17,7 +17,7 @@ with transactions_source_table as (
         transaction_parent_id,
         type,
         type_details
-    from {{ source('shopify_order_transactions_table', 'order_transactions_table') }}
+    from {{ source('shopify_order_transactions_table', 'order_transaction') }}
 )
 
 select *

@@ -28,7 +28,7 @@ with orders_source_table as (
     tags,
     created_at,
     updated_at
-    from {{ source('shopify_orders_table', 'orders_table') }}
+    from {{ source('shopify_orders_table', 'order') }}
 ),
 
 select * from orders_source_table 
