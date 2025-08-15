@@ -35,7 +35,7 @@ with customer_source_table as (
         mergeable,
         note,
         multipassIdentifier
-    from {{ source('shopify_customer', 'customers_table') }}
+    from {{ source('shopify_customer', 'customer') }}
 ),
 
 select * from customer_source_table 

@@ -14,7 +14,7 @@ with inventory_source_table as (
         incoming_quantity,
         created_at,
         updated_at
-    from {{ source('shopify_inventory_table', 'inventory_table') }}
+    from {{ source('shopify_inventory_table', 'Inventory_Item') }}
 ),
 
 select * from inventory_source_table 
