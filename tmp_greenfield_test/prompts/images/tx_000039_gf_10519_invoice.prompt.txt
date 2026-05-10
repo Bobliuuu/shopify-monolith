@@ -1,0 +1,48 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create a realistic photographed paper invoice with itemized table, HST, total, account terms, and handwritten circle around total.
+
+Image condition:
+tilted phone photo, mild blur, shadow across document
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10519          Date: 2026-10-10
+Due: 2026-10-17                Terms: Due on receipt
+PO: n/a / txt order
+
+BILL TO:
+HighPoint Property Services
+Cambridge, ON
+Attn: Jason Reid
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-BULK-GRAVEL-34    clear stone                            4.5     ton        40.41     181.84
+GF-IRR-DRIP-100      half inch poly                         1       roll       46.42      46.42
+GF-SEED-TURF-10      grass seed prem                        25      bag        31.17     779.25
+GF-SEASON-PETMELT    premium ice melt                       80      bag        20.29   1,623.20
+GF-BULK-SAND-MASON   sand yard                              1       yd         35.82      35.82
+SERV-DELIVERY        delivery charge                        1       ea         75.00      75.00
+SERV-DISCOUNT        acct discount                          1       ea        -55.00     -55.00
+
+Subtotal:      2,686.53
+HST 13%:       349.25
+TOTAL DUE:    $3,035.78
+
+Payment method expected: EFT
+Payment ref: HIGHPO-0519
+PEN NOTE: customer asked why price changed
+
+---END RAW CONTENT---

@@ -1,0 +1,14 @@
+EMAIL THREAD EXPORT
+
+From: jason@highpointproperty.example
+To: orders@greenfieldsupply.example
+Subject: Re: GF-l0S3S
+ 
+Customer:
+Can you resend the invoice? AP says they need the ref again.
+ 
+GreenFieId:
+Attached invoice GF-l0S3S. Total is $S20.ll. Payment ref CHK-8972.
+
+Customer:
+ok thanks. should go out 2026-06-2l.

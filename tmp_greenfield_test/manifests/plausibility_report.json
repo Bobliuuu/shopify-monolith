@@ -1,0 +1,10 @@
+{
+  "rule_failures": {
+    "category_customer_mismatch": 0,
+    "invalid_price_or_qty": 0,
+    "invalid_timeline": 0,
+    "refund_without_order": 0
+  },
+  "pass": true,
+  "strict_mode_failed": false
+}

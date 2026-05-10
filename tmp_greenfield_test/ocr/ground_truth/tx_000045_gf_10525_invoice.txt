@@ -1,0 +1,27 @@
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10525          Date: 2026-09-29
+Due: 2026-10-06                Terms: Due on receipt
+PO: PO-3012
+
+BILL TO:
+HighPoint Property Services
+Cambridge, ON
+Attn: Jason Reid
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-SITE-TARP-1012    10x12 tarp                             10      ea         16.30     163.00
+GF-SEED-GRASS-CON25  contractor grass seed                  6       bag        89.38     536.28
+GF-SEED-ALF-50       alfalfa coated                         2       sack      231.21     462.42
+GF-BULK-GRAVEL-34    clear stone                            10      ton        44.12     441.20
+
+Subtotal:      1,602.90
+HST 13%:       208.38
+TOTAL DUE:    $1,811.28
+
+Payment method expected: cheque
+Payment ref: CHK-2479
+PEN NOTE: substituted equivalent product

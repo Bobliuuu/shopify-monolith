@@ -1,0 +1,15 @@
+SHOP ORDER CONFIRMATION
+Order: ord_0000011
+Customer: Stonebridge Estates Maintenance #1
+ Date: 2026-05-27
+ Status: open
+Currency: CAD
+
+Items:
+- GF-BULK-CRUSHER 6 ton @ $37.13 (222.78)
+
+Subtotal: $222.78
+Discount: $22.28
+Tax: $35.81
+Shipping: $75.00
+Total: $311.31

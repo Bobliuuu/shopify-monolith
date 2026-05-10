@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: Silver Creek Stables
+Cheque/ref: AUTH-886730
+Date: 2026-08-08
+Invoice: GF-10532
+Amount: $721.71
+Notes: less credit from last order

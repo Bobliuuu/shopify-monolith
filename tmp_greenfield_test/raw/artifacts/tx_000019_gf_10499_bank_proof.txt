@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Date posted: 2026-07-06
+Description: Interac Stonebridge Estates Maintenance AUTH-923927
+Amount: +$824.60
+Memo: invoice GF-10499
+Status: posted

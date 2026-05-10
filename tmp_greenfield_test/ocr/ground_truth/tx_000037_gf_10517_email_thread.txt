@@ -1,0 +1,14 @@
+EMAIL THREAD EXPORT
+
+From: jason@highpointproperty.example
+To: orders@greenfieldsupply.example
+Subject: Re: GF-10517
+
+Customer:
+Can you resend the invoice? AP says they need the ref again.
+
+GreenField:
+Attached invoice GF-10517. Total is $3,300.84. Payment ref HIGHPO-0517.
+
+Customer:
+ok thanks. should go out 2026-11-28.

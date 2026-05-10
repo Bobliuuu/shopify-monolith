@@ -1,0 +1,8 @@
+{
+  "doc_id": "ord_0000025_order_confirmation",
+  "doc_type": "order_confirmation",
+  "raw_text_path": "raw/artifacts/ord_0000025_order_confirmation.txt",
+  "image_path": "images/ord_0000025_order_confirmation.png",
+  "entities": [],
+  "bbox_status": "populate_after_real_ocr"
+}

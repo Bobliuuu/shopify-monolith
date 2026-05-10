@@ -1,0 +1,7 @@
+INVENTORY ADJUSTMENT LOG
+Adjustment id: adj_0000001_gf_chem_weed_gen
+SKU: GF-CHEM-WEED-GEN
+Location: LOC-KIT-STAGE
+Delta: -8
+Reason: order_fulfillment
+Timestamp: 2026-02-27

@@ -1,0 +1,34 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create an ecommerce order confirmation page or email screenshot with totals and line items.
+
+Image condition:
+low-resolution fax/scan look, slightly washed out
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+SHOP ORDER CONFIRMATION
+Order: ord_0000006
+Customer: Silver Creek Stables #1
+Date: 2026-06-02
+Status: open
+Currency: CAD
+
+Items:
+- GF-BED-SHAV-COMP 80 bale @ $11.03 (882.40)
+- GF-FEED-CHKN-LAYER20 20 bag @ $23.14 (462.80)
+
+Subtotal: $1,345.20
+Discount: $0.00
+Tax: $184.63
+Shipping: $75.00
+Total: $1,604.83
+
+---END RAW CONTENT---

@@ -1,0 +1,14 @@
+EMAIL THREAD EXPORT
+
+From: ap at clearpathutilities.example
+ To: orders at greenfieldsupply.example
+Subject: Re: GF-1O49S
+
+Customer:
+Can you resend the invoice? AP says they need the ref again.
+
+GreenField:
+Attached invoice GF-1O49S. Total is $S69.11. Payment ref CLEARP-O49S.
+
+Customer:
+ok thanks. should go out 2O26-O1-13.

@@ -1,0 +1,116 @@
+{
+  "doc_id": "tx_000011_gf_10491_delivery_ticket",
+  "doc_type": "delivery_ticket",
+  "raw_text_path": "raw/artifacts/tx_000011_gf_10491_delivery_ticket.txt",
+  "image_path": null,
+  "entities": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000011"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10491"
+    },
+    {
+      "type": "customer_name",
+      "text": "UrbanRoot Gardens Co."
+    },
+    {
+      "type": "date",
+      "text": "2026-05-27"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-06-03"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-06-03"
+    },
+    {
+      "type": "total",
+      "text": "7,119.96",
+      "number": 7119.96
+    },
+    {
+      "type": "payment_ref",
+      "text": "URBANR-0491"
+    },
+    {
+      "type": "payment_method",
+      "text": "e-transfer"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-GRASS-CON25",
+      "description": "Grass Seed Mix - Contractor Blend 25kg",
+      "messy_description": "contractor grass seed",
+      "qty": 50,
+      "unit": "bag",
+      "unit_price": 93.67,
+      "line_total": 4683.5
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-TURF-10",
+      "description": "Grass seed premium turf mix 10lb",
+      "messy_description": "grass seed prem",
+      "qty": 20,
+      "unit": "bag",
+      "unit_price": 29.3,
+      "line_total": 586.0
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-ALF-50",
+      "description": "Alfalfa seed coated 50lb sack",
+      "messy_description": "coated alf seed",
+      "qty": 4,
+      "unit": "sack",
+      "unit_price": 221.3,
+      "line_total": 885.2
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SOIL-TOP-BASIC",
+      "description": "Top Soil (basic fill) — cheap stuff",
+      "messy_description": "fill dirt",
+      "qty": 2,
+      "unit": "yd",
+      "unit_price": 26.05,
+      "line_total": 52.1
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SOIL-TOP-PREM",
+      "description": "Topsoil screened (premium) per yard",
+      "messy_description": "screened topsoil",
+      "qty": 1.5,
+      "unit": "yd",
+      "unit_price": 49.37,
+      "line_total": 74.05
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "delivery charge",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 95,
+      "line_total": 95
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DISCOUNT",
+      "description": "Account discount / price adjustment",
+      "messy_description": "acct discount",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": -75,
+      "line_total": -75
+    }
+  ],
+  "bbox_status": "populate_after_real_ocr"
+}

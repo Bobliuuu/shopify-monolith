@@ -1,0 +1,30 @@
+GreenFieId Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (S19) 822-4419
+HST # 842O3 1234 RTOOO1
+
+INVOICE: GF-1OSO2          Date: 2O26-O3-23
+Due: 2O26-O3-3O                Terms: Card
+PO: PO-8823
+
+BILL TO:
+UrbanRoot Gardens Co.
+Toronto, ON
+Attn: Priya Nair
+
+SKU                  Description                            Qty     Unit    Unit Price      Arnount
+-----------------------------------------------------------------------------------------------
+GF-BULK-SAND-MASON   sand yard                              3       yd         4O.2O     12O.6O
+GF-SEED-ALF-SO       alfalfa SO#                            4       sack      226.19     9O4.76
+GF-SEED-TURF-1O      turf mix                               3O      bag        29.42     882.6O
+GF-BULK-CRUSHER      driveway mix                           2.S     ton        34.88      87.2O
+GF-BULK-GRAVEL-34    3/4 clear                              6       ton        39.2S     23S.SO
+SERV-DELIVERY        bulk dump delivery                     1       ea         8S.OO      8S.OO
+SERV-DISCOUNT        acct discount                          1       ea        -SS.OO     -SS.OO
+
+Subtotal:      2,26O.66
+HST 13%:       293.89
+T0TAL DUE:    $2,SS4.SS
+
+Payment method expected: cheque
+Payment ref: CHK-989O
+PEN NOTE: missing PO, call office

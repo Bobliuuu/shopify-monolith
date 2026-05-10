@@ -1,0 +1,7 @@
+INVENTORY ADJUSTMENT LOG
+Adjustment id: adj_0000004_gf_irr_drip_100
+SKU: GF-IRR-DRIP-100
+Location: LOC-KIT-STAGE
+Delta: -2
+Reason: order_fulfillment
+Timestamp: 2026-05-03

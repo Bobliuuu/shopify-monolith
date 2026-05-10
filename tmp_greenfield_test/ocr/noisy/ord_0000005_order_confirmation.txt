@@ -1,0 +1,17 @@
+SHOP ORDER CONFIRMATION
+Order: ord_OOOOOO5
+Customer: UrbanRoot Gardens Co. #2
+Date: 2O26-O3-2O
+Status: closed
+Currency: CAD
+
+Items:
+- GF-BULK-SAND-MASON 3 yd @ $42.32 (126.96)
+ - GF-SEED-TURF-1O 3O bag @ $34.74 (1,O42.2O)
+- GF-SITE-GLOVES-5O 2 case @ $55.34 (11O.68)
+
+Subtotal: $1,279.84
+Discount: $127.98
+Tax: $156.11
+Shipping: $49.OO
+Total: $1,356.97

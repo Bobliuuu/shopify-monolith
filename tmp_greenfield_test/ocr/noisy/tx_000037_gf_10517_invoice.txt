@@ -1,0 +1,29 @@
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 842O3 1234 RTOOO1
+
+INVOICE: GF-1O517          Date: 2O26-11-15
+Due: 2O26-11-22                Terms: Due on receipt
+PO: n/a / txt order
+
+BILL TO:
+HighPoint Property Services
+Cambridge, ON
+Attn: Jason Reid
+
+SKU                  Description                            Qty     Unit    Unit Price      Arnount
+-----------------------------------------------------------------------------------------------
+GF-SEASON-SALT-2O    ice melt                               4O      bag        11.32     452.8O
+GF-BULK-GRAVEL-34    clear stone                            5       ton        45.3O     226.5O
+GF-SOIL-TOP-PREM     premium dirt                           1.5     yd         42.56      63.84
+GF-SEED-TURF-1O      grass seed prem                        5O      bag        33.51   1,675.5O
+GF-SEED-ALF-5O       alfalfa coated                         2       sack      213.73     427.46
+ SERV-DELIVERY        bulk dump delivery                     1       ea         75.OO      75.OO
+
+Subtotal:      2,921.1O
+HST 13%:       379.74
+TOTAL DUE:    $3,3OO.84
+
+Payment method expected: EFT
+Payment ref: HIGHPO-O517
+PEN NOTE: missing PO, call office

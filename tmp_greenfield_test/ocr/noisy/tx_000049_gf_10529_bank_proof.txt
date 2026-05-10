@@ -1,0 +1,7 @@
+Mobile banking transaction detail
+
+Date posted: 2026-04-12
+Description: e-transfer NorthLine Contracting NORTHL-0529
+Amount: +$485.26
+Memo: invoice GF-10529
+Status: posted

@@ -1,0 +1,45 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create a realistic photographed paper invoice with itemized table, HST, total, account terms, and handwritten circle around total.
+
+Image condition:
+tilted phone photo, mild blur, shadow across document
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10534          Date: 2026-05-17
+Due: 2026-06-16                Terms: Net 30
+PO: PO-3289
+
+BILL TO:
+Stonebridge Estates Maintenance
+Burlington, ON
+Attn: Laura Chen
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-SEED-ALF-50       alfalfa coated                         3       sack      215.32     645.96
+GF-SEASON-PETMELT    premium ice melt                       8       bag        18.91     151.28
+GF-SITE-TARP-1012    hd-ish tarp                            1       ea         15.84      15.84
+SERV-DISCOUNT        acct discount                          1       ea        -75.00     -75.00
+
+Subtotal:      738.08
+HST 13%:       95.95
+TOTAL DUE:    $834.03
+
+Payment method expected: e-transfer
+Payment ref: STONEB-0534
+PEN NOTE: substituted equivalent product
+
+---END RAW CONTENT---

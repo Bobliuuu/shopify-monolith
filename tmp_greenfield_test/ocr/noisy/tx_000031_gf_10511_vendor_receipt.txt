@@ -1,0 +1,13 @@
+Guelph AgriChem Wholesale
+RECEIPT / YARD TICKET #83167       2O26-O9-O9
+Sold to: GreenField Supply Co. Ltd.
+
+ Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+1Ox12 tarp                         15.2     ea        11.4O     173.28
+handling / fuel / pallet fee        1        ea         36.OO      36.OO
+
+Subtotal: 2O9.28
+HST:      27.21
+TOTAL:    $236.49
+Paid by: cheque

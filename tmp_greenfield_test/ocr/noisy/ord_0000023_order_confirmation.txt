@@ -1,0 +1,16 @@
+SHOP ORDER CONFIRMATION
+ Order: ord_0000023
+Customer: Brampton Turf Solutions #2
+Status: fulfilled
+Currency: CAD
+
+Items:
+- GF-SEED-GRASS-CON25 80 bag @ $93.08 (7,446.40)
+- GF-SITE-GLOVES-50 10 case @ $61.27 (612.70)
+- GF-BULK-CRUSHER 4.5 ton @ $37.10 (166.95)
+
+Subtotal: $8,226.05
+Discount: $0.00
+Tax: $1,069.39
+Shipping: $0.00
+ Total: $9,295.44

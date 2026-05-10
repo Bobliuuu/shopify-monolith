@@ -1,0 +1,13 @@
+Wellington Aggregates Yard Ticket
+RECEIPT / YARD TICKET #29952       2O26-O3-26
+Sold to: GreenField Supply Co. Ltd.
+
+ Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+layer pellets                      22.8     bag       17.32     394.9O
+handling / fuel / pallet fee        1        ea         45.OO      45.OO
+
+Subtotal: 439.9O
+HST:      57.19
+TOTAL:    $497.O9
+Paid by: EFT batch

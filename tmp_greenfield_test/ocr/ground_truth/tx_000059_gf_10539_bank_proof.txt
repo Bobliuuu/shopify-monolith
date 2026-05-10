@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Date posted: 2026-09-24
+Description: Visa Brampton Turf Solutions AUTH-722937
+Amount: +$2,168.31
+Memo: invoice GF-10539
+Status: posted

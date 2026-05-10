@@ -1,0 +1,43 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create a realistic photographed paper invoice with itemized table, HST, total, account terms, and handwritten circle around total.
+
+Image condition:
+slight skew, natural paper texture
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10523          Date: 2026-06-01
+Due: 2026-07-01                Terms: Net 30
+PO: n/a / txt order
+
+BILL TO:
+Brampton Turf Solutions
+Brampton, ON
+Attn: Owen Patel
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-SITE-TARP-1012    hd-ish tarp                            4       ea         16.24      64.96
+GF-SEASON-SALT-20    road salt 20kg                         80      bag        12.72   1,017.60
+
+Subtotal:      1,082.56
+HST 13%:       140.73
+TOTAL DUE:    $1,223.29
+
+Payment method expected: cheque
+Payment ref: CHK-4770
+PEN NOTE: split payment expected
+
+---END RAW CONTENT---

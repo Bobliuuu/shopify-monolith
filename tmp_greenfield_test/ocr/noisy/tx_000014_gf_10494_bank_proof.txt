@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Date posted: 2026-06-04
+Description: cheque Riverbend Organics CHK-3647
+Arnount: +$5,299.49
+Memo: invoice GF-10494
+Status: posted

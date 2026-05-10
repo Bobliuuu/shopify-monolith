@@ -1,0 +1,13 @@
+From: laura@stonebridge-maint.example
+To: orders@greenfieldsupply.example
+Subject: order for 2026-06-03
+
+hey,
+
+can you get us road salt 20kg, heavy hose for 2026-06-03?
+we may pay half now and half after delivery
+ship/deliver to Burlington if possible.
+
+thanks,
+Laura
+Stonebridge Estates Maintenance

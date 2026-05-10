@@ -1,0 +1,12 @@
+PACKING SLIP
+Fulfillment: ful_0000002
+Order: ord_0000002
+Customer: Brampton Turf Solutions #1
+Carrier: Pickup
+Tracking: TRK-0000002
+Fulfilled at: 2026-04-23
+
+GF-SEED-GRASS-CON25  qty=12  loc=LOC-GUELPH-WH
+GF-BULK-SAND-MASON  qty=10  loc=LOC-GUELPH-WH
+GF-SEASON-PETMELT  qty=8  loc=LOC-GUELPH-WH
+GF-SOIL-TOP-BASIC  qty=12  loc=LOC-GUELPH-WH

@@ -1,0 +1,24 @@
+GreenField Farm & Site Supply
+l7 Sideroad 8, Guelph, ON NlH 6J2     (5l9) 822-44l9
+HST # 84203 l234 RT000l
+ 
+INVOICE: GF-l0523          Date: 2026-06-0l
+ Due: 2026-07-0l                Terms: Net 30
+
+BILL TO:
+Brampton Turf Solutions
+Brampton, ON
+Attn: Owen Patel
+
+SKU                  Description                            Qty     Unit    Unit Price      Arnount
+-----------------------------------------------------------------------------------------------
+GF-SITE-TARP-l0l2    hd-ish tarp                            4       ea         l6.24      64.96
+GF-SEASON-SALT-20    road salt 20kg                         80      bag        l2.72   l,0l7.60
+
+Subtotal:      l,082.56
+HST l3%:       l40.73
+TOTAL DUE:    $l,223.29
+
+Payment method expected: cheque
+Payment ref: CHK-4770
+PEN NOTE: split payment expected

@@ -1,0 +1,74 @@
+{
+  "doc_id": "tx_000023_gf_10503_email_thread",
+  "doc_type": "email_thread",
+  "tx_id": "TX-000023",
+  "fields": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000023"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10503"
+    },
+    {
+      "type": "customer_name",
+      "text": "Silver Creek Stables"
+    },
+    {
+      "type": "date",
+      "text": "2026-07-19"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-08-18"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-08-26"
+    },
+    {
+      "type": "total",
+      "text": "459.79",
+      "number": 459.79
+    },
+    {
+      "type": "payment_ref",
+      "text": "AUTH-609232"
+    },
+    {
+      "type": "payment_method",
+      "text": "Interac"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SITE-TARP-1012",
+      "description": "Blue tarp 10x12 (heavy duty-ish)",
+      "messy_description": "10x12 tarp",
+      "qty": 4,
+      "unit": "ea",
+      "unit_price": 15.43,
+      "line_total": 61.72
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FENCE-TPOST-6",
+      "description": "T-posts 6ft green bundle of 10",
+      "messy_description": "T post bundle",
+      "qty": 3,
+      "unit": "bundle",
+      "unit_price": 83.39,
+      "line_total": 250.17
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "delivery charge",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 95,
+      "line_total": 95
+    }
+  ]
+}

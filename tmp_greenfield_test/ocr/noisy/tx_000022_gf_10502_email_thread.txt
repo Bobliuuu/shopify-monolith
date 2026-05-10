@@ -1,0 +1,14 @@
+EMAIL THREAD EXPORT
+
+From: priya at urbanroot.example
+To: orders at greenfieldsupply.example
+Subject: Re: GF-10S02
+
+Customer:
+Can you resend the invoice? AP says they need the ref again.
+
+ GreenFieId:
+Attached invoice GF-10S02. Total is $2,SS4.SS. Payment ref CHK-9890.
+
+Customer:
+ok thanks. should go out 2026-04-04.

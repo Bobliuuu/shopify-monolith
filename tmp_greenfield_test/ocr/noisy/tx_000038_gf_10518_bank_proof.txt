@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Date posted: 2026-10-21
+Description: cheque Oak Valley Dairy CHK-9022
+Arnount: +$3,265.98
+Memo: invoice GF-10518
+Status: posted

@@ -1,0 +1,6 @@
+INVENTORY ADJUSTMENT LOG
+Adjustment id: adj_OOOOOO2_gf_bulk_sand_mason
+SKU: GF-BULK-SAND-MASON
+ Delta: -1O
+Reason: order_fulfillment
+Timestamp: 2O26-O4-23

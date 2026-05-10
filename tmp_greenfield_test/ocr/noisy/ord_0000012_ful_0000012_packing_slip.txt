@@ -1,0 +1,11 @@
+PACKING SLIP
+Fulfillment: ful_00000l2
+Order: ord_00000l2
+Customer: Stonebridge Estates Maintenance #l
+Carrier: Fleet
+Tracking: TRK-00000l2
+Fulfilled at: 2026-l0-2l
+
+GF-SEASON-PETMELT  qty=6  loc=LOC-GUELPH-YARD
+GF-SOIL-TOP-PREM  qty=l2  loc=LOC-GUELPH-YARD
+GF-IRR-DRIP-l00  qty=l  loc=LOC-GUELPH-YARD

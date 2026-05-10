@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+ Account: Business Chequing ****ll82
+Date posted: 2O26-O6-O4
+Description: on account Oak Valley Dairy AUTH-748564
+Arnount: +$689.46
+Memo: invoice GF-lO482
+Status: posted

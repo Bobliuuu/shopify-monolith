@@ -1,0 +1,6 @@
+INVENTORY ADJUSTMENT LOG
+Adjustment id: adj_OOOOOO9_gf_bulk_sand_mason
+SKU: GF-BULK-SAND-MASON
+Location: LOC-GUELPH-WH
+Delta: -3
+Timestamp: 2O26-O4-O8

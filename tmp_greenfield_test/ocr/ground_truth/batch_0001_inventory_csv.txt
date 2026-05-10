@@ -1,0 +1,29 @@
+batch_id,sku,name,starting_qty,ordered_out,restocked,ending_qty,unit,notes
+BATCH-0001,GF-BED-SHAV-COMP,Wood shavings compressed bale,199,98,20,121,bale,check bin
+BATCH-0001,GF-BED-STRAW-DUSTY,Straw bales (small square, dusty),105,74,0,31,bale,
+BATCH-0001,GF-BED-STRAW-HORSE,Straw Bale (clean, horse grade),150,87,50,113,bale,low stock
+BATCH-0001,GF-BULK-CRUSHER,Crusher run gravel driveway mix,247,30.5,0,216.5,ton,handwritten correction
+BATCH-0001,GF-BULK-GRAVEL-34,Gravel 3/4 clear stone per ton,69,51.0,50,68.0,ton,check bin
+BATCH-0001,GF-BULK-SAND-MASON,Sand - masonry (washed) yard,107,19.5,10,97.5,yd,check bin
+BATCH-0001,GF-CHEM-GLY-4L,Roundup alt glyphosate 4L jug,231,8,100,323,jug,check bin
+BATCH-0001,GF-CHEM-INSECT-ORCH,Insecticide spray orchard grade,180,4,0,176,jug,handwritten correction
+BATCH-0001,GF-CHEM-WEED-GEN,Weed killer concentrate (generic),42,4,20,58,jug,counted by Mike
+BATCH-0001,GF-FEED-CHKN-LAYER20,Chicken Feed Layer Pellets 20kg,122,132,10,0,bag,low stock
+BATCH-0001,GF-FEED-DAIRY4-BULK,Dairy ration mix #4 (bulk auger fill),167,47.0,30,150.0,ton,low stock
+BATCH-0001,GF-FENCE-CHARGER-SOLAR,Electric fence charger solar,224,16,0,208,ea,handwritten correction
+BATCH-0001,GF-FENCE-TPOST-6,T-posts 6ft green bundle of 10,242,39,50,253,bundle,check bin
+BATCH-0001,GF-FENCE-WIRE-200,Fence wire galvanized 200m spool,164,30,30,164,spool,handwritten correction
+BATCH-0001,GF-FERT-UREA-55,Urea 46 granular - 55lb bags,164,117,10,57,bag,handwritten correction
+BATCH-0001,GF-IRR-DRIP-100,Drip line 1/2 poly 100ft roll,119,32,50,137,roll,low stock
+BATCH-0001,GF-IRR-HOSE-34,Water hose heavy duty 3/4,53,43,50,60,roll,handwritten correction
+BATCH-0001,GF-LIME-AG-LOAD,Lime - ag grade (dump trailer load),169,4,20,185,load,counted by Mike
+BATCH-0001,GF-LIME-DOLO-18,Dolomitic Lime bagged 18kg,113,110,0,3,bag,handwritten correction
+BATCH-0001,GF-SEASON-PETMELT,Ice Melt Premium (pet safe),250,210,10,50,bag,
+BATCH-0001,GF-SEASON-SALT-20,Ice melt salt (road salt) 20kg,148,214,0,-66,bag,handwritten correction
+BATCH-0001,GF-SEED-ALF-50,Alfalfa seed coated 50lb sack,154,15,50,189,sack,
+BATCH-0001,GF-SEED-GRASS-CON25,Grass Seed Mix - Contractor Blend 25kg,210,230,10,-10,bag,check bin
+BATCH-0001,GF-SEED-TURF-10,Grass seed premium turf mix 10lb,203,492,0,-289,bag,
+BATCH-0001,GF-SITE-GLOVES-50,Work gloves (bulk pack 50),160,61,10,109,case,handwritten correction
+BATCH-0001,GF-SITE-TARP-1012,Blue tarp 10x12 (heavy duty-ish),184,63,0,121,ea,counted by Mike
+BATCH-0001,GF-SOIL-TOP-BASIC,Top Soil (basic fill) — cheap stuff,83,36,10,57,yd,low stock
+BATCH-0001,GF-SOIL-TOP-PREM,Topsoil screened (premium) per yard,117,29.0,20,108.0,yd,

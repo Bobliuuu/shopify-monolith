@@ -1,0 +1,17 @@
+SHOP ORDER CONFIRMATION
+Order: ord_0000019
+Customer: ClearPath Utilities #2
+Date: 2026-06-03
+Status: fulfilled
+Currency: CAD
+
+Items:
+- GF-IRR-HOSE-34 8 roll @ $62.30 (498.40)
+- GF-SOIL-TOP-BASIC 6 yd @ $28.27 (169.62)
+- GF-SOIL-TOP-PREM 6 yd @ $44.22 (265.32)
+
+Subtotal: $933.34
+Discount: $28.00
+Tax: $124.06
+Shipping: $49.00
+Total: $1,078.40

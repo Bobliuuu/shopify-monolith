@@ -1,0 +1,13 @@
+Fertilizer Depot Inc.
+RECEIPT / YARD TICKET #40315       2026-06-02
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+10x12 tarp                         3.5      ea        11.71      40.98
+handling / fuel / pallet fee        1        ea         36.00      36.00
+
+Subtotal: 76.98
+HST:      10.01
+TOTAL:    $86.99
+Paid by: Interac

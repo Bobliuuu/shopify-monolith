@@ -1,0 +1,27 @@
+GreenFieId Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (S19) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10S00          Date: 2026-09-19
+Due: 2026-10-19                Terms: Net 30
+PO: PO-71S9
+
+BILL TO:
+NorthLine Contracting
+Kitchener, ON
+Attn: Mike Rowan
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-SITE-GLOVES-S0    gloves S0 pack                         6       case       S7.17     343.02
+GF-SOIL-TOP-BASIC    basic fill                             4       yd         26.23     104.92
+GF-FENCE-WIRE-200    galv fence wire                        8       spool     12S.89   1,007.12
+ SERV-DELIVERY        bulk dump delivery                     1       ea         6S.00      6S.00
+
+Subtotal:      1,S20.06
+HST 13%:       197.61
+TOTAL DUE:    $1,717.67
+
+Payment method expected: Visa
+Payment ref: AUTH-991014
+PEN NOTE: same pricing as last time?? verify

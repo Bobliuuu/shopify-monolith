@@ -1,0 +1,27 @@
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 842O3 1234 RTOOO1
+
+INVOICE: GF-1O494          Date: 2O26-O5-25
+Due: 2O26-O6-O1                Terms: Net 15
+PO: n/a / txt order
+
+BILL TO:
+Riverbend Organics
+St Jacobs, ON
+Attn: Anita Brooks
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-IRR-DRIP-1OO      half inch poly                         8       roll       49.12     392.96
+GF-SEED-GRASS-CON25  contractor grass seed                  4O      bag        89.71   3,588.4O
+GF-LIME-AG-LOAD      lime dump trailer                      1       load      558.45     558.45
+SERV-DELIVERY        bulk dump delivery                     1       ea        15O.OO     15O.OO
+
+Subtotal:      4,689.81
+HST 13%:       6O9.68
+ T0TAL DUE:    $5,299.49
+
+Payment method expected: cheque
+Payment ref: CHK-3647
+PEN NOTE: missing PO, call office

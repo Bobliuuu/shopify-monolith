@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: Riverbend Organics
+Cheque/ref: CHK-2983
+Date: 2026-03-07
+Invoice: GF-10S06
+Amount: $1,2S4.03
+Notes: AP batch

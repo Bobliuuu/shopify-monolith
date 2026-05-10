@@ -1,0 +1,11 @@
+PACKING SLIP
+Fulfillment: ful_0000023
+Order: ord_0000023
+Customer: Brampton Turf Solutions #2
+Carrier: Fleet
+Tracking: TRK-0000023
+Fulfilled at: 2026-07-21
+
+GF-SEED-GRASS-CON25  qty=80  loc=LOC-GUELPH-WH
+GF-SITE-GLOVES-50  qty=10  loc=LOC-GUELPH-WH
+GF-BULK-CRUSHER  qty=4.5  loc=LOC-GUELPH-WH

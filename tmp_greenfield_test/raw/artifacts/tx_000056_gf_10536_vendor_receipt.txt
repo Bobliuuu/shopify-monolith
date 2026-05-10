@@ -1,0 +1,13 @@
+Wellington Aggregates Yard Ticket
+RECEIPT / YARD TICKET #56351       2026-01-04
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+lime bags                          66.9     bag        7.84     524.50
+handling / fuel / pallet fee        1        ea         45.00      45.00
+
+Subtotal: 569.50
+HST:      74.03
+TOTAL:    $643.53
+Paid by: Interac

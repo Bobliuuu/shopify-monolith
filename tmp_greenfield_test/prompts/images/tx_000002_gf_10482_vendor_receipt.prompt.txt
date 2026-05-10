@@ -1,0 +1,31 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create a crumpled thermal/vendor receipt or yard ticket photo with faded ink, wrinkled paper, and line-item purchase details.
+
+Image condition:
+slightly cropped edge, strong side shadow
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+Fertilizer Depot Inc.
+RECEIPT / YARD TICKET #88125       2026-04-21
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+ration mix 4                       4.9      ton      312.06   1,529.09
+handling / fuel / pallet fee        1        ea         12.00      12.00
+
+Subtotal: 1,541.09
+HST:      200.34
+TOTAL:    $1,741.43
+Paid by: cheque
+
+---END RAW CONTENT---

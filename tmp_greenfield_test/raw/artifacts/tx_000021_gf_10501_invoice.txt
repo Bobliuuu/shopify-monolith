@@ -1,0 +1,29 @@
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10501          Date: 2026-04-10
+Due: 2026-05-10                Terms: Net 30
+PO: n/a / txt order
+
+BILL TO:
+Brampton Turf Solutions
+Brampton, ON
+Attn: Owen Patel
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-IRR-HOSE-34       3/4 hose                               10      roll       68.79     687.90
+GF-SEED-TURF-10      grass seed prem                        25      bag        30.22     755.50
+GF-SEED-GRASS-CON25  Contractor Blend                       40      bag        89.32   3,572.80
+GF-SEASON-SALT-20    road salt 20kg                         10      bag        13.02     130.20
+GF-SOIL-TOP-PREM     top soil premium                       5       yd         43.42     217.10
+SERV-DELIVERY        delivery charge                        1       ea        150.00     150.00
+
+Subtotal:      5,513.50
+HST 13%:       716.75
+TOTAL DUE:    $6,230.25
+
+Payment method expected: on account
+Payment ref: AUTH-629298
+PEN NOTE: substituted equivalent product

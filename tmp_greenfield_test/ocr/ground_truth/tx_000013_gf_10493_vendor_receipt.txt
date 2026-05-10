@@ -1,0 +1,13 @@
+Guelph AgriChem Wholesale
+RECEIPT / YARD TICKET #63452       2026-07-09
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+gravel 3/4                         21.3     ton       31.12     662.86
+handling / fuel / pallet fee        1        ea         25.00      25.00
+
+Subtotal: 687.86
+HST:      89.42
+TOTAL:    $777.28
+Paid by: cheque

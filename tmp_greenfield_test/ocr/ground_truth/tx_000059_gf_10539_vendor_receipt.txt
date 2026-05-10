@@ -1,0 +1,13 @@
+Waterloo Farm Hardware
+RECEIPT / YARD TICKET #86846       2026-08-18
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+seed mix 25kg                      15.0     bag       64.19     962.85
+handling / fuel / pallet fee        1        ea         36.00      36.00
+
+Subtotal: 998.85
+HST:      129.85
+TOTAL:    $1,128.70
+Paid by: cheque

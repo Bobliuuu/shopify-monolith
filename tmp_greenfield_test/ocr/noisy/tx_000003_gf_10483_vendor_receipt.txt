@@ -1,0 +1,13 @@
+ County Hardware & Farm Supply
+RECEIPT / YARD TICKET #490l2       2026-l2-05
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+Urea 55#                           22.9     bag       26.57     608.45
+handling / fuel / pallet fee        l        ea         l2.00      l2.00
+
+Subtotal: 620.45
+HST:      80.66
+T0TAL:    $70l.ll
+Paid by: EFT batch

@@ -1,0 +1,13 @@
+Wellington Aggregates Yard Ticket
+RECEIPT / YARD TICKET #47015       2026-02-08
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+ration mix 4                       42.3     ton      438.46  18,546.86
+handling / fuel / pallet fee        1        ea         60.00      60.00
+
+Subtotal: 18,606.86
+HST:      2,418.89
+TOTAL:    $21,025.75
+Paid by: cheque

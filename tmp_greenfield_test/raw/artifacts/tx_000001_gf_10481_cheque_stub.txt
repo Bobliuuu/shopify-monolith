@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: Elm Lane Poultry
+Cheque/ref: CHK-1106
+Date: 2026-03-01
+Invoice: GF-10481
+Amount: $1,213.68
+Notes: AP batch

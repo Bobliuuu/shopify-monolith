@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Date posted: 2026-08-29
+Description: EFT Oak Valley Dairy OAKVAL-0490
+Amount: +$3,288.88
+Memo: invoice GF-10490
+Status: posted

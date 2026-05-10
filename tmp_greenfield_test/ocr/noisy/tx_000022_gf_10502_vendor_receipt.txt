@@ -1,0 +1,13 @@
+Fertilizer Depot Inc.
+RECEIPT / YARD TICKET #73778       2026-03-23
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+driveway mix                       7.4      ton       2S.42     188.11
+handling / fuel / pallet fee        1        ea         2S.00      2S.00
+
+Subtotal: 213.11
+HST:      27.70
+TOTAL:    $240.81
+Paid by: EFT batch

@@ -1,0 +1,14 @@
+EMAIL THREAD EXPORT
+
+From: mike@northlinecontracting.example
+To: orders@greenfieldsupply.example
+Subject: Re: GF-l0493
+
+Customer:
+Can you resend the invoice? AP says they need the ref again.
+
+GreenFieId:
+Attached invoice GF-l0493. Total is $l,ll7.l4. Payment ref NORTHL-0493.
+
+Customer:
+ok thanks. should go out 2026-07-28.

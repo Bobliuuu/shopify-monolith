@@ -1,0 +1,25 @@
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10511          Date: 2026-09-09
+Due: 2026-10-09                Terms: Net 30
+PO: PO-7156
+
+BILL TO:
+Elm Lane Poultry
+Listowel, ON
+Attn: Gord Allen
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-SITE-TARP-1012    10x12 tarp                             4       ea         16.85      67.40
+GF-BED-SHAV-COMP     wood shaving bale                      8       bale       11.76      94.08
+
+Subtotal:      161.48
+HST 13%:       20.99
+TOTAL DUE:    $182.47
+
+Payment method expected: EFT
+Payment ref: ELMLAN-0511
+PEN NOTE: substituted equivalent product

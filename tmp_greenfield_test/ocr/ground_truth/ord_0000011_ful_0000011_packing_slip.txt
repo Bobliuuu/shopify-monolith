@@ -1,0 +1,9 @@
+PACKING SLIP
+Fulfillment: ful_0000011
+Order: ord_0000011
+Customer: Stonebridge Estates Maintenance #1
+Carrier: Purolator
+Tracking: TRK-0000011
+Fulfilled at: 2026-06-02
+
+GF-BULK-CRUSHER  qty=6  loc=LOC-GUELPH-YARD

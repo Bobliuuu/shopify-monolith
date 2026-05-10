@@ -1,0 +1,7 @@
+ INVENTORY ADJUSTMENT LOG
+Adjustment id: adj_0000003_gf_site_gloves_50
+SKU: GF-SITE-GLOVES-50
+Location: LOC-KIT-STAGE
+Delta: -1
+Reason: order_fulfillment
+Timestamp: 2026-12-07

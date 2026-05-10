@@ -1,0 +1,10 @@
+{
+  "tx_id": "string",
+  "invoice_no": "string",
+  "customer": "string",
+  "total": "number",
+  "payment_ref": "string",
+  "docs": [
+    "doc_id"
+  ]
+}

@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Date posted: 2026-04-13
+Description: EFT Riverbend Organics RIVERB-0516
+Amount: +$2,607.84
+Memo: invoice GF-10516
+Status: posted

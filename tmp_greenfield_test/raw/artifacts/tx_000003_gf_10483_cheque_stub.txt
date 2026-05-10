@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: Maple Ridge Farms Ltd.
+Cheque/ref: CHK-4598
+Date: 2026-12-20
+Invoice: GF-10483
+Amount: $4,394.10
+Notes: less credit from last order

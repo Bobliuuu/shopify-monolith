@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: Oak Valley Dairy
+Cheque/ref: AUTH-748564
+Date: 2O26-O6-O4
+lnvoice: GF-lO482
+Amount: $l,378.92
+Notes: AP batch

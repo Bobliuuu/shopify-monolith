@@ -1,0 +1,27 @@
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10530          Date: 2026-01-08
+Due: 2026-03-09                Terms: Net 60
+PO: n/a / txt order
+
+BILL TO:
+Oak Valley Dairy
+Elora, ON
+Attn: Sarah Lewis
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-SITE-TARP-1012    blue tarp                              2       ea         16.21      32.42
+GF-FENCE-WIRE-200    galv fence wire                        8       spool     128.45   1,027.60
+GF-FEED-CHKN-LAYER20 chicken feed 20kg                      6       bag        22.38     134.28
+SERV-DELIVERY        delivery charge                        1       ea         75.00      75.00
+
+Subtotal:      1,269.30
+HST 13%:       165.01
+TOTAL DUE:    $1,434.31
+
+Payment method expected: Visa
+Payment ref: AUTH-145471
+PEN NOTE: crossed out old total, total circled

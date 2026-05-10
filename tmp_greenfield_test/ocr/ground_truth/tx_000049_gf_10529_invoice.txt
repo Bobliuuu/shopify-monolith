@@ -1,0 +1,26 @@
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10529          Date: 2026-03-06
+Due: 2026-04-05                Terms: Net 30
+PO: n/a / txt order
+
+BILL TO:
+NorthLine Contracting
+Kitchener, ON
+Attn: Mike Rowan
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-SOIL-TOP-BASIC    basic fill                             8       yd         26.85     214.80
+GF-BULK-CRUSHER      crush run                              4       ton        38.14     152.56
+GF-IRR-HOSE-34       3/4 hose                               1       roll       62.07      62.07
+
+Subtotal:      429.43
+HST 13%:       55.83
+TOTAL DUE:    $485.26
+
+Payment method expected: e-transfer
+Payment ref: NORTHL-0529
+PEN NOTE: same pricing as last time?? verify

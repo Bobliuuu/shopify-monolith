@@ -1,0 +1,13 @@
+Guelph AgriChem Wholesale
+RECEIPT / YARD TICKET #2989l       2026-0l-08
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Arnount
+----------------------------------------------------------------------
+galv fence wire                    2l.3     spool    l05.75   2,252.47
+handling / fuel / pallet fee        l        ea         60.00      60.00
+
+Subtotal: 2,3l2.47
+ HST:      300.62
+T0TAL:    $2,6l3.09
+Paid by: Interac

@@ -1,0 +1,13 @@
+Ontario Seed & Turf Wholesale
+RECEIPT / YARD TICKET #95073       2026-10-17
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+road salt 20kg                     45.0     bag       10.35     465.75
+handling / fuel / pallet fee        1        ea         60.00      60.00
+
+Subtotal: 525.75
+HST:      68.35
+TOTAL:    $594.10
+Paid by: EFT batch

@@ -1,0 +1,25 @@
+version: 2
+
+exposures:
+  - name: commerce_core_dashboard
+    label: Commerce core dashboard
+    type: dashboard
+    maturity: high
+    description: Cross-system payments, customers, and marketing stubs (direct DuckDB).
+    depends_on:
+      - ref('vw_dim_customer')
+      - ref('vw_fct_payments_stripe')
+      - ref('vw_fct_ga4_events')
+    owner:
+      name: Analytics
+      email: analytics@example.com
+
+  - name: greenfield_reconciliation
+    label: Greenfield extraction QA
+    type: dashboard
+    maturity: medium
+    depends_on:
+      - ref('rpt_greenfield_retail_vs_extracted_orders')
+      - ref('rpt_greenfield_product_skus_bridge')
+    owner:
+      name: Data quality

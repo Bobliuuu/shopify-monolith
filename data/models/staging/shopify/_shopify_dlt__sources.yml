@@ -1,0 +1,15 @@
+version: 2
+
+# Tables produced by dlt ``shopify_data`` pipeline (schema ``shopify`` in project-root ``data.duckdb``).
+# Set ``DBT_DUCKDB_PATH=../data.duckdb`` when running dbt from ``data/`` to align with Airflow/DLT.
+
+sources:
+  - name: shopify_dlt
+    schema: shopify
+    tables:
+      - name: shopify_products
+        description: "Flattened products from Admin GraphQL (DLT)"
+      - name: shopify_orders
+        description: "Orders (when added to DLT pipeline)"
+      - name: shopify_customers
+        description: "Customers (when added to DLT pipeline)"

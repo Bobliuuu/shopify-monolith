@@ -1,0 +1,13 @@
+Wellington Aggregates Yard Ticket
+RECEIPT / YARD TICKET #81646       2026-05-17
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+premium ice melt                   16.2     bag       14.68     237.82
+handling / fuel / pallet fee        1        ea         60.00      60.00
+
+Subtotal: 297.82
+HST:      38.72
+TOTAL:    $336.54
+Paid by: cheque

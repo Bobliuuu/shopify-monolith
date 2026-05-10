@@ -1,0 +1,14 @@
+EMAIL THREAD EXPORT
+
+From: orders at riverbendorganics.example
+To: orders at greenfieldsupply.example
+Subject: Re: GF-1OS27
+
+Customer:
+Can you resend the invoice? AP says they need the ref again.
+
+GreenField:
+Attached invoice GF-1OS27. Total is $1,274.66. Payment ref AUTH-861894.
+
+Customer:
+ok thanks. should go out 2O26-O9-12.

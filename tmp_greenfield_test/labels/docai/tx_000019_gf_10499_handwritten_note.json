@@ -1,0 +1,96 @@
+{
+  "doc_id": "tx_000019_gf_10499_handwritten_note",
+  "doc_type": "handwritten_note",
+  "raw_text_path": "raw/artifacts/tx_000019_gf_10499_handwritten_note.txt",
+  "image_path": "images/tx_000019_gf_10499_handwritten_note.png",
+  "entities": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000019"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10499"
+    },
+    {
+      "type": "customer_name",
+      "text": "Stonebridge Estates Maintenance"
+    },
+    {
+      "type": "date",
+      "text": "2026-06-03"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-07-03"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-07-06"
+    },
+    {
+      "type": "total",
+      "text": "1,374.33",
+      "number": 1374.33
+    },
+    {
+      "type": "payment_ref",
+      "text": "AUTH-923927"
+    },
+    {
+      "type": "payment_method",
+      "text": "Interac"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEASON-SALT-20",
+      "description": "Ice melt salt (road salt) 20kg",
+      "messy_description": "road salt 20kg",
+      "qty": 12,
+      "unit": "bag",
+      "unit_price": 12.24,
+      "line_total": 146.88
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-IRR-HOSE-34",
+      "description": "Water hose heavy duty 3/4",
+      "messy_description": "heavy hose",
+      "qty": 4,
+      "unit": "roll",
+      "unit_price": 66.54,
+      "line_total": 266.16
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-IRR-DRIP-100",
+      "description": "Drip line 1/2 poly 100ft roll",
+      "messy_description": "drip line 100ft",
+      "qty": 8,
+      "unit": "roll",
+      "unit_price": 50.1,
+      "line_total": 400.8
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SITE-GLOVES-50",
+      "description": "Work gloves (bulk pack 50)",
+      "messy_description": "work glove box",
+      "qty": 6,
+      "unit": "case",
+      "unit_price": 56.23,
+      "line_total": 337.38
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "local run",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 65,
+      "line_total": 65
+    }
+  ],
+  "bbox_status": "populate_after_real_ocr"
+}

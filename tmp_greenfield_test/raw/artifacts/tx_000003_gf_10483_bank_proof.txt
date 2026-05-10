@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Date posted: 2026-12-20
+Description: cheque Maple Ridge Farms Ltd. CHK-4598
+Amount: +$2,197.05
+Memo: invoice GF-10483
+Status: posted

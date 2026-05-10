@@ -1,0 +1,28 @@
+GreenField Farm & Site Supply
+l7 Sideroad 8, Guelph, ON NlH 6J2     (Sl9) 822-44l9
+HST # 84203 l234 RT000l
+
+INVOICE: GF-l0S3S          Date: 2026-06-09
+Due: 2026-06-l6                Terms: Due on receipt
+PO: PO-6909
+
+BILL TO:
+HighPoint Property Services
+Cambridge, ON
+Attn: Jason Reid
+
+SKU                  Description                            Qty     Unit    Unit Price      Arnount
+-----------------------------------------------------------------------------------------------
+GF-SITE-GLOVES-S0    gloves S0 pack                         l       case       S2.l4      S2.l4
+GF-BULK-SAND-MASON   washed sand                            l       yd         39.S7      39.S7
+GF-SITE-TARP-l0l2    l0xl2 tarp                             4       ea         l7.4l      69.64
+GF-SOIL-TOP-BASIC    cheap top soil                         8       yd         27.99     223.92
+SERV-DELIVERY        local run                              l       ea         7S.00      7S.00
+ 
+Subtotal:      460.27
+HST l3%:       S9.84
+TOTAL DUE:    $S20.ll
+
+Payment method expected: cheque
+ Payment ref: CHK-8972
+PEN NOTE: crossed out old total, total circled

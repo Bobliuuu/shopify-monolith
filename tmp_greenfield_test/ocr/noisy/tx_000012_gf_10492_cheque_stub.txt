@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: Brampton Turf Solutions
+Cheque/ref: AUTH-378O82
+ Date: 2O26-ll-2O
+lnvoice: GF-lO492
+Amount: $3,7SO.lS
+Notes: less credit from last order

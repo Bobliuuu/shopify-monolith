@@ -1,0 +1,13 @@
+Fertilizer Depot Inc.
+RECEIPT / YARD TICKET #403l5       2026-06-02
+Sold to: GreenField Supply Co. Ltd.
+ 
+Item                               Qty      Unit    Price       Arnount
+----------------------------------------------------------------------
+l0xl2 tarp                         3.5      ea        ll.7l      40.98
+handling / fuel / pallet fee        l        ea         36.00      36.00
+
+Subtotal: 76.98
+HST:      l0.0l
+TOTAL:    $86.99
+Paid by: Interac

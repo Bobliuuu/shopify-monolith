@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Date posted: 2026-05-16
+Description: Visa Silver Creek Stables AUTH-884256
+Amount: +$7,402.55
+Memo: invoice GF-10505
+Status: posted

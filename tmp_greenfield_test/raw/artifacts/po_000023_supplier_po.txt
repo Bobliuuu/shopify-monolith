@@ -1,0 +1,8 @@
+SUPPLIER PURCHASE ORDER
+PO: po_000023
+Vendor: Waterloo Farm Hardware
+Created: 2025-12-15
+Expected: 2026-01-05
+Status: received
+
+GF-FENCE-CHARGER-SOLAR-V01 x 168 ea @ $147.42

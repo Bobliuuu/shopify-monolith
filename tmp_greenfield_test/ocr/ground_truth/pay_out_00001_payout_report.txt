@@ -1,0 +1,7 @@
+SHOPIFY PAYOUT REPORT
+Payout id: pay_out_00001
+Payout date: 2026-10-14
+Gross: $69,255.34
+Fees: $1,592.87
+Net: $67,662.47
+Transactions: 30

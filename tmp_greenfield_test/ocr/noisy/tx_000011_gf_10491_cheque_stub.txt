@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: UrbanRoot Gardens Co.
+Cheque/ref: URBANR-O49l
+Date: 2O26-O6-O3
+lnvoice: GF-lO49l
+Amount: $7,ll9.96
+Notes: less credit from last order

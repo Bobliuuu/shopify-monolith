@@ -1,0 +1,26 @@
+GreenFieId Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (S19) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10489          Date: 2026-04-08
+Due: 2026-0S-08                Terms: Net 30
+ PO: PO-S67S
+
+BILL TO:
+Silver Creek Stables
+Milton, ON
+Attn: Megan Scott
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-FENCE-TPOST-6     posts 10 pack                          4       bundle     78.S3     314.12
+GF-FENCE-WIRE-200    fencing spool                          1       spool     134.32     134.32
+SERV-DELIVERY        local run                              1       ea        18S.00     18S.00
+
+Subtotal:      633.44
+HST 13%:       82.3S
+T0TAL DUE:    $71S.79
+
+Payment method expected: EFT
+Payment ref: SILVER-0489
+PEN NOTE: partial delivery - send rest Friday

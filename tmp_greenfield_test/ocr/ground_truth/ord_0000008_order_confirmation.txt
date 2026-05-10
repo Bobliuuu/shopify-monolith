@@ -1,0 +1,16 @@
+SHOP ORDER CONFIRMATION
+Order: ord_0000008
+Customer: Stonebridge Estates Maintenance #1
+Date: 2026-07-11
+Status: open
+Currency: CAD
+
+Items:
+- GF-SOIL-TOP-PREM 1.5 yd @ $50.19 (75.28)
+- GF-IRR-DRIP-100 8 roll @ $47.52 (380.16)
+
+Subtotal: $455.44
+Discount: $0.00
+Tax: $62.46
+Shipping: $25.00
+Total: $542.90

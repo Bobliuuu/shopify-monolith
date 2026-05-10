@@ -1,0 +1,8 @@
+SUPPLIER PURCHASE ORDER
+PO: po_0000l4
+Vendor: Wellington Aggregates Yard Ticket
+Created: 2025-l2-l5
+Expected: 2026-0l-05
+Status: received
+
+GF-BED-STRAW-HORSE-V0l x l75 bale @ $6.44

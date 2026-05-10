@@ -1,0 +1,14 @@
+From: priya@urbanroot.example
+To: orders@greenfieldsupply.example
+Subject: order for 2026-03-23
+
+hey,
+
+can you get us sand yard, alfalfa 50# for 2026-03-23?
+PO is coming later, just get it moving
+
+ship/deliver to Toronto if possible.
+
+thanks,
+Priya
+UrbanRoot Gardens Co.

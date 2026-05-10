@@ -1,0 +1,25 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create a realistic iPhone text message screenshot with short customer/order conversation.
+
+Image condition:
+low-resolution fax/scan look, slightly washed out
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+TEXT MESSAGE TRANSCRIPT
+
+Mike: can u get crush run tmrw?
+GreenField: how much do you need
+Mike: 6 ton maybe more if price ok
+GreenField: ok putting it on GF-10493
+Mike: thx
+
+---END RAW CONTENT---

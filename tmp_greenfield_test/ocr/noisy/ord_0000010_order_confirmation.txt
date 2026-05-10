@@ -1,0 +1,17 @@
+SHOP ORDER CONFIRMATION
+ Order: ord_OOOOO1O
+Customer: UrbanRoot Gardens Co. #2
+Date: 2O26-O8-O5
+Status: closed
+Currency: CAD
+
+Items:
+- GF-SOIL-TOP-BASIC 6 yd  at  $26.4O (158.4O)
+- GF-SITE-TARP-1O12 6 ea  at  $17.48 (1O4.88)
+- GF-BULK-SAND-MASON 12 yd  at  $36.7O (44O.4O)
+- GF-SEED-ALF-5O 4 sack  at  $2O5.92 (823.68)
+
+Subtotal: $1,527.36
+Discount: $45.82
+Tax: $195.85
+Shipping: $25.OO

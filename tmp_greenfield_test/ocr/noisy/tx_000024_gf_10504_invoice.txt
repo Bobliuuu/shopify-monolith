@@ -1,0 +1,27 @@
+GreenFieId Farm & Site Supply
+ 17 Sideroad 8, Guelph, ON N1H 6J2     (S19) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10S04          Date: 2026-03-26
+Due: 2026-04-2S                Terms: Net 30
+PO: n/a / txt order
+ 
+BILL TO:
+Silver Creek Stables
+Milton, ON
+ Attn: Megan Scott
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-SITE-TARP-1012    hd-ish tarp                            4       ea         17.19      68.76
+GF-SITE-GLOVES-S0    work glove box                         1       case       S1.43      S1.43
+GF-FEED-CHKN-LAYER20 layer pellets                          8       bag        23.94     191.S2
+SERV-DELIVERY        local run                              1       ea        18S.00     18S.00
+
+Subtotal:      496.71
+HST 13%:       64.S7
+TOTAL DUE:    $S61.28
+
+Payment method expected: cheque
+Payment ref: CHK-6S29
+PEN NOTE: substituted equivalent product

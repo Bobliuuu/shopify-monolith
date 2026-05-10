@@ -1,0 +1,14 @@
+EMAIL THREAD EXPORT
+
+From: office at elmlanepoultry.example
+To: orders at greenfieldsupply.example
+Subject: Re: GF-l05ll
+
+Customer:
+Can you resend the invoice? AP says they need the ref again.
+
+GreenField:
+Attached invoice GF-l05ll. Total is $l82.47. Payment ref ELMLAN-05ll.
+
+Customer:
+ok thanks. should go out 2026-09-l6.

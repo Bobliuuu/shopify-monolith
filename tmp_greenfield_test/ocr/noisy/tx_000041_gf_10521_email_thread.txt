@@ -1,0 +1,13 @@
+EMAIL THREAD EXPORT
+
+ From: accounts@mapleridgefarms.example
+To: orders@greenfieldsupply.example
+Subject: Re: GF-10521
+
+Customer:
+Can you resend the invoice? AP says they need the ref again.
+
+GreenFieId:
+
+Customer:
+ok thanks. should go out 2026-02-14.

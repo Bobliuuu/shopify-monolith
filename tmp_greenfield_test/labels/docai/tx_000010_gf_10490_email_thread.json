@@ -1,0 +1,96 @@
+{
+  "doc_id": "tx_000010_gf_10490_email_thread",
+  "doc_type": "email_thread",
+  "raw_text_path": "raw/artifacts/tx_000010_gf_10490_email_thread.txt",
+  "image_path": null,
+  "entities": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000010"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10490"
+    },
+    {
+      "type": "customer_name",
+      "text": "Oak Valley Dairy"
+    },
+    {
+      "type": "date",
+      "text": "2026-08-05"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-10-04"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-08-29"
+    },
+    {
+      "type": "total",
+      "text": "3,288.88",
+      "number": 3288.88
+    },
+    {
+      "type": "payment_ref",
+      "text": "OAKVAL-0490"
+    },
+    {
+      "type": "payment_method",
+      "text": "EFT"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FENCE-CHARGER-SOLAR",
+      "description": "Electric fence charger solar",
+      "messy_description": "solar zapper",
+      "qty": 10,
+      "unit": "ea",
+      "unit_price": 203.18,
+      "line_total": 2031.8
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BED-STRAW-HORSE",
+      "description": "Straw Bale (clean, horse grade)",
+      "messy_description": "straw horse grade",
+      "qty": 6,
+      "unit": "bale",
+      "unit_price": 7.67,
+      "line_total": 46.02
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FEED-DAIRY4-BULK",
+      "description": "Dairy ration mix #4 (bulk auger fill)",
+      "messy_description": "dairy #4",
+      "qty": 1,
+      "unit": "ton",
+      "unit_price": 538.45,
+      "line_total": 538.45
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SITE-GLOVES-50",
+      "description": "Work gloves (bulk pack 50)",
+      "messy_description": "work glove box",
+      "qty": 2,
+      "unit": "case",
+      "unit_price": 54.62,
+      "line_total": 109.24
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "delivery - truck",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 185,
+      "line_total": 185
+    }
+  ],
+  "bbox_status": "populate_after_real_ocr"
+}

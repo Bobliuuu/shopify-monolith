@@ -1,0 +1,74 @@
+{
+  "doc_id": "tx_000013_gf_10493_invoice",
+  "doc_type": "invoice",
+  "tx_id": "TX-000013",
+  "fields": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000013"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10493"
+    },
+    {
+      "type": "customer_name",
+      "text": "NorthLine Contracting"
+    },
+    {
+      "type": "date",
+      "text": "2026-07-09"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-08-08"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-07-28"
+    },
+    {
+      "type": "total",
+      "text": "1,117.14",
+      "number": 1117.14
+    },
+    {
+      "type": "payment_ref",
+      "text": "NORTHL-0493"
+    },
+    {
+      "type": "payment_method",
+      "text": "EFT"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BULK-GRAVEL-34",
+      "description": "Gravel 3/4 clear stone per ton",
+      "messy_description": "gravel 3/4",
+      "qty": 8,
+      "unit": "ton",
+      "unit_price": 46.08,
+      "line_total": 368.64
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BULK-CRUSHER",
+      "description": "Crusher run gravel driveway mix",
+      "messy_description": "crush run",
+      "qty": 6,
+      "unit": "ton",
+      "unit_price": 33.17,
+      "line_total": 199.02
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FENCE-WIRE-200",
+      "description": "Fence wire galvanized 200m spool",
+      "messy_description": "galv fence wire",
+      "qty": 3,
+      "unit": "spool",
+      "unit_price": 140.32,
+      "line_total": 420.96
+    }
+  ]
+}

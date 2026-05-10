@@ -1,0 +1,13 @@
+Wellington Aggregates Yard Ticket
+RECEIPT / YARD TICKET #SS893       2026-09-19
+Sold to: GreenField Supply Co. Ltd.
+ 
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+gloves S0 pack                     14.2     case      37.91     S38.32
+handling / fuel / pallet fee        1        ea         18.00      18.00
+
+Subtotal: SS6.32
+HST:      72.32
+TOTAL:    $628.64
+Paid by: cheque

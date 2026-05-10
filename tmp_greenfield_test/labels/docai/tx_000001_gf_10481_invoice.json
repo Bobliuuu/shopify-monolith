@@ -1,0 +1,96 @@
+{
+  "doc_id": "tx_000001_gf_10481_invoice",
+  "doc_type": "invoice",
+  "raw_text_path": "raw/artifacts/tx_000001_gf_10481_invoice.txt",
+  "image_path": "images/tx_000001_gf_10481_invoice.png",
+  "entities": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000001"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10481"
+    },
+    {
+      "type": "customer_name",
+      "text": "Elm Lane Poultry"
+    },
+    {
+      "type": "date",
+      "text": "2026-02-27"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-03-29"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-03-01"
+    },
+    {
+      "type": "total",
+      "text": "1,213.68",
+      "number": 1213.68
+    },
+    {
+      "type": "payment_ref",
+      "text": "CHK-1106"
+    },
+    {
+      "type": "payment_method",
+      "text": "cheque"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BED-STRAW-HORSE",
+      "description": "Straw Bale (clean, horse grade)",
+      "messy_description": "straw horse grade",
+      "qty": 6,
+      "unit": "bale",
+      "unit_price": 8.59,
+      "line_total": 51.54
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SITE-TARP-1012",
+      "description": "Blue tarp 10x12 (heavy duty-ish)",
+      "messy_description": "blue tarp",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 17.19,
+      "line_total": 17.19
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BED-STRAW-DUSTY",
+      "description": "Straw bales (small square, dusty)",
+      "messy_description": "small straw",
+      "qty": 4,
+      "unit": "bale",
+      "unit_price": 6.09,
+      "line_total": 24.36
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FENCE-WIRE-200",
+      "description": "Fence wire galvanized 200m spool",
+      "messy_description": "fencing spool",
+      "qty": 6,
+      "unit": "spool",
+      "unit_price": 132.66,
+      "line_total": 795.96
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "bulk dump delivery",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 185,
+      "line_total": 185
+    }
+  ],
+  "bbox_status": "populate_after_real_ocr"
+}

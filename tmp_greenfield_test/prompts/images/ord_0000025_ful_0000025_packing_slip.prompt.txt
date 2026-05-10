@@ -1,0 +1,28 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create a warehouse packing slip printed document with SKU, quantities, and tracking details.
+
+Image condition:
+slightly cropped edge, strong side shadow
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+PACKING SLIP
+Fulfillment: ful_0000025
+Order: ord_0000025
+Customer: HighPoint Property Services #1
+Carrier: Pickup
+Tracking: TRK-0000025
+Fulfilled at: 2026-05-10
+
+GF-SEED-GRASS-CON25  qty=50  loc=LOC-KIT-STAGE
+GF-SEASON-SALT-20  qty=50  loc=LOC-KIT-STAGE
+
+---END RAW CONTENT---

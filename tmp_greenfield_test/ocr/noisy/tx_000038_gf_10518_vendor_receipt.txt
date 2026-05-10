@@ -1,0 +1,11 @@
+Ontario Seed & Turf Wholesale
+
+ Item                               Qty      Unit    Price       Arnount
+----------------------------------------------------------------------
+gloves bulk                        30.9     case      39.29   1,214.06
+handling / fuel / pallet fee        1        ea         60.00      60.00
+
+Subtotal: 1,274.06
+HST:      165.63
+TOTAL:    $1,439.69
+Paid by: account charge

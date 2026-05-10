@@ -1,0 +1,27 @@
+GreenField Farm & Site Supply
+l7 Sideroad 8, Guelph, ON NlH 6J2     (5l9) 822-44l9
+HST # 84203 l234 RT000l
+
+INVOICE: GF-l0507          Date: 2026-02-05
+Due: 2026-02-l2                Terms: Due on receipt
+
+BILL TO:
+HighPoint Property Services
+Cambridge, ON
+Attn: Jason Reid
+
+SKU                  Description                            Qty     Unit    Unit Price      Arnount
+-----------------------------------------------------------------------------------------------
+ GF-SOIL-TOP-PREM     premium dirt                           4.5     yd         50.28     226.26
+GF-IRR-HOSE-34       3/4 hose                               l0      roll       64.l8     64l.80
+GF-BULK-GRAVEL-34    gravel 3/4                             4.5     ton        39.97     l79.87
+GF-SOIL-TOP-BASIC    fill dirt                              l0      yd         27.l2     27l.20
+SERV-DELIVERY        delivery charge                        l       ea        225.00     225.00
+
+Subtotal:      l,544.l3
+HST l3%:       200.74
+TOTAL DUE:    $l,744.87
+
+Payment method expected: Visa
+Payment ref: AUTH-38l433
+PEN NOTE: split payment expected

@@ -1,0 +1,12 @@
+Fertilizer Depot Inc.
+RECEIPT / YARD TICKET #45757       2026-02-05
+
+Item                               Qty      Unit    Price       Arnount
+----------------------------------------------------------------------
+premium dirt                       8.6      yd        38.63     332.22
+handling / fuel / pallet fee        1        ea         45.00      45.00
+
+Subtotal: 377.22
+HST:      49.04
+TOTAL:    $426.26
+Paid by: cheque

@@ -1,0 +1,14 @@
+SHOP ORDER CONFIRMATION
+Order: ord_0000020
+Customer: Riverbend Organics #1
+Date: 2026-09-19
+Status: partially_fulfilled
+Currency: CAD
+Items:
+- GF-SEED-ALF-50 2 sack @ $241.29 (482.58)
+
+Subtotal: $482.58
+Discount: $24.13
+Tax: $59.60
+Shipping: $0.00
+Total: $518.05

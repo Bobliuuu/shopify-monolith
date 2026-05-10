@@ -1,0 +1,11 @@
+PACKING SLIP
+Fulfillment: ful_0000005
+Order: ord_0000005
+Customer: UrbanRoot Gardens Co. #2
+Carrier: Canada Post
+Tracking: TRK-0000005
+Fulfilled at: 2026-03-26
+
+GF-BULK-SAND-MASON  qty=3  loc=LOC-GUELPH-YARD
+GF-SEED-TURF-10  qty=30  loc=LOC-GUELPH-YARD
+GF-SITE-GLOVES-50  qty=2  loc=LOC-GUELPH-YARD

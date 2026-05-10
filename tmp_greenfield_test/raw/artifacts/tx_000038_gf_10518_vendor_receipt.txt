@@ -1,0 +1,13 @@
+Ontario Seed & Turf Wholesale
+RECEIPT / YARD TICKET #93280       2026-09-13
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+gloves bulk                        30.9     case      39.29   1,214.06
+handling / fuel / pallet fee        1        ea         60.00      60.00
+
+Subtotal: 1,274.06
+HST:      165.63
+TOTAL:    $1,439.69
+Paid by: account charge

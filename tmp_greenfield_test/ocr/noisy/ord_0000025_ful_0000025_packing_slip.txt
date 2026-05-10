@@ -1,0 +1,10 @@
+PACKING SLIP
+Fulfillment: ful_0000025
+Order: ord_0000025
+Customer: HighPoint Property Services #1
+Carrier: Pickup
+Tracking: TRK-0000025
+Fulfilled at: 2026-05-10
+
+GF-SEED-GRASS-CON25  qty=50  loc=LOC-KIT-STAGE
+GF-SEASON-SALT-20  qty=50  loc=LOC-KIT-STAGE

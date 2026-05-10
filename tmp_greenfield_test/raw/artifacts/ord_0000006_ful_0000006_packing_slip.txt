@@ -1,0 +1,10 @@
+PACKING SLIP
+Fulfillment: ful_0000006
+Order: ord_0000006
+Customer: Silver Creek Stables #1
+Carrier: Fleet
+Tracking: TRK-0000006
+Fulfilled at: 2026-06-04
+
+GF-BED-SHAV-COMP  qty=80  loc=LOC-GUELPH-WH
+GF-FEED-CHKN-LAYER20  qty=20  loc=LOC-GUELPH-WH

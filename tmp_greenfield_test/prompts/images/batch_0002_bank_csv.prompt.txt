@@ -1,0 +1,29 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create a bank CSV/spreadsheet screenshot or printed transaction export with many rows.
+
+Image condition:
+mostly readable, mild desk shadow
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+batch_id,date,description,amount,type,invoice_no,payment_ref,customer
+BATCH-0002,2026-03-04,e-transfer Maple Ridge Farms Ltd. MAPLER-0531,2,551.96,credit,GF-10531,MAPLER-0531,Maple Ridge Farms Ltd.
+BATCH-0002,2026-08-08,on account Silver Creek Stables AUTH-886730,721.71,credit,GF-10532,AUTH-886730,Silver Creek Stables
+BATCH-0002,2026-06-17,Visa Maple Ridge Farms Ltd. AUTH-743378,2,713.37,credit,GF-10533,AUTH-743378,Maple Ridge Farms Ltd.
+BATCH-0002,2026-05-19,e-transfer Stonebridge Estates Maintenance STONEB-0534,834.03,credit,GF-10534,STONEB-0534,Stonebridge Estates Maintenance
+BATCH-0002,2026-06-21,cheque HighPoint Property Services CHK-8972,520.11,credit,GF-10535,CHK-8972,HighPoint Property Services
+BATCH-0002,2026-01-18,cheque Maple Ridge Farms Ltd. CHK-8033,3,397.94,credit,GF-10536,CHK-8033,Maple Ridge Farms Ltd.
+BATCH-0002,2026-03-07,cheque Riverbend Organics CHK-6562,6,140.08,credit,GF-10537,CHK-6562,Riverbend Organics
+BATCH-0002,2026-09-27,on account GreenScape Landscaping Inc. AUTH-618119,1,172.58,credit,GF-10538,AUTH-618119,GreenScape Landscaping Inc.
+BATCH-0002,2026-09-24,Visa Brampton Turf Solutions AUTH-722937,2,168.31,credit,GF-10539,AUTH-722937,Brampton Turf Solutions
+BATCH-0002,2026-02-20,Visa Stonebridge Estates Maintenance AUTH-648141,1,146.55,credit,GF-10540,AUTH-648141,Stonebridge Estates Maintenance
+
+---END RAW CONTENT---

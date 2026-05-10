@@ -1,0 +1,47 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create a realistic photographed paper invoice with itemized table, HST, total, account terms, and handwritten circle around total.
+
+Image condition:
+low-resolution fax/scan look, slightly washed out
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10536          Date: 2026-01-04
+Due: 2026-02-03                Terms: Net 30
+PO: n/a / txt order
+
+BILL TO:
+Maple Ridge Farms Ltd.
+Fergus, ON
+Attn: Jeff Martin
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-LIME-AG-LOAD      lime dump trailer                      2       load      508.46   1,016.92
+GF-FERT-START-122412 starter fert skid                      25      bag        39.97     999.25
+GF-LIME-DOLO-18      lime bags                              40      bag        10.20     408.00
+GF-CHEM-INSECT-ORCH  insect spray                           6       jug        88.81     532.86
+SERV-DELIVERY        delivery charge                        1       ea         65.00      65.00
+SERV-DISCOUNT        acct discount                          1       ea        -15.00     -15.00
+
+Subtotal:      3,007.03
+HST 13%:       390.91
+TOTAL DUE:    $3,397.94
+
+Payment method expected: cheque
+Payment ref: CHK-8033
+PEN NOTE: substituted equivalent product
+
+---END RAW CONTENT---

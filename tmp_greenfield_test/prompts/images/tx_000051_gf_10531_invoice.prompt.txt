@@ -1,0 +1,47 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create a realistic photographed paper invoice with itemized table, HST, total, account terms, and handwritten circle around total.
+
+Image condition:
+wrinkles, stains, pen marks, imperfect alignment
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10531          Date: 2026-02-01
+Due: 2026-03-03                Terms: Net 30
+PO: n/a / txt order
+
+BILL TO:
+Maple Ridge Farms Ltd.
+Fergus, ON
+Attn: Jeff Martin
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-SEED-TURF-10      turf mix                               6       bag        34.08     204.48
+GF-CHEM-INSECT-ORCH  orchard insecticide                    6       jug        78.58     471.48
+GF-FERT-UREA-55      Urea 55#                               12      bag        35.62     427.44
+GF-SEED-ALF-50       coated alf seed                        4       sack      240.69     962.76
+GF-CHEM-WEED-GEN     weed concentrate                       3       jug        39.07     117.21
+SERV-DELIVERY        bulk dump delivery                     1       ea         75.00      75.00
+
+Subtotal:      2,258.37
+HST 13%:       293.59
+TOTAL DUE:    $2,551.96
+
+Payment method expected: e-transfer
+Payment ref: MAPLER-0531
+PEN NOTE: substituted equivalent product
+
+---END RAW CONTENT---

@@ -1,0 +1,6 @@
+version: 2
+
+models:
+  - name: shopify_transactions_base
+    description: Base union of transaction sources prior to staging enrichment.
+    tags: ['base']

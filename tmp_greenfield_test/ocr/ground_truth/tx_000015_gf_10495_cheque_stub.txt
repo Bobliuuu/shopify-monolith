@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: ClearPath Utilities
+Cheque/ref: CLEARP-0495
+Date: 2026-01-13
+Invoice: GF-10495
+Amount: $569.11
+Notes: less credit from last order

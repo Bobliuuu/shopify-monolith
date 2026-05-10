@@ -1,0 +1,11 @@
+PACKING SLIP
+ Fulfillment: ful_00000l6
+Order: ord_00000l6
+Customer: Elm Lane Poultry #l
+Carrier: Purolator
+Tracking: TRK-00000l6
+Fulfilled at: 2026-02-27
+
+ GF-BED-SHAV-COMP  qty=8  loc=LOC-GUELPH-WH
+GF-FENCE-CHARGER-SOLAR  qty=3  loc=LOC-GUELPH-WH
+GF-FENCE-TPOST-6  qty=8  loc=LOC-GUELPH-WH

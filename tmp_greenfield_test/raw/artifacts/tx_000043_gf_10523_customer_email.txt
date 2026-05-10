@@ -1,0 +1,14 @@
+From: owen@bramptonturf.example
+To: orders@greenfieldsupply.example
+Subject: order for 2026-06-01
+
+hey,
+
+can you get us hd-ish tarp, road salt 20kg for 2026-06-01?
+we may pay half now and half after delivery
+
+ship/deliver to Brampton if possible.
+
+thanks,
+Owen
+Brampton Turf Solutions

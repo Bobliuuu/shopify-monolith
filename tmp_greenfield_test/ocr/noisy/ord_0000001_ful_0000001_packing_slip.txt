@@ -1,0 +1,11 @@
+PACKING SLIP
+Fulfillment: ful_OOOOOO1
+Order: ord_OOOOOO1
+Customer: Maple Ridge Farms Ltd. #2
+Carrier: Fleet
+Tracking: TRK-OOOOOO1
+Fulfilled at: 2O26-O2-27
+
+GF-IRR-HOSE-34  qty=1  loc=LOC-KIT-STAGE
+GF-SEED-GRASS-CON25  qty=8O  loc=LOC-KIT-STAGE
+GF-CHEM-WEED-GEN  qty=8  loc=LOC-KIT-STAGE

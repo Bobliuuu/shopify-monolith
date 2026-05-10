@@ -1,0 +1,25 @@
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10495          Date: 2026-01-05
+Due: 2026-02-04                Terms: Net 30
+PO: n/a / txt order
+
+BILL TO:
+ClearPath Utilities
+Hamilton, ON
+Attn: Brian Berry
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-SITE-TARP-1012    10x12 tarp                             6       ea         15.52      93.12
+GF-IRR-DRIP-100      half inch poly                         6       roll       48.42     290.52
+SERV-DELIVERY        local run                              1       ea        120.00     120.00
+
+ Subtotal:      503.64
+HST 13%:       65.47
+TOTAL DUE:    $569.11
+
+Payment method expected: EFT
+Payment ref: CLEARP-0495
+PEN NOTE: split payment expected

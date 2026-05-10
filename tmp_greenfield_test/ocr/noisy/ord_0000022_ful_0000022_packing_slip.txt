@@ -1,0 +1,10 @@
+ PACKING SLIP
+Fulfillment: ful_OOOOO22
+Order: ord_OOOOO22
+Customer: Silver Creek Stables #2
+Carrier: Purolator
+Tracking: TRK-OOOOO22
+
+GF-FENCE-CHARGER-SOLAR  qty=6  loc=LOC-KIT-STAGE
+GF-SITE-GLOVES-5O  qty=l  loc=LOC-KIT-STAGE
+ GF-BED-STRAW-DUSTY  qty=3O  loc=LOC-KIT-STAGE

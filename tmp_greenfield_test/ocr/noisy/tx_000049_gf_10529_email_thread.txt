@@ -1,0 +1,13 @@
+EMAIL THREAD EXPORT
+
+From: mike@northlinecontracting.example
+To: orders@greenfieldsupply.example
+ Subject: Re: GF-lOS29
+
+ Customer:
+Can you resend the invoice? AP says they need the ref again.
+
+GreenField:
+ Attached invoice GF-lOS29. Total is $48S.26. Payment ref NORTHL-OS29.
+
+Customer:

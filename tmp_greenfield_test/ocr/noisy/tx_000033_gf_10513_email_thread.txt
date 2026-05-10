@@ -1,0 +1,13 @@
+EMAIL THREAD EXPORT
+
+From: kyle@greenscapelandscaping.example
+To: orders@greenfieldsupply.example
+Subject: Re: GF-lO5l3
+
+Customer:
+Can you resend the invoice? AP says they need the ref again.
+
+GreenField:
+Attached invoice GF-lO5l3. Total is $5,793.8O. Payment ref CHK-424l.
+
+ok thanks. should go out 2O26-O5-Ol.

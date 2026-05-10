@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: Maple Ridge Farms Ltd.
+Cheque/ref: AUTH-816318
+Date: 2026-02-14
+Invoice: GF-10521
+Amount: $4,253.09
+Notes: less credit from last order

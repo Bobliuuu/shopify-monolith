@@ -1,0 +1,29 @@
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10488          Date: 2026-07-11
+Due: 2026-08-10                Terms: Net 30
+PO: n/a / txt order
+
+BILL TO:
+Elm Lane Poultry
+Listowel, ON
+Attn: Gord Allen
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-FEED-DAIRY4-BULK  dairy #4                               1       ton       504.74     504.74
+GF-BED-STRAW-HORSE   horse straw                            50      bale        7.92     396.00
+GF-SITE-GLOVES-50    gloves bulk                            8       case       56.85     454.80
+GF-FEED-CHKN-LAYER20 chicken feed 20kg                      6       bag        24.10     144.60
+GF-BED-STRAW-DUSTY   dusty straw bales                      6       bale        6.58      39.48
+SERV-DELIVERY        bulk dump delivery                     1       ea         95.00      95.00
+
+Subtotal:      1,634.62
+HST 13%:       212.50
+TOTAL DUE:    $1,847.12
+
+Payment method expected: Visa
+Payment ref: AUTH-704201
+PEN NOTE: missing PO, call office

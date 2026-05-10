@@ -1,0 +1,7 @@
+ INVENTORY ADJUSTMENT LOG
+Adjustment id: adj_OOOOOO7_gf_fert_urea_55
+SKU: GF-FERT-UREA-55
+Location: LOC-GUELPH-WH
+Delta: -2O
+Reason: order_fulfillment
+Timestamp: 2O26-O2-15

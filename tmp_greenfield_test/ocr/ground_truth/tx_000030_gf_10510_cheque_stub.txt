@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: Stonebridge Estates Maintenance
+Cheque/ref: STONEB-0510
+Date: 2026-10-14
+Invoice: GF-10510
+Amount: $1,652.38
+Notes: paid in full

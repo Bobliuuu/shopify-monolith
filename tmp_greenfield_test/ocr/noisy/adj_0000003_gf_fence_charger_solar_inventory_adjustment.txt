@@ -1,0 +1,7 @@
+INVENTORY ADJUSTMENT LOG
+Adjustment id: adj_0000003_gf_fence_charger_solar
+SKU: GF-FENCE-CHARGER-SOLAR
+Location: LOC-KIT-STAGE
+Delta: -2
+Reason: order_fulfillment
+Timestamp: 2026-12-07

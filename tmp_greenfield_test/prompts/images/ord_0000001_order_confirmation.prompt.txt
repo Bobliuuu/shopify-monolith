@@ -1,0 +1,36 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create an ecommerce order confirmation page or email screenshot with totals and line items.
+
+Image condition:
+tilted phone photo, mild blur, shadow across document
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+SHOP ORDER CONFIRMATION
+Order: ord_0000001
+Customer: Maple Ridge Farms Ltd. #2
+Date: 2026-02-27
+Status: fulfilled
+Currency: CAD
+
+Items:
+- GF-IRR-HOSE-34 1 roll @ $69.25 (69.25)
+- GF-SEED-GRASS-CON25 80 bag @ $89.02 (7,121.60)
+- GF-CHEM-INSECT-ORCH 3 jug @ $79.43 (238.29)
+- GF-CHEM-WEED-GEN 8 jug @ $39.37 (314.96)
+
+Subtotal: $7,744.10
+Discount: $232.32
+Tax: $986.28
+Shipping: $75.00
+Total: $8,573.06
+
+---END RAW CONTENT---

@@ -1,0 +1,35 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create an ecommerce order confirmation page or email screenshot with totals and line items.
+
+Image condition:
+mostly readable, mild desk shadow
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+SHOP ORDER CONFIRMATION
+Order: ord_0000015
+Customer: Maple Ridge Farms Ltd. #2
+Date: 2026-01-05
+Status: fulfilled
+Currency: CAD
+
+Items:
+- GF-FERT-START-122412 20 bag @ $46.47 (929.40)
+- GF-SEED-ALF-50 6 sack @ $216.37 (1,298.22)
+- GF-IRR-DRIP-100 1 roll @ $50.87 (50.87)
+
+Subtotal: $2,278.49
+Discount: $0.00
+Tax: $302.57
+Shipping: $49.00
+Total: $2,630.06
+
+---END RAW CONTENT---

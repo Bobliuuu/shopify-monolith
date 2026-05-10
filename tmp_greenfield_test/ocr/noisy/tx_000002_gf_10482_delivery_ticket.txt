@@ -1,0 +1,13 @@
+Date: 2026-04-21
+Customer: Oak Valley Dairy
+Location: Elora, ON
+Driver: Dylan
+
+QTY      UNIT   DESCRIPTION
+-----------------------------------------
+ 1.5      ton    ration mix 4
+6        bundle 6ft green t posts
+ 1        ea     delivery charge
+
+Notes: partial load only
+Received by: ____________________

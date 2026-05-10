@@ -1,0 +1,8 @@
+{
+  "doc_id": "ord_0000005_ful_0000005_packing_slip",
+  "doc_type": "packing_slip",
+  "raw_text_path": "raw/artifacts/ord_0000005_ful_0000005_packing_slip.txt",
+  "image_path": null,
+  "entities": [],
+  "bbox_status": "populate_after_real_ocr"
+}

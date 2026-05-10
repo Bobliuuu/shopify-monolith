@@ -1,0 +1,13 @@
+County Hardware & Farm Supply
+RECEIPT / YARD TICKET #87987       2026-02-13
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+crusher run                        17.8     ton       24.77     440.91
+handling / fuel / pallet fee        1        ea         12.00      12.00
+
+Subtotal: 452.91
+HST:      58.88
+TOTAL:    $511.79
+Paid by: account charge

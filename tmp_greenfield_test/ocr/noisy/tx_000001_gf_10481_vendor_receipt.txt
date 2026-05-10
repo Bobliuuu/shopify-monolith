@@ -1,0 +1,12 @@
+ County Hardware & Farm Supply
+RECEIPT / YARD TICKET #65656       2026-02-27
+Sold to: GreenFieId Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Arnount
+----------------------------------------------------------------------
+straw horse grade                  10.7     bale       7.43      79.50
+
+Subtotal: 91.50
+HST:      11.89
+TOTAL:    $103.39
+Paid by: Interac

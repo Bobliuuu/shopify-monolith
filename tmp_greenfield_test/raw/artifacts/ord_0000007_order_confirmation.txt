@@ -1,0 +1,16 @@
+SHOP ORDER CONFIRMATION
+Order: ord_0000007
+Customer: Riverbend Organics #2
+Date: 2026-02-13
+Status: closed
+Currency: CAD
+
+Items:
+- GF-SEED-TURF-10 10 bag @ $34.24 (342.40)
+- GF-FERT-UREA-55 20 bag @ $38.21 (764.20)
+
+Subtotal: $1,106.60
+Discount: $55.33
+Tax: $136.67
+Shipping: $0.00
+Total: $1,187.94

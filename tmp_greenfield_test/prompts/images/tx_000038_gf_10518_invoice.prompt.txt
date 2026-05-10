@@ -1,0 +1,46 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create a realistic photographed paper invoice with itemized table, HST, total, account terms, and handwritten circle around total.
+
+Image condition:
+tilted phone photo, mild blur, shadow across document
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10518          Date: 2026-09-13
+Due: 2026-11-12                Terms: Net 60
+PO: PO-4827
+
+BILL TO:
+Oak Valley Dairy
+Elora, ON
+Attn: Sarah Lewis
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-FENCE-TPOST-6     T post bundle                          4       bundle     80.52     322.08
+GF-FENCE-CHARGER-SOLAR solar zapper                           2       ea        205.24     410.48
+GF-SITE-GLOVES-50    gloves bulk                            8       case       59.31     474.48
+GF-FEED-DAIRY4-BULK  ration mix 4                           3       ton       521.07   1,563.21
+SERV-DELIVERY        delivery - truck                       1       ea        120.00     120.00
+
+Subtotal:      2,890.25
+HST 13%:       375.73
+TOTAL DUE:    $3,265.98
+
+Payment method expected: cheque
+Payment ref: CHK-9022
+PEN NOTE: customer asked why price changed
+
+---END RAW CONTENT---

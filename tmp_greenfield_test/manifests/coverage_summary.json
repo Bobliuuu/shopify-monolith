@@ -1,0 +1,79 @@
+{
+  "scale_profile": "minimal",
+  "entity_counts": {
+    "customers": 24,
+    "products": 36,
+    "inventory_locations": 3,
+    "inventory_levels": 108,
+    "orders": 60,
+    "fulfillments": 60,
+    "refunds": 0,
+    "returns": 0,
+    "shipping_events": 180,
+    "payment_transactions": 60,
+    "tax_lines": 60,
+    "discounts": 34,
+    "shopify_payouts": 2,
+    "supplier_purchase_orders": 36,
+    "receiving_events": 36,
+    "inventory_adjustments": 195
+  },
+  "doc_type_counts": {
+    "invoice": 60,
+    "vendor_receipt": 60,
+    "customer_email": 60,
+    "email_thread": 60,
+    "handwritten_note": 60,
+    "delivery_ticket": 60,
+    "bank_proof": 60,
+    "cheque_stub": 60,
+    "sms_thread": 60,
+    "bank_csv": 2,
+    "inventory_csv": 2,
+    "catalog": 1,
+    "website": 1,
+    "order_confirmation": 25,
+    "packing_slip": 25,
+    "payout_report": 2,
+    "supplier_po": 25,
+    "inventory_adjustment_log": 25
+  },
+  "checks": {
+    "orders": {
+      "actual": 60,
+      "required": 60,
+      "pass": true
+    },
+    "customers": {
+      "actual": 24,
+      "required": 24,
+      "pass": true
+    },
+    "products": {
+      "actual": 36,
+      "required": 36,
+      "pass": true
+    },
+    "fulfillments": {
+      "actual": 60,
+      "required": 57,
+      "pass": true
+    },
+    "payment_transactions": {
+      "actual": 60,
+      "required": 60,
+      "pass": true
+    },
+    "shopify_payouts": {
+      "actual": 2,
+      "required": 2,
+      "pass": true
+    },
+    "supplier_purchase_orders": {
+      "actual": 36,
+      "required": 36,
+      "pass": true
+    }
+  },
+  "all_checks_pass": true
+}

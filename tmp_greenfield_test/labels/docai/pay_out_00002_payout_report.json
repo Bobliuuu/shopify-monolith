@@ -1,0 +1,8 @@
+{
+  "doc_id": "pay_out_00002_payout_report",
+  "doc_type": "payout_report",
+  "raw_text_path": "raw/artifacts/pay_out_00002_payout_report.txt",
+  "image_path": null,
+  "entities": [],
+  "bbox_status": "populate_after_real_ocr"
+}

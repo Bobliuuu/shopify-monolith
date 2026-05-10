@@ -1,0 +1,71 @@
+{
+  "generated_at": "2026-04-29T07:46:50.291842+00:00",
+  "all_checks_passed": false,
+  "checks": [
+    {
+      "name": "shop_domain_set",
+      "passed": false,
+      "detail": "Requires SHOPIFY_SHOP_NAME env variable."
+    },
+    {
+      "name": "shopify_token_set",
+      "passed": false,
+      "detail": "Requires SHOPIFY_API_PASSWORD or SHOPIFY_ACCESS_TOKEN."
+    },
+    {
+      "name": "primary_domain_configured",
+      "passed": false,
+      "detail": "Manual confirmation required before go-live."
+    },
+    {
+      "name": "payments_configured",
+      "passed": false,
+      "detail": "Manual confirmation required before go-live."
+    },
+    {
+      "name": "shipping_profile_configured",
+      "passed": false,
+      "detail": "Manual confirmation required before go-live."
+    },
+    {
+      "name": "tax_profile_configured",
+      "passed": false,
+      "detail": "Manual confirmation required before go-live."
+    },
+    {
+      "name": "product_catalog_seeded",
+      "passed": false,
+      "detail": "Manual confirmation required before go-live."
+    },
+    {
+      "name": "navigation_ready",
+      "passed": false,
+      "detail": "Manual confirmation required before go-live."
+    },
+    {
+      "name": "policy_pages_ready",
+      "passed": false,
+      "detail": "Manual confirmation required before go-live."
+    },
+    {
+      "name": "theme_published",
+      "passed": false,
+      "detail": "Manual confirmation required before go-live."
+    },
+    {
+      "name": "analytics_tags_enabled",
+      "passed": false,
+      "detail": "Manual confirmation required before go-live."
+    },
+    {
+      "name": "checkout_smoke_test_passed",
+      "passed": false,
+      "detail": "Manual confirmation required before go-live."
+    },
+    {
+      "name": "rollback_plan_documented",
+      "passed": false,
+      "detail": "Manual confirmation required before go-live."
+    }
+  ]
+}

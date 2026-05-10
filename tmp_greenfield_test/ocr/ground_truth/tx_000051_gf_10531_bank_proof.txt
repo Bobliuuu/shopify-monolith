@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Date posted: 2026-03-04
+Description: e-transfer Maple Ridge Farms Ltd. MAPLER-0531
+Amount: +$2,551.96
+Memo: invoice GF-10531
+Status: posted

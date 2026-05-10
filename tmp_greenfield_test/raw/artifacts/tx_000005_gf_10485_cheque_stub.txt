@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: GreenScape Landscaping Inc.
+Cheque/ref: CHK-9201
+Date: 2026-03-31
+Invoice: GF-10485
+Amount: $2,587.94
+Notes: hold receipt

@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****ll82
+Date posted: 2026-04-2S
+Description: cheque Silver Creek Stables CHK-6S29
+ Amount: +$S6l.28
+Memo: invoice GF-l0S04
+Status: posted

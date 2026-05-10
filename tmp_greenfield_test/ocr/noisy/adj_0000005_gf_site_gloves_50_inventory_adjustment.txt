@@ -1,0 +1,7 @@
+INVENTORY ADJUSTMENT LOG
+Adjustment id: adj_000000S_gf_site_gloves_S0
+SKU: GF-SITE-GLOVES-S0
+ Location: LOC-GUELPH-YARD
+Delta: -2
+Reason: order_fulfillment
+Timestamp: 2026-03-26

@@ -1,0 +1,96 @@
+{
+  "doc_id": "tx_000012_gf_10492_email_thread",
+  "doc_type": "email_thread",
+  "raw_text_path": "raw/artifacts/tx_000012_gf_10492_email_thread.txt",
+  "image_path": null,
+  "entities": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000012"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10492"
+    },
+    {
+      "type": "customer_name",
+      "text": "Brampton Turf Solutions"
+    },
+    {
+      "type": "date",
+      "text": "2026-10-17"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-11-16"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-11-20"
+    },
+    {
+      "type": "total",
+      "text": "3,750.15",
+      "number": 3750.15
+    },
+    {
+      "type": "payment_ref",
+      "text": "AUTH-378082"
+    },
+    {
+      "type": "payment_method",
+      "text": "Visa"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-ALF-50",
+      "description": "Alfalfa seed coated 50lb sack",
+      "messy_description": "alfalfa coated",
+      "qty": 2,
+      "unit": "sack",
+      "unit_price": 211.95,
+      "line_total": 423.9
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-TURF-10",
+      "description": "Grass seed premium turf mix 10lb",
+      "messy_description": "turf mix",
+      "qty": 80,
+      "unit": "bag",
+      "unit_price": 32.64,
+      "line_total": 2611.2
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEASON-SALT-20",
+      "description": "Ice melt salt (road salt) 20kg",
+      "messy_description": "road salt 20kg",
+      "qty": 20,
+      "unit": "bag",
+      "unit_price": 13.05,
+      "line_total": 261.0
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-IRR-DRIP-100",
+      "description": "Drip line 1/2 poly 100ft roll",
+      "messy_description": "irrigation drip roll",
+      "qty": 1,
+      "unit": "roll",
+      "unit_price": 47.62,
+      "line_total": 47.62
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DISCOUNT",
+      "description": "Account discount / price adjustment",
+      "messy_description": "acct discount",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": -25,
+      "line_total": -25
+    }
+  ],
+  "bbox_status": "populate_after_real_ocr"
+}

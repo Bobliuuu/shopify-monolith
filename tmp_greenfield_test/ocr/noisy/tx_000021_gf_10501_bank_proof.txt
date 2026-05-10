@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Date posted: 2026-0S-0S
+Description: on account Brampton Turf Solutions AUTH-629298
+Amount: +$6,230.2S
+Memo: invoice GF-10S01
+Status: posted

@@ -1,0 +1,14 @@
+EMAIL THREAD EXPORT
+
+From: laura@stonebridge-maint.example
+To: orders@greenfieldsupply.example
+Subject: Re: GF-10540
+
+Customer:
+Can you resend the invoice? AP says they need the ref again.
+
+GreenField:
+Attached invoice GF-10540. Total is $1,146.55. Payment ref AUTH-648141.
+
+Customer:
+ok thanks. should go out 2026-02-20.

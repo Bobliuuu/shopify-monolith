@@ -1,0 +1,11 @@
+PACKING SLIP
+Fulfillment: ful_OOOOO21
+Order: ord_OOOOO21
+Customer: Brampton Turf Solutions #1
+Carrier: Purolator
+Tracking: TRK-OOOOO21
+Fulfilled at: 2O26-O4-11
+
+ GF-SITE-TARP-1O12  qty=8  loc=LOC-GUELPH-YARD
+GF-SEED-GRASS-CON25  qty=8O  loc=LOC-GUELPH-YARD
+GF-SEASON-PETMELT  qty=2O  loc=LOC-GUELPH-YARD

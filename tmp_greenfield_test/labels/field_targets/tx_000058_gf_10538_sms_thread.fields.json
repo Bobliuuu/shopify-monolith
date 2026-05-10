@@ -1,0 +1,84 @@
+{
+  "doc_id": "tx_000058_gf_10538_sms_thread",
+  "doc_type": "sms_thread",
+  "tx_id": "TX-000058",
+  "fields": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000058"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10538"
+    },
+    {
+      "type": "customer_name",
+      "text": "GreenScape Landscaping Inc."
+    },
+    {
+      "type": "date",
+      "text": "2026-09-19"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-10-19"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-09-27"
+    },
+    {
+      "type": "total",
+      "text": "1,172.58",
+      "number": 1172.58
+    },
+    {
+      "type": "payment_ref",
+      "text": "AUTH-618119"
+    },
+    {
+      "type": "payment_method",
+      "text": "on account"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SITE-GLOVES-50",
+      "description": "Work gloves (bulk pack 50)",
+      "messy_description": "gloves 50 pack",
+      "qty": 8,
+      "unit": "case",
+      "unit_price": 60.09,
+      "line_total": 480.72
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-IRR-DRIP-100",
+      "description": "Drip line 1/2 poly 100ft roll",
+      "messy_description": "drip line 100ft",
+      "qty": 10,
+      "unit": "roll",
+      "unit_price": 44.96,
+      "line_total": 449.6
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SITE-TARP-1012",
+      "description": "Blue tarp 10x12 (heavy duty-ish)",
+      "messy_description": "blue tarp",
+      "qty": 2,
+      "unit": "ea",
+      "unit_price": 16.18,
+      "line_total": 32.36
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "bulk dump delivery",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 75,
+      "line_total": 75
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+SHOP ORDER CONFIRMATION
+Customer: Brampton Turf Solutions #2
+Date: 2026-07-09
+Status: partially_fulfilled
+Currency: CAD
+
+Items:
+- GF-SEASON-PETMELT 8 bag  at  $17.60 (140.80)
+- GF-BULK-GRAVEL-34 16 ton  at  $46.61 (745.76)
+- GF-SEASON-SALT-20 4 bag  at  $11.91 (47.64)
+- GF-SEED-GRASS-CON25 4 bag  at  $96.33 (385.32)
+
+Subtotal: $1,319.52
+Discount: $0.00
+Tax: $176.09
+Shipping: $35.00
+Total: $1,530.61

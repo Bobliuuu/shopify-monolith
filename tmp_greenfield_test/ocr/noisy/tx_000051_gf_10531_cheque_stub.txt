@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: Maple Ridge Farms Ltd.
+Cheque/ref: MAPLER-O53l
+ Date: 2O26-O3-O4
+Invoice: GF-lO53l
+Amount: $2,55l.96
+Notes: hold receipt

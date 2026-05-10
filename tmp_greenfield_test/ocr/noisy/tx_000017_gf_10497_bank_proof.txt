@@ -1,0 +1,8 @@
+ Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Date posted: 2026-06-20
+Description: e-transfer HighPoint Property Services HIGHPO-0497
+Amount: +$843.55
+Memo: invoice GF-10497
+Status: posted

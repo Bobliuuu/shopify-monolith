@@ -1,0 +1,13 @@
+Ontario Seed & Turf Wholesale
+RECEIPT / YARD TICKET #52912       2026-04-17
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+fill dirt                          2.1      yd        23.34      49.01
+handling / fuel / pallet fee        1        ea         12.00      12.00
+
+Subtotal: 61.01
+HST:      7.93
+TOTAL:    $68.94
+Paid by: cheque

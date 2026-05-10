@@ -1,0 +1,94 @@
+{
+  "doc_id": "tx_000004_gf_10484_vendor_receipt",
+  "doc_type": "vendor_receipt",
+  "tx_id": "TX-000004",
+  "fields": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000004"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10484"
+    },
+    {
+      "type": "customer_name",
+      "text": "Maple Ridge Farms Ltd."
+    },
+    {
+      "type": "date",
+      "text": "2026-04-28"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-05-28"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-05-01"
+    },
+    {
+      "type": "total",
+      "text": "5,956.99",
+      "number": 5956.99
+    },
+    {
+      "type": "payment_ref",
+      "text": "MAPLER-0484"
+    },
+    {
+      "type": "payment_method",
+      "text": "e-transfer"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-TURF-10",
+      "description": "Grass seed premium turf mix 10lb",
+      "messy_description": "turf mix",
+      "qty": 50,
+      "unit": "bag",
+      "unit_price": 33.95,
+      "line_total": 1697.5
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-LIME-DOLO-18",
+      "description": "Dolomitic Lime bagged 18kg",
+      "messy_description": "dolomitic 18kg",
+      "qty": 10,
+      "unit": "bag",
+      "unit_price": 10.12,
+      "line_total": 101.2
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FERT-UREA-55",
+      "description": "Urea 46 granular - 55lb bags",
+      "messy_description": "Urea 55#",
+      "qty": 80,
+      "unit": "bag",
+      "unit_price": 34.59,
+      "line_total": 2767.2
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-LIME-AG-LOAD",
+      "description": "Lime - ag grade (dump trailer load)",
+      "messy_description": "ag grade lime",
+      "qty": 1,
+      "unit": "load",
+      "unit_price": 520.77,
+      "line_total": 520.77
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "delivery charge",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 185,
+      "line_total": 185
+    }
+  ]
+}

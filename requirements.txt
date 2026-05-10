@@ -10,3 +10,7 @@ dlt
 sdv
 rdt
 python-dateutil
+boto3
+pillow
+pytesseract
+pyyaml

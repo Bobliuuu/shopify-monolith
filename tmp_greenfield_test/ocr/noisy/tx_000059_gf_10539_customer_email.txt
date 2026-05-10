@@ -1,0 +1,14 @@
+From: owen@bramptonturf.example
+To: orders@greenfieldsupply.example
+Subject: order for 2026-08-18
+
+ hey,
+
+can you get us 10x12 tarp, ice melt for 2026-08-18?
+if you don't have it, use the cheaper mix
+ 
+ship/deliver to Brampton if possible.
+
+thanks,
+Owen
+Brampton Turf Solutions

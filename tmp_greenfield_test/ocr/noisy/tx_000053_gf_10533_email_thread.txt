@@ -1,0 +1,14 @@
+EMAIL THREAD EXPORT
+
+From: accounts@mapleridgefarms.example
+To: orders@greenfieldsupply.example
+Subject: Re: GF-lO533
+
+Customer:
+Can you resend the invoice? AP says they need the ref again.
+
+GreenField:
+Attached invoice GF-lO533. Total is $2,7l3.37. Payment ref AUTH-743378.
+ 
+Customer:
+ok thanks. should go out 2O26-O6-l7.

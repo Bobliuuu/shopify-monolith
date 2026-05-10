@@ -1,0 +1,7 @@
+Mobile banking transaction detail
+Account: Business Chequing ****1182
+Date posted: 2O26-O5-31
+Description: cheque GreenScape Landscaping Inc. CHK-4777
+Amount: +$1,372.89
+Memo: invoice GF-1O5O9
+Status: posted

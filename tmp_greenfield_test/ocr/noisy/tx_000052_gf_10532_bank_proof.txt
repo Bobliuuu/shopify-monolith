@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Date posted: 2O26-O8-O8
+Description: on account Silver Creek Stables AUTH-88673O
+Amount: +$721.71
+Memo: invoice GF-1OS32
+Status: posted

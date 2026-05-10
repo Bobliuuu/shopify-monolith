@@ -1,0 +1,8 @@
+# Example: map a WooCommerce / POS export to ``legacy.orders_csv_stub`` columns.
+target_table: orders_csv_stub
+columns:
+  external_order_id: order_id
+  customer_email: email
+  order_total: total
+  currency: currency
+  placed_at: created_at

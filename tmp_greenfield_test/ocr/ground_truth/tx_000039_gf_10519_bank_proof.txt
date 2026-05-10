@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Date posted: 2026-10-23
+Description: EFT HighPoint Property Services HIGHPO-0519
+Amount: +$3,035.78
+Memo: invoice GF-10519
+Status: posted

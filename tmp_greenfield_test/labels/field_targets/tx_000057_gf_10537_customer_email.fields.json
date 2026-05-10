@@ -1,0 +1,74 @@
+{
+  "doc_id": "tx_000057_gf_10537_customer_email",
+  "doc_type": "customer_email",
+  "tx_id": "TX-000057",
+  "fields": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000057"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10537"
+    },
+    {
+      "type": "customer_name",
+      "text": "Riverbend Organics"
+    },
+    {
+      "type": "date",
+      "text": "2026-02-28"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-03-07"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-03-07"
+    },
+    {
+      "type": "total",
+      "text": "6,140.08",
+      "number": 6140.08
+    },
+    {
+      "type": "payment_ref",
+      "text": "CHK-6562"
+    },
+    {
+      "type": "payment_method",
+      "text": "cheque"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-GRASS-CON25",
+      "description": "Grass Seed Mix - Contractor Blend 25kg",
+      "messy_description": "Contractor Blend",
+      "qty": 50,
+      "unit": "bag",
+      "unit_price": 89.25,
+      "line_total": 4462.5
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FERT-START-122412",
+      "description": "Starter Fert 12-24-12 (skid pricing avail)",
+      "messy_description": "12-24-12 starter",
+      "qty": 20,
+      "unit": "bag",
+      "unit_price": 39.31,
+      "line_total": 786.2
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "delivery - truck",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 185,
+      "line_total": 185
+    }
+  ]
+}

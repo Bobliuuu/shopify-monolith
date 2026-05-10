@@ -1,0 +1,31 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create a crumpled thermal/vendor receipt or yard ticket photo with faded ink, wrinkled paper, and line-item purchase details.
+
+Image condition:
+wrinkles, stains, pen marks, imperfect alignment
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+Waterloo Farm Hardware
+RECEIPT / YARD TICKET #84441       2026-08-05
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+work glove box                     7.7      case      39.08     300.92
+handling / fuel / pallet fee        1        ea          0.00       0.00
+
+Subtotal: 300.92
+HST:      39.12
+TOTAL:    $340.04
+Paid by: Visa ending 4102
+
+---END RAW CONTENT---

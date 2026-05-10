@@ -1,0 +1,23 @@
+batch_id,sku,name,starting_qty,ordered_out,restocked,ending_qty,unit,notes
+BATCH-0002,GF-BED-SHAV-COMP,Wood shavings compressed bale,221,6,0,215,bale,low stock
+BATCH-0002,GF-BED-STRAW-DUSTY,Straw bales (small square, dusty),201,20,10,191,bale,counted by Mike
+BATCH-0002,GF-BULK-GRAVEL-34,Gravel 3/4 clear stone per ton,228,12,10,226,ton,low stock
+BATCH-0002,GF-BULK-SAND-MASON,Sand - masonry (washed) yard,223,6,0,217,yd,low stock
+BATCH-0002,GF-CHEM-GLY-4L,Roundup alt glyphosate 4L jug,75,3,50,122,jug,low stock
+BATCH-0002,GF-CHEM-INSECT-ORCH,Insecticide spray orchard grade,72,12,0,60,jug,
+BATCH-0002,GF-CHEM-WEED-GEN,Weed killer concentrate (generic),121,13,10,118,jug,
+BATCH-0002,GF-FENCE-TPOST-6,T-posts 6ft green bundle of 10,157,2,0,155,bundle,counted by Mike
+BATCH-0002,GF-FENCE-WIRE-200,Fence wire galvanized 200m spool,79,1,50,128,spool,
+BATCH-0002,GF-FERT-START-122412,Starter Fert 12-24-12 (skid pricing avail),49,45,0,4,bag,counted by Mike
+BATCH-0002,GF-FERT-UREA-55,Urea 46 granular - 55lb bags,165,20,10,155,bag,handwritten correction
+BATCH-0002,GF-IRR-DRIP-100,Drip line 1/2 poly 100ft roll,148,22,20,146,roll,counted by Mike
+BATCH-0002,GF-LIME-AG-LOAD,Lime - ag grade (dump trailer load),151,5,0,146,load,check bin
+BATCH-0002,GF-LIME-DOLO-18,Dolomitic Lime bagged 18kg,108,40,30,98,bag,handwritten correction
+BATCH-0002,GF-SEASON-PETMELT,Ice Melt Premium (pet safe),223,8,100,315,bag,counted by Mike
+BATCH-0002,GF-SEASON-SALT-20,Ice melt salt (road salt) 20kg,175,80,0,95,bag,
+BATCH-0002,GF-SEED-ALF-50,Alfalfa seed coated 50lb sack,137,7,10,140,sack,counted by Mike
+BATCH-0002,GF-SEED-GRASS-CON25,Grass Seed Mix - Contractor Blend 25kg,75,56,0,19,bag,
+BATCH-0002,GF-SEED-TURF-10,Grass seed premium turf mix 10lb,77,6,50,121,bag,low stock
+BATCH-0002,GF-SITE-GLOVES-50,Work gloves (bulk pack 50),176,9,0,167,case,check bin
+BATCH-0002,GF-SITE-TARP-1012,Blue tarp 10x12 (heavy duty-ish),101,11,50,140,ea,handwritten correction
+BATCH-0002,GF-SOIL-TOP-BASIC,Top Soil (basic fill) — cheap stuff,128,8,30,150,yd,counted by Mike

@@ -1,0 +1,29 @@
+GreenField Farm & Site Supply
+ 17 Sideroad 8 Guelph ON N1H 6J2     (S19) 822-4419
+HST # 842O3 1234 RTOOO1
+
+INVOICE: GF-1OS36          Date: 2O26-O1-O4
+Due: 2O26-O2-O3                Terms: Net 3O
+PO: n/a / txt order
+ 
+BILL TO:
+Maple Ridge Farms Ltd.
+Fergus, ON
+ Attn: Jeff Martin
+
+SKU                  Description                            Qty     Unit    Unit Price      Arnount
+-----------------------------------------------------------------------------------------------
+GF-LIME-AG-LOAD      lime dump trailer                      2       load      SO8.46   1,O16.92
+GF-FERT-START-122412 starter fert skid                      2S      bag        39.97     999.2S
+GF-LIME-DOLO-18      lime bags                              4O      bag        1O.2O     4O8.OO
+GF-CHEM-INSECT-ORCH  insect spray                           6       jug        88.81     S32.86
+SERV-DELIVERY        delivery charge                        1       ea         6S.OO      6S.OO
+SERV-DISCOUNT        acct discount                          1       ea        -1S.OO     -1S.OO
+
+Subtotal:      3,OO7.O3
+HST 13%:       39O.91
+TOTAL DUE:    $3,397.94
+
+Payment method expected: cheque
+Payment ref: CHK-8O33
+PEN NOTE: substituted equivalent product

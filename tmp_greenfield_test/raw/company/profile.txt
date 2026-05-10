@@ -1,0 +1,15 @@
+GreenField Supply Co. Ltd.
+Operating as: GreenField Farm & Site Supply
+Address: 17 Sideroad 8, Guelph, ON N1H 6J2
+Phone: (519) 822-4419
+Email: orders@greenfieldsupply.example
+HST: 84203 1234 RT0001
+
+Fictional Ontario farm supply store serving farms, landscapers, contractors, stables, dairies, and property-service businesses.
+Brand palette:
+- forest green #1F4D2B
+- cream #F4F0DD
+- muted beige #C9B88D
+- soil brown #4A3520
+
+Purpose: synthetic multimodal document dataset for Ambrook-style ingestion, OCR, entity extraction, transaction reconciliation, and cross-document linking.

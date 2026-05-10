@@ -1,0 +1,13 @@
+EMAIL THREAD EXPORT
+
+From: office@elmlanepoultry.example
+To: orders@greenfieldsupply.example
+Subject: Re: GF-1O486
+
+Customer:
+Can you resend the invoice? AP says they need the ref again.
+
+Attached invoice GF-1O486. Total is $488.54. Payment ref CHK-4923.
+
+Customer:
+ok thanks. should go out 2O26-O7-O5.

@@ -1,0 +1,28 @@
+GreenField Farm & Site Supply
+l7 Sideroad 8, Guelph, ON NlH 6J2     (5l9) 822-44l9
+HST # 84203 l234 RT000l
+
+INVOICE: GF-l0522          Date: 2026-04-29
+Due: 2026-06-28                Terms: Net 60
+PO: n/a / txt order
+
+BILL TO:
+ Oak Valley Dairy
+Elora, ON
+Attn: Sarah Lewis
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+ GF-FENCE-CHARGER-SOLAR solar zapper                           4       ea        204.54     8l8.l6
+GF-BED-SHAV-COMP     wood shaving bale                      40      bale       l0.20     408.00
+GF-FEED-CHKN-LAYER20 chicken feed 20kg                      20      bag        24.43     488.60
+GF-FENCE-TPOST-6     posts l0 pack                          8       bundle     86.36     690.88
+SERV-DELIVERY        bulk dump delivery                     l       ea        l20.00     l20.00
+
+Subtotal:      2,525.64
+HST l3%:       328.33
+T0TAL DUE:    $2,853.97
+
+Payment method expected: Interac
+Payment ref: AUTH-2ll834
+PEN NOTE: partial delivery - send rest Friday

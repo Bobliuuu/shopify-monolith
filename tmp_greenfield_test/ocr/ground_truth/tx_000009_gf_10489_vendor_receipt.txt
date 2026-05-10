@@ -1,0 +1,13 @@
+Tri-County Feed Mill
+RECEIPT / YARD TICKET #95196       2026-04-08
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+posts 10 pack                      14.9     bundle    60.77     905.47
+handling / fuel / pallet fee        1        ea         12.00      12.00
+
+Subtotal: 917.47
+HST:      119.27
+TOTAL:    $1,036.74
+Paid by: Visa ending 4102

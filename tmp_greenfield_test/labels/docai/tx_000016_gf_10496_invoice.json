@@ -1,0 +1,96 @@
+{
+  "doc_id": "tx_000016_gf_10496_invoice",
+  "doc_type": "invoice",
+  "raw_text_path": "raw/artifacts/tx_000016_gf_10496_invoice.txt",
+  "image_path": null,
+  "entities": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000016"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10496"
+    },
+    {
+      "type": "customer_name",
+      "text": "Elm Lane Poultry"
+    },
+    {
+      "type": "date",
+      "text": "2026-02-22"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-03-24"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-03-17"
+    },
+    {
+      "type": "total",
+      "text": "10,645.57",
+      "number": 10645.57
+    },
+    {
+      "type": "payment_ref",
+      "text": "ELMLAN-0496"
+    },
+    {
+      "type": "payment_method",
+      "text": "e-transfer"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SITE-TARP-1012",
+      "description": "Blue tarp 10x12 (heavy duty-ish)",
+      "messy_description": "10x12 tarp",
+      "qty": 10,
+      "unit": "ea",
+      "unit_price": 17.85,
+      "line_total": 178.5
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BED-STRAW-DUSTY",
+      "description": "Straw bales (small square, dusty)",
+      "messy_description": "dusty straw bales",
+      "qty": 4,
+      "unit": "bale",
+      "unit_price": 6.19,
+      "line_total": 24.76
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BED-STRAW-HORSE",
+      "description": "Straw Bale (clean, horse grade)",
+      "messy_description": "straw horse grade",
+      "qty": 25,
+      "unit": "bale",
+      "unit_price": 8.78,
+      "line_total": 219.5
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FENCE-TPOST-6",
+      "description": "T-posts 6ft green bundle of 10",
+      "messy_description": "6ft green t posts",
+      "qty": 10,
+      "unit": "bundle",
+      "unit_price": 76.21,
+      "line_total": 762.1
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FEED-DAIRY4-BULK",
+      "description": "Dairy ration mix #4 (bulk auger fill)",
+      "messy_description": "ration mix 4",
+      "qty": 16,
+      "unit": "ton",
+      "unit_price": 514.75,
+      "line_total": 8236.0
+    }
+  ],
+  "bbox_status": "populate_after_real_ocr"
+}

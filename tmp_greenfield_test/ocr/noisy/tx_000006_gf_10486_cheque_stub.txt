@@ -1,0 +1,7 @@
+ CHEQUE STUB / REMITTANCE
+Customer: Elm Lane Poultry
+Cheque/ref: CHK-4923
+Date: 2O26-O7-OS
+lnvoice: GF-1O486
+Arnount: $488.S4
+Notes: less credit from last order

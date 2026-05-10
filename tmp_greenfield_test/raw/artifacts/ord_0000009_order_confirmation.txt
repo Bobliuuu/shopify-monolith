@@ -1,0 +1,18 @@
+SHOP ORDER CONFIRMATION
+Order: ord_0000009
+Customer: NorthLine Contracting #2
+Date: 2026-04-08
+Status: partially_fulfilled
+Currency: CAD
+
+Items:
+- GF-BULK-SAND-MASON 3 yd @ $37.20 (111.60)
+- GF-SOIL-TOP-PREM 2 yd @ $47.78 (95.56)
+- GF-SOIL-TOP-BASIC 12 yd @ $29.39 (352.68)
+- GF-SITE-GLOVES-50 4 case @ $52.80 (211.20)
+
+Subtotal: $771.04
+Discount: $23.13
+Tax: $100.48
+Shipping: $25.00
+Total: $873.39

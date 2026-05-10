@@ -1,0 +1,28 @@
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+ HST # 842O3 1234 RTOOO1
+
+INVOICE: GF-1O484          Date: 2O26-O4-28
+Due: 2O26-O5-28                Terms: Net 3O
+PO: n/a / txt order
+
+BILL TO:
+Maple Ridge Farms Ltd.
+Fergus, ON
+Attn: Jeff Martin
+
+SKU                  Description                            Qty     Unit    Unit Price      Arnount
+-----------------------------------------------------------------------------------------------
+GF-SEED-TURF-1O      turf mix                               5O      bag        33.95   1,697.5O
+GF-LIME-DOLO-18      dolomitic 18kg                         1O      bag        1O.12     1O1.2O
+GF-FERT-UREA-55      Urea 55#                               8O      bag        34.59   2,767.2O
+GF-LIME-AG-LOAD      ag grade lime                          1       load      52O.77     52O.77
+SERV-DELIVERY        delivery charge                        1       ea        185.OO     185.OO
+
+Subtotal:      5,271.67
+HST 13%:       685.32
+TOTAL DUE:    $5,956.99
+
+Payment method expected: e-transfer
+Payment ref: MAPLER-O484
+PEN NOTE: missing PO, call office

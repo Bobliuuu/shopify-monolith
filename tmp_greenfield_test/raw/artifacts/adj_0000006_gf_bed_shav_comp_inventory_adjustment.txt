@@ -1,0 +1,7 @@
+INVENTORY ADJUSTMENT LOG
+Adjustment id: adj_0000006_gf_bed_shav_comp
+SKU: GF-BED-SHAV-COMP
+Location: LOC-GUELPH-WH
+Delta: -80
+Reason: order_fulfillment
+Timestamp: 2026-06-04

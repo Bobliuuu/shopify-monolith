@@ -1,0 +1,76 @@
+{
+  "doc_id": "tx_000007_gf_10487_sms_thread",
+  "doc_type": "sms_thread",
+  "raw_text_path": "raw/artifacts/tx_000007_gf_10487_sms_thread.txt",
+  "image_path": "images/tx_000007_gf_10487_sms_thread.png",
+  "entities": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000007"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10487"
+    },
+    {
+      "type": "customer_name",
+      "text": "GreenScape Landscaping Inc."
+    },
+    {
+      "type": "date",
+      "text": "2026-02-13"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-03-15"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-03-17"
+    },
+    {
+      "type": "total",
+      "text": "1,016.77",
+      "number": 1016.77
+    },
+    {
+      "type": "payment_ref",
+      "text": "AUTH-823378"
+    },
+    {
+      "type": "payment_method",
+      "text": "on account"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SITE-GLOVES-50",
+      "description": "Work gloves (bulk pack 50)",
+      "messy_description": "gloves 50 pack",
+      "qty": 10,
+      "unit": "case",
+      "unit_price": 51.85,
+      "line_total": 518.5
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BULK-CRUSHER",
+      "description": "Crusher run gravel driveway mix",
+      "messy_description": "crusher run",
+      "qty": 5,
+      "unit": "ton",
+      "unit_price": 39.26,
+      "line_total": 196.3
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "bulk dump delivery",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 185,
+      "line_total": 185
+    }
+  ],
+  "bbox_status": "populate_after_real_ocr"
+}

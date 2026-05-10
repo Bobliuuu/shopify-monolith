@@ -1,0 +1,14 @@
+From: jason@highpointproperty.example
+To: orders@greenfieldsupply.example
+Subject: order for 2026-02-05
+
+hey,
+
+can you get us premium dirt, 3/4 hose for 2026-02-05?
+we may pay half now and half after delivery
+
+ship/deliver to Cambridge if possible.
+
+thanks,
+Jason
+HighPoint Property Services

@@ -1,0 +1,8 @@
+SUPPLIER PURCHASE ORDER
+PO: po_000008
+Vendor: Fertilizer Depot Inc.
+Created: 2025-12-15
+Expected: 2026-01-05
+Status: received
+
+GF-SEED-GRASS-CON25-V01 x 114 bag @ $69.42

@@ -1,0 +1,10 @@
+Recreate this dataset:
+- Fictional company: GreenField Farm & Site Supply in Guelph, Ontario.
+- Stable palette: forest green, cream, muted beige, soil brown.
+- Customers: farms, landscapers, contractors, dairies, stables, property services.
+- Products: fertilizer, lime, topsoil, seed, feed, bedding, chemicals, irrigation, fencing, gravel, sand, salt, site supplies.
+- Generate linked transaction bundles with invoice, vendor receipt, customer email, email thread, handwritten note, delivery ticket, bank proof, cheque stub, SMS thread.
+- Generate batch bank CSVs and inventory CSVs.
+- Generate maximal retail entities: orders, fulfillments, refunds, returns, payouts, supplier POs, receiving events, and inventory adjustments.
+- Maintain internal consistency: same customers, SKUs, invoice numbers, totals, payment refs, and transaction graph.
+- Generate mostly text; generate images only for high-value subset under budget.

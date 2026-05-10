@@ -1,0 +1,15 @@
+GREENFIELD FARM & SITE SUPPLY       DELIVERY TICKET #80745
+Date: 2026-0l-04
+Customer: Maple Ridge Farms Ltd.
+Location: Fergus, ON
+Driver: Rob
+
+QTY      UNIT   DESCRIPTION
+-----------------------------------------
+2        load   lime dump trailer
+25       bag    starter fert skid
+40       bag    lime bags
+6        jug    insect spray
+
+Notes: Deliver by Thurs moming
+Received by: ____________________

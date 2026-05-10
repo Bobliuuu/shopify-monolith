@@ -1,0 +1,28 @@
+GreenField Farm & Site Supply
+l7 Sideroad 8, Guelph, ON NlH 6J2     (5l9) 822-44l9
+HST # 84203 l234 RT000l
+
+INVOICE: GF-l0520          Date: 2026-02-08
+Due: 2026-04-09                Terms: Net 60
+PO: PO-4453
+ 
+ BILL TO:
+Oak Valley Dairy
+ Elora, ON
+Attn: Sarah Lewis
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-FENCE-WIRE-200    fencing spool                          3       spool     l38.47     4l5.4l
+GF-FENCE-TPOST-6     posts l0 pack                          4       bundle     86.25     345.00
+GF-FEED-DAIRY4-BULK  ration mix 4                           l2      ton       53l.23   6,374.76
+GF-SITE-GLOVES-50    gloves 50 pack                         l0      case       55.96     559.60
+SERV-DELIVERY        bulk dump delivery                     l       ea        l20.00     l20.00
+
+Subtotal:      7,8l4.77
+HST l3%:       l,0l5.92
+T0TAL DUE:    $8,830.69
+
+Payment method expected: Interac
+Payment ref: AUTH-203225
+PEN NOTE: same pricing as last time?? verify

@@ -1,0 +1,14 @@
+From: accounts@mapleridgefarms.example
+To: orders@greenfieldsupply.example
+Subject: order for 2026-04-28
+
+hey,
+
+can you get us turf mix, dolomitic 18kg for 2026-04-28?
+PO is coming later, just get it moving
+
+ship/deliver to Fergus if possible.
+
+thanks,
+Jeff
+Maple Ridge Farms Ltd.

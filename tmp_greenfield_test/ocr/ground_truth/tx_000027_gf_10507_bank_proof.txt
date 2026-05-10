@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Date posted: 2026-02-14
+Description: Visa HighPoint Property Services AUTH-381433
+Amount: +$1,046.92
+Memo: invoice GF-10507
+Status: posted

@@ -1,0 +1,17 @@
+SHOP ORDER CONFIRMATION
+Order: ord_OOOOO21
+Customer: Brampton Turf Solutions #1
+Date: 2O26-O4-1O
+Status: fulfilled
+Currency: CAD
+
+Items:
+- GF-SITE-TARP-1O12 8 ea @ $18.54 (148.32)
+ - GF-SEED-GRASS-CON25 8O bag @ $86.45 (6,916.OO)
+- GF-SEASON-PETMELT 2O bag @ $19.O8 (381.6O)
+
+Subtotal: $7,445.92
+Discount: $O.OO
+Tax: $971.22
+ Shipping: $25.OO
+Total: $8,442.14

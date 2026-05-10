@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Date posted: 2O26-O3-O1
+Description: cheque Elm Lane Poultry CHK-11O6
+Amount: +$1,213.68
+Memo: invoice GF-1O481
+Status: posted

@@ -1,0 +1,10 @@
+PACKING SLIP
+Fulfillment: ful_0000007
+Order: ord_0000007
+Customer: Riverbend Organics #2
+Carrier: Canada Post
+Tracking: TRK-0000007
+Fulfilled at: 2026-02-15
+
+GF-SEED-TURF-10  qty=10  loc=LOC-GUELPH-WH
+GF-FERT-UREA-55  qty=20  loc=LOC-GUELPH-WH

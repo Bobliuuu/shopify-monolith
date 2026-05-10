@@ -1,0 +1,14 @@
+From: owen@bramptonturf.example
+To: orders@greenfieldsupply.example
+Subject: order for 2026-05-09
+
+hey,
+
+can you get us ice melt, hd-ish tarp for 2026-05-09?
+send what you have and backorder the rest
+
+ship/deliver to Brampton if possible.
+
+thanks,
+Owen
+Brampton Turf Solutions

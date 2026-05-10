@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: customerio_raw
+    schema: customerio
+    tables:
+      - name: deliveries
+      - name: profiles

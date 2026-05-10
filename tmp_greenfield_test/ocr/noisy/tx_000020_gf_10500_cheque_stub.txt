@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: NorthLine Contracting
+Cheque/ref: AUTH-991O14
+Date: 2O26-1O-2O
+lnvoice: GF-1O5OO
+Amount: $1,717.67
+Notes: paid in full

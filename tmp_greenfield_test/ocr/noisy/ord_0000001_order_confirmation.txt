@@ -1,0 +1,18 @@
+SHOP ORDER CONFIRMATION
+Order: ord_OOOOOOl
+Customer: Maple Ridge Farms Ltd. #2
+Date: 2O26-O2-27
+Status: fulfilled
+Currency: CAD
+
+Items:
+- GF-IRR-HOSE-34 l roll @ $69.2S (69.2S)
+- GF-SEED-GRASS-CON2S 8O bag @ $89.O2 (7,l2l.6O)
+- GF-CHEM-INSECT-ORCH 3 jug @ $79.43 (238.29)
+- GF-CHEM-WEED-GEN 8 jug @ $39.37 (3l4.96)
+
+Subtotal: $7,744.lO
+Discount: $232.32
+Tax: $986.28
+Shipping: $7S.OO
+Total: $8,S73.O6

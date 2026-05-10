@@ -1,0 +1,13 @@
+Waterloo Farm Hardware
+RECEIPT / YARD TICKET #36484       2026-05-l7
+Sold to: GreenField Supply Co. Ltd.
+
+ Item                               Qty      Unit    Price       Amount
+ ----------------------------------------------------------------------
+dusty straw bales                  24.2     bale       4.55     ll0.ll
+handling / fuel / pallet fee        l        ea         25.00      25.00
+
+Subtotal: l35.ll
+ HST:      l7.56
+TOTAL:    $l52.67
+Paid by: Visa ending 4l02

@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: Maple Ridge Farms Ltd.
+Cheque/ref: CHK-8033
+Date: 2026-01-18
+Invoice: GF-10536
+Amount: $3,397.94
+Notes: AP batch

@@ -1,0 +1,13 @@
+Wellington Aggregates Yard Ticket
+RECEIPT / YARD TICKET #5683l       2026-05-27
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+contractor grass seed              l97.3    bag       70.23  l3,856.38
+handling / fuel / pallet fee        l        ea         60.00      60.00
+
+Subtotal: l3,9l6.38
+HST:      l,809.l3
+T0TAL:    $l5,725.5l
+Paid by: Interac

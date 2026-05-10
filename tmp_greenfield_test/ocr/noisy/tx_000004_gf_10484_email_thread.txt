@@ -1,0 +1,14 @@
+EMAIL THREAD EXPORT
+ 
+From: accounts@mapleridgefarms.example
+To: orders@greenfieldsupply.example
+Subject: Re: GF-10484
+
+Customer:
+ Can you resend the invoice? AP says they need the ref again.
+
+GreenField:
+ Attached invoice GF-10484. Total is $5,956.99. Payment ref MAPLER-0484.
+
+Customer:
+ok thanks. should go out 2026-05-01.

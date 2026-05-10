@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: HighPoint Property Services
+Cheque/ref: HIGHPO-0Sl9
+Date: 2026-l0-23
+Invoice: GF-l0Sl9
+Arnount: $3,03S.78
+Notes: hold receipt

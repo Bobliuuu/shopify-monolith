@@ -1,0 +1,23 @@
+batch_id,sku,name,starting_qty,ordered_out,restocked,ending_qty,unit,notes
+BATCH-0002,GF-BED-SHAV-COMP,Wood shavings compressed bale,22l,6,0,2l5,bale,low stock
+BATCH-0002,GF-BED-STRAW-DUSTY,Straw bales (small square, dusty),20l,20,l0,l9l,bale,counted by Mike
+BATCH-0002,GF-BULK-GRAVEL-34,Gravel 3/4 clear stone per ton,228,l2,l0,226,ton,low stock
+BATCH-0002,GF-BULK-SAND-MASON,Sand - masonry (washed) yard,223,6,0,2l7,yd,low stock
+BATCH-0002,GF-CHEM-GLY-4L,Roundup alt glyphosate 4L jug,75,3,50,l22,jug,low stock
+BATCH-0002,GF-CHEM-INSECT-ORCH,Insecticide spray orchard grade,72,l2,0,60,jug,
+BATCH-0002,GF-CHEM-WEED-GEN,Weed killer concentrate (generic),l2l,l3,l0,ll8,jug,
+BATCH-0002,GF-FENCE-TPOST-6,T-posts 6ft green bundle of l0,l57,2,0,l55,bundle,counted by Mike
+BATCH-0002,GF-FENCE-WIRE-200,Fence wire galvanized 200m spool,79,l,50,l28,spool,
+BATCH-0002,GF-FERT-START-l224l2,Starter Fert l2-24-l2 (skid pricing avail),49,45,0,4,bag,counted by Mike
+BATCH-0002,GF-FERT-UREA-55,Urea 46 granular - 55lb bags,l65,20,l0,l55,bag,handwritten correction
+BATCH-0002,GF-IRR-DRIP-l00,Drip line l/2 poly l00ft roll,l48,22,20,l46,roll,counted by Mike
+ BATCH-0002,GF-LIME-AG-LOAD,Lime - ag grade (dump trailer load),l5l,5,0,l46,load,check bin
+BATCH-0002,GF-LIME-DOLO-l8,Dolomitic Lime bagged l8kg,l08,40,30,98,bag,handwritten correction
+BATCH-0002,GF-SEASON-PETMELT,Ice Melt Premium (pet safe),223,8,l00,3l5,bag,counted by Mike
+ BATCH-0002,GF-SEASON-SALT-20,Ice melt salt (road salt) 20kg,l75,80,0,95,bag,
+BATCH-0002,GF-SEED-ALF-50,Alfalfa seed coated 50lb sack,l37,7,l0,l40,sack,counted by Mike
+BATCH-0002,GF-SEED-GRASS-CON25,Grass Seed Mix - Contractor Blend 25kg,75,56,0,l9,bag,
+BATCH-0002,GF-SEED-TURF-l0,Grass seed premium turf mix l0lb,77,6,50,l2l,bag,low stock
+BATCH-0002,GF-SITE-GLOVES-50,Work gloves (bulk pack 50),l76,9,0,l67,case,check bin
+BATCH-0002,GF-SITE-TARP-l0l2,Blue tarp l0xl2 (heavy duty-ish),l0l,ll,50,l40,ea,handwritten correction
+BATCH-0002,GF-SOIL-TOP-BASIC,Top Soil (basic fill) — cheap stuff,l28,8,30,l50,yd,counted by Mike

@@ -1,0 +1,23 @@
+GreenField Farm & Site Supply
+HST # 842O3 1234 RTOOO1
+
+INVOICE: GF-1O515          Date: 2O26-O6-15
+Due: 2O26-O7-15                Terms: Net 3O
+PO: n/a / txt order
+
+BILL TO:
+Stonebridge Estates Maintenance
+Burlington, ON
+Attn: Laura Chen
+ 
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-SOIL-TOP-BASIC    fill dirt                              1O      yd         29.97     299.7O
+GF-SEED-TURF-1O      grass seed prem                        5O      bag        34.37   1,718.5O
+Subtotal:      2,O18.2O
+HST 13%:       262.37
+T0TAL DUE:    $2,28O.57
+
+Payment method expected: e-transfer
+Payment ref: STONEB-O515
+PEN NOTE: missing PO call office

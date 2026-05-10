@@ -1,0 +1,15 @@
+GREENFIELD FARM & SITE SUPPLY       DELIVERY TICKET #80S63
+Date: 2026-07-08
+Customer: UrbanRoot Gardens Co.
+Location: Toronto, ON
+Driver: Dylan
+
+ QTY      UNIT   DESCRIPTION
+-----------------------------------------
+8        ea     blue tarp
+8        ton    crush run
+4        ton    3/4 clear
+l0       yd     top soil premium
+
+Notes: partial load only
+Received by: ____________________

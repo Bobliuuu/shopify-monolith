@@ -1,0 +1,35 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create an ecommerce order confirmation page or email screenshot with totals and line items.
+
+Image condition:
+tilted phone photo, mild blur, shadow across document
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+SHOP ORDER CONFIRMATION
+Order: ord_0000012
+Customer: Stonebridge Estates Maintenance #1
+Date: 2026-10-17
+Status: open
+Currency: CAD
+
+Items:
+- GF-SEASON-PETMELT 6 bag @ $18.54 (111.24)
+- GF-SOIL-TOP-PREM 12 yd @ $48.68 (584.16)
+- GF-IRR-DRIP-100 1 roll @ $51.25 (51.25)
+
+Subtotal: $746.65
+Discount: $22.40
+Tax: $97.40
+Shipping: $25.00
+Total: $846.65
+
+---END RAW CONTENT---

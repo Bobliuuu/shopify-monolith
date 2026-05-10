@@ -1,0 +1,29 @@
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10539          Date: 2026-08-18
+Due: 2026-09-17                Terms: Net 30
+PO: n/a / txt order
+
+BILL TO:
+Brampton Turf Solutions
+Brampton, ON
+Attn: Owen Patel
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-SITE-TARP-1012    10x12 tarp                             4       ea         15.62      62.48
+GF-SEASON-SALT-20    ice melt                               80      bag        11.69     935.20
+GF-IRR-DRIP-100      irrigation drip roll                   6       roll       44.18     265.08
+GF-SEED-GRASS-CON25  seed mix 25kg                          6       bag        86.85     521.10
+SERV-DELIVERY        local run                              1       ea        150.00     150.00
+SERV-DISCOUNT        acct discount                          1       ea        -15.00     -15.00
+
+Subtotal:      1,918.86
+HST 13%:       249.45
+TOTAL DUE:    $2,168.31
+
+Payment method expected: Visa
+Payment ref: AUTH-722937
+PEN NOTE: substituted equivalent product

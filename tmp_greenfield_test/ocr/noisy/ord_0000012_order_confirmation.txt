@@ -1,0 +1,16 @@
+SHOP ORDER CONFIRMATION
+Order: ord_OOOOO12
+Customer: Stonebridge Estates Maintenance #1
+Status: open
+Currency: CAD
+
+Items:
+- GF-SEASON-PETMELT 6 bag  at  $18.54 (111.24)
+- GF-SOIL-TOP-PREM 12 yd  at  $48.68 (584.16)
+- GF-IRR-DRIP-1OO 1 roll  at  $51.25 (51.25)
+
+Subtotal: $746.65
+ Discount: $22.4O
+ Tax: $97.4O
+Shipping: $25.OO
+Total: $846.65

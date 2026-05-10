@@ -1,0 +1,14 @@
+EMAIL THREAD EXPORT
+
+From: orders@riverbendorganics.example
+To: orders@greenfieldsupply.example
+Subject: Re: GF-l0S37
+
+Customer:
+Can you resend the invoice? AP says they need the ref again.
+
+GreenField:
+Attached invoice GF-l0S37. Total is $6,l40.08. Payment ref CHK-6S62.
+
+Customer:
+ok thanks. should go out 2026-03-07.

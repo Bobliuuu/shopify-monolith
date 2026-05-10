@@ -1,0 +1,94 @@
+{
+  "doc_id": "tx_000033_gf_10513_sms_thread",
+  "doc_type": "sms_thread",
+  "tx_id": "TX-000033",
+  "fields": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000033"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10513"
+    },
+    {
+      "type": "customer_name",
+      "text": "GreenScape Landscaping Inc."
+    },
+    {
+      "type": "date",
+      "text": "2026-04-17"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-05-17"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-05-01"
+    },
+    {
+      "type": "total",
+      "text": "5,793.80",
+      "number": 5793.8
+    },
+    {
+      "type": "payment_ref",
+      "text": "CHK-4241"
+    },
+    {
+      "type": "payment_method",
+      "text": "cheque"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEASON-SALT-20",
+      "description": "Ice melt salt (road salt) 20kg",
+      "messy_description": "road salt 20kg",
+      "qty": 8,
+      "unit": "bag",
+      "unit_price": 12.23,
+      "line_total": 97.84
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SOIL-TOP-BASIC",
+      "description": "Top Soil (basic fill) — cheap stuff",
+      "messy_description": "fill dirt",
+      "qty": 1,
+      "unit": "yd",
+      "unit_price": 27.82,
+      "line_total": 27.82
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-GRASS-CON25",
+      "description": "Grass Seed Mix - Contractor Blend 25kg",
+      "messy_description": "contractor grass seed",
+      "qty": 50,
+      "unit": "bag",
+      "unit_price": 89.41,
+      "line_total": 4470.5
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-TURF-10",
+      "description": "Grass seed premium turf mix 10lb",
+      "messy_description": "turf mix",
+      "qty": 10,
+      "unit": "bag",
+      "unit_price": 30.61,
+      "line_total": 306.1
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "delivery - truck",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 225,
+      "line_total": 225
+    }
+  ]
+}

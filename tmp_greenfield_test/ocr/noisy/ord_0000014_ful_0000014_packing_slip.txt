@@ -1,0 +1,10 @@
+PACKING SLIP
+Fulfillment: ful_0000014
+Order: ord_0000014
+Customer: ClearPath Utilities #2
+Carrier: Canada Post
+Tracking: TRK-0000014
+Fulfilled at: 2026-05-28
+ 
+GF-FENCE-WIRE-200  qty=10  loc=LOC-KIT-STAGE
+GF-FENCE-TPOST-6  qty=10  loc=LOC-KIT-STAGE

@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: Stonebridge Estates Maintenance
+Cheque/ref: AUTH-648l4l
+Date: 2026-02-20
+Invoice: GF-l0540
+ Arnount: $l,l46.55
+Notes: hold receipt

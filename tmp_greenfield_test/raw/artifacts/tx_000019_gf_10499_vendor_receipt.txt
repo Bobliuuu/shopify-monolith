@@ -1,0 +1,13 @@
+Tri-County Feed Mill
+RECEIPT / YARD TICKET #89226       2026-06-03
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+road salt 20kg                     28.2     bag        9.76     275.23
+handling / fuel / pallet fee        1        ea         45.00      45.00
+
+Subtotal: 320.23
+HST:      41.63
+TOTAL:    $361.86
+Paid by: cheque

@@ -1,0 +1,18 @@
+{
+  "customers": 24,
+  "products": 36,
+  "inventory_locations": 3,
+  "inventory_levels": 108,
+  "orders": 60,
+  "fulfillments": 60,
+  "refunds": 0,
+  "returns": 0,
+  "shipping_events": 180,
+  "payment_transactions": 60,
+  "tax_lines": 60,
+  "discounts": 34,
+  "shopify_payouts": 2,
+  "supplier_purchase_orders": 36,
+  "receiving_events": 36,
+  "inventory_adjustments": 195
+}

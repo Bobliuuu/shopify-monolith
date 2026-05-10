@@ -1,0 +1,96 @@
+{
+  "doc_id": "tx_000017_gf_10497_invoice",
+  "doc_type": "invoice",
+  "raw_text_path": "raw/artifacts/tx_000017_gf_10497_invoice.txt",
+  "image_path": null,
+  "entities": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000017"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10497"
+    },
+    {
+      "type": "customer_name",
+      "text": "HighPoint Property Services"
+    },
+    {
+      "type": "date",
+      "text": "2026-06-06"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-06-13"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-06-20"
+    },
+    {
+      "type": "total",
+      "text": "843.55",
+      "number": 843.55
+    },
+    {
+      "type": "payment_ref",
+      "text": "HIGHPO-0497"
+    },
+    {
+      "type": "payment_method",
+      "text": "e-transfer"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-TURF-10",
+      "description": "Grass seed premium turf mix 10lb",
+      "messy_description": "turf mix",
+      "qty": 10,
+      "unit": "bag",
+      "unit_price": 31.24,
+      "line_total": 312.4
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SOIL-TOP-PREM",
+      "description": "Topsoil screened (premium) per yard",
+      "messy_description": "top soil premium",
+      "qty": 1.5,
+      "unit": "yd",
+      "unit_price": 50.33,
+      "line_total": 75.5
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEASON-SALT-20",
+      "description": "Ice melt salt (road salt) 20kg",
+      "messy_description": "ice melt",
+      "qty": 20,
+      "unit": "bag",
+      "unit_price": 12.43,
+      "line_total": 248.6
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "delivery - truck",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 150,
+      "line_total": 150
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DISCOUNT",
+      "description": "Account discount / price adjustment",
+      "messy_description": "acct discount",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": -40,
+      "line_total": -40
+    }
+  ],
+  "bbox_status": "populate_after_real_ocr"
+}

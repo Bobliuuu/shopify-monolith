@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****ll82
+Date posted: 2026-04-04
+Description: cheque UrbanRoot Gardens Co. CHK-9890
+Amount: +$2,SS4.SS
+Memo: invoice GF-l0S02
+Status: posted

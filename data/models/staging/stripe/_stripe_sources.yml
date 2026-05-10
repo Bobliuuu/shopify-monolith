@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: stripe_raw
+    schema: stripe
+    tables:
+      - name: stripe_customers
+      - name: stripe_charges
+      - name: stripe_invoices

@@ -1,0 +1,13 @@
+County Hardware & Farm Supply
+RECEIPT / YARD TICKET #37946       2026-05-04
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+grass seed prem                    16.0     bag       19.90     318.40
+handling / fuel / pallet fee        1        ea         18.00      18.00
+
+Subtotal: 336.40
+HST:      43.73
+TOTAL:    $380.13
+Paid by: Interac

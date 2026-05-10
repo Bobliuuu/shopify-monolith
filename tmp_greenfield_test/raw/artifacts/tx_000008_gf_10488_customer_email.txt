@@ -1,0 +1,14 @@
+From: office@elmlanepoultry.example
+To: orders@greenfieldsupply.example
+Subject: order for 2026-07-11
+
+hey,
+
+can you get us dairy #4, horse straw for 2026-07-11?
+PO is coming later, just get it moving
+
+ship/deliver to Listowel if possible.
+
+thanks,
+Gord
+Elm Lane Poultry

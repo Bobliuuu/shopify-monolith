@@ -1,0 +1,64 @@
+{
+  "doc_id": "tx_000035_gf_10515_cheque_stub",
+  "doc_type": "cheque_stub",
+  "tx_id": "TX-000035",
+  "fields": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000035"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10515"
+    },
+    {
+      "type": "customer_name",
+      "text": "Stonebridge Estates Maintenance"
+    },
+    {
+      "type": "date",
+      "text": "2026-06-15"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-07-15"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-07-02"
+    },
+    {
+      "type": "total",
+      "text": "2,280.57",
+      "number": 2280.57
+    },
+    {
+      "type": "payment_ref",
+      "text": "STONEB-0515"
+    },
+    {
+      "type": "payment_method",
+      "text": "e-transfer"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SOIL-TOP-BASIC",
+      "description": "Top Soil (basic fill) — cheap stuff",
+      "messy_description": "fill dirt",
+      "qty": 10,
+      "unit": "yd",
+      "unit_price": 29.97,
+      "line_total": 299.7
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-TURF-10",
+      "description": "Grass seed premium turf mix 10lb",
+      "messy_description": "grass seed prem",
+      "qty": 50,
+      "unit": "bag",
+      "unit_price": 34.37,
+      "line_total": 1718.5
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+EMAIL THREAD EXPORT
+
+From: owen@bramptonturf.example
+To: orders@greenfieldsupply.example
+Subject: Re: GF-10539
+
+Customer:
+Can you resend the invoice? AP says they need the ref again.
+
+GreenFieId:
+Attached invoice GF-10539. Total is $2,168.31. Payment ref AUTH-722937.
+ 
+Customer:
+ok thanks. should go out 2026-09-24.

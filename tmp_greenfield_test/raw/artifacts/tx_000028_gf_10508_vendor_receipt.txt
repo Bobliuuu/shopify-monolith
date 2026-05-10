@@ -1,0 +1,13 @@
+Guelph AgriChem Wholesale
+RECEIPT / YARD TICKET #48664       2026-05-23
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+washed sand                        5.8      yd        24.34     141.17
+handling / fuel / pallet fee        1        ea         36.00      36.00
+
+Subtotal: 177.17
+HST:      23.03
+TOTAL:    $200.20
+Paid by: account charge

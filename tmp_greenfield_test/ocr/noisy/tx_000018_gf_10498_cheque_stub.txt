@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: HighPoint Property Services
+Cheque/ref: AUTH-446239
+Date: 2026-06-17
+Invoice: GF-10498
+Amount: $424.87
+ Notes: paid in full

@@ -1,0 +1,15 @@
+GREENFIELD FARM & SITE SUPPLY       DELIVERY TICKET #82923
+Date: 2026-07-11
+Customer: Elm Lane Poultry
+Location: Listowel, ON
+Driver: Rob
+
+QTY      UNIT   DESCRIPTION
+-----------------------------------------
+1        ton    dairy #4
+50       bale   horse straw
+8        case   gloves bulk
+6        bag    chicken feed 20kg
+
+Notes: Deliver by Thurs morning
+Received by: ____________________

@@ -1,0 +1,28 @@
+GreenField Farm & Site Supply
+l7 Sideroad 8, Guelph, ON NlH 6J2     (Sl9) 822-44l9
+HST # 842O3 l234 RTOOOl
+
+INVOICE: GF-lOSl3          Date: 2O26-O4-l7
+Due: 2O26-OS-l7                Terms: Net 3O
+PO: PO-73OS
+ 
+BILL TO:
+GreenScape Landscaping Inc.
+Mississauga, ON
+ Attn: Kyle Park
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-SEASON-SALT-2O    road salt 2Okg                         8       bag        l2.23      97.84
+GF-SOIL-TOP-BASIC    fill dirt                              l       yd         27.82      27.82
+GF-SEED-GRASS-CON2S  contractor grass seed                  SO      bag        89.4l   447O.SO
+GF-SEED-TURF-lO      turf mix                               lO      bag        3O.6l     3O6.lO
+SERV-DELIVERY        delivery - truck                       l       ea        22S.OO     22S.OO
+
+Subtotal:      S,l27.26
+HST l3%:       666.S4
+T0TAL DUE:    $S,793.8O
+
+Payment method expected: cheque
+Payment ref: CHK-424l
+PEN NOTE: substituted equivalent product

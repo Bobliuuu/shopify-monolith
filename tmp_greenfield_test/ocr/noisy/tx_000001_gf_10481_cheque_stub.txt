@@ -1,0 +1,6 @@
+Customer: Elm Lane Poultry
+Cheque/ref: CHK-1106
+Date: 2026-03-01
+lnvoice: GF-10481
+Arnount: $1,213.68
+Notes: AP batch

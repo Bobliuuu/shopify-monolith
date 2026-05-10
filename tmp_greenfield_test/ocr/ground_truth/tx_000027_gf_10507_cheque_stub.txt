@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: HighPoint Property Services
+Cheque/ref: AUTH-381433
+Date: 2026-02-14
+Invoice: GF-10507
+Amount: $1,744.87
+Notes: hold receipt

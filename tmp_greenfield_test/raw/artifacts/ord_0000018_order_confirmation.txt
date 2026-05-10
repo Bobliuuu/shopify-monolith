@@ -1,0 +1,15 @@
+SHOP ORDER CONFIRMATION
+Order: ord_0000018
+Customer: Silver Creek Stables #2
+Date: 2026-06-10
+Status: closed
+Currency: CAD
+
+Items:
+- GF-SITE-TARP-1012 2 ea @ $17.79 (35.58)
+
+Subtotal: $35.58
+Discount: $1.07
+Tax: $9.04
+Shipping: $35.00
+Total: $78.55

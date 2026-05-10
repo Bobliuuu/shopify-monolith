@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****ll82
+Date posted: 2026-09-l2
+Description: on account Riverbend Organics AUTH-86l894
+Arnount: +$l,274.66
+Memo: invoice GF-l0527
+Status: posted

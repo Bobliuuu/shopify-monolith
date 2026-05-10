@@ -1,0 +1,14 @@
+EMAIL THREAD EXPORT
+
+From: kyle@greenscapelandscaping.example
+To: orders@greenfieldsupply.example
+Subject: Re: GF-10509
+
+Customer:
+Can you resend the invoice? AP says they need the ref again.
+
+GreenField:
+Attached invoice GF-10509. Total is $1,372.89. Payment ref CHK-4777.
+
+Customer:
+ok thanks. should go out 2026-05-31.

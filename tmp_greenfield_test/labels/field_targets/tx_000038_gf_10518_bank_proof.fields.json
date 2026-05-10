@@ -1,0 +1,94 @@
+{
+  "doc_id": "tx_000038_gf_10518_bank_proof",
+  "doc_type": "bank_proof",
+  "tx_id": "TX-000038",
+  "fields": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000038"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10518"
+    },
+    {
+      "type": "customer_name",
+      "text": "Oak Valley Dairy"
+    },
+    {
+      "type": "date",
+      "text": "2026-09-13"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-11-12"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-10-21"
+    },
+    {
+      "type": "total",
+      "text": "3,265.98",
+      "number": 3265.98
+    },
+    {
+      "type": "payment_ref",
+      "text": "CHK-9022"
+    },
+    {
+      "type": "payment_method",
+      "text": "cheque"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FENCE-TPOST-6",
+      "description": "T-posts 6ft green bundle of 10",
+      "messy_description": "T post bundle",
+      "qty": 4,
+      "unit": "bundle",
+      "unit_price": 80.52,
+      "line_total": 322.08
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FENCE-CHARGER-SOLAR",
+      "description": "Electric fence charger solar",
+      "messy_description": "solar zapper",
+      "qty": 2,
+      "unit": "ea",
+      "unit_price": 205.24,
+      "line_total": 410.48
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SITE-GLOVES-50",
+      "description": "Work gloves (bulk pack 50)",
+      "messy_description": "gloves bulk",
+      "qty": 8,
+      "unit": "case",
+      "unit_price": 59.31,
+      "line_total": 474.48
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FEED-DAIRY4-BULK",
+      "description": "Dairy ration mix #4 (bulk auger fill)",
+      "messy_description": "ration mix 4",
+      "qty": 3,
+      "unit": "ton",
+      "unit_price": 521.07,
+      "line_total": 1563.21
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "delivery - truck",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 120,
+      "line_total": 120
+    }
+  ]
+}

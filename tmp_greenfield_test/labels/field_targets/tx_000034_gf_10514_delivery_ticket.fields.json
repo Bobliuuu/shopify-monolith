@@ -1,0 +1,74 @@
+{
+  "doc_id": "tx_000034_gf_10514_delivery_ticket",
+  "doc_type": "delivery_ticket",
+  "tx_id": "TX-000034",
+  "fields": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000034"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10514"
+    },
+    {
+      "type": "customer_name",
+      "text": "Oak Valley Dairy"
+    },
+    {
+      "type": "date",
+      "text": "2026-05-17"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-07-16"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-06-05"
+    },
+    {
+      "type": "total",
+      "text": "606.90",
+      "number": 606.9
+    },
+    {
+      "type": "payment_ref",
+      "text": "AUTH-559023"
+    },
+    {
+      "type": "payment_method",
+      "text": "Interac"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FEED-CHKN-LAYER20",
+      "description": "Chicken Feed Layer Pellets 20kg",
+      "messy_description": "hens feed",
+      "qty": 12,
+      "unit": "bag",
+      "unit_price": 22.85,
+      "line_total": 274.2
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BED-STRAW-DUSTY",
+      "description": "Straw bales (small square, dusty)",
+      "messy_description": "dusty straw bales",
+      "qty": 12,
+      "unit": "bale",
+      "unit_price": 6.49,
+      "line_total": 77.88
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "local run",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 185,
+      "line_total": 185
+    }
+  ]
+}

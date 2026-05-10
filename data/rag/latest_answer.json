@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-04-29T07:46:51.157822+00:00",
+  "question": "What is the top operational action?",
+  "response": "Based on recent insights, prioritize the highest-impact items referenced in citations.",
+  "citations": [
+    {
+      "chunk_id": "act_inv_1",
+      "source": "analytics.daily_action_queue",
+      "score": 0.1667,
+      "evidence": "Top SKU demand detected; review inventory and restock cadence. Expected impact: Reduce stockouts 10-20%"
+    }
+  ]
+}

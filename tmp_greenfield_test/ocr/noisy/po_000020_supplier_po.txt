@@ -1,0 +1,8 @@
+SUPPLIER PURCHASE ORDER
+PO: po_OOOO2O
+Vendor: County Hardware & Farm Supply
+Created: 2O25-12-15
+Expected: 2O26-O1-O5
+Status: received
+
+GF-IRR-HOSE-34-VO1 x 1O2 roll @ $49.92

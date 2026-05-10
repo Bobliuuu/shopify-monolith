@@ -1,0 +1,14 @@
+From: laura@stonebridge-maint.example
+To: orders@greenfieldsupply.example
+Subject: order for 2026-10-02
+
+hey,
+
+can you get us grass seed prem, pet melt for 2026-10-02?
+also can you double check the total on the invoice
+
+ship/deliver to Burlington if possible.
+
+thanks,
+Laura
+Stonebridge Estates Maintenance

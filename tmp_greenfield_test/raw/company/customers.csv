@@ -1,0 +1,13 @@
+id,name,type,city,terms,contact,email
+CUST-001,Maple Ridge Farms Ltd.,cash crop farm,Fergus,Net 30,Jeff Martin,accounts@mapleridgefarms.example
+CUST-002,GreenScape Landscaping Inc.,landscaper,Mississauga,Net 30,Kyle Park,kyle@greenscapelandscaping.example
+CUST-003,Oak Valley Dairy,dairy farm,Elora,Net 60,Sarah Lewis,sarah@oakvalleydairy.example
+CUST-004,NorthLine Contracting,contractor,Kitchener,Net 30,Mike Rowan,mike@northlinecontracting.example
+CUST-005,Riverbend Organics,organic farm,St Jacobs,Net 15,Anita Brooks,orders@riverbendorganics.example
+CUST-006,HighPoint Property Services,property services,Cambridge,Due on receipt,Jason Reid,jason@highpointproperty.example
+CUST-007,Silver Creek Stables,horse farm,Milton,Net 30,Megan Scott,stableoffice@silvercreek.example
+CUST-008,UrbanRoot Gardens Co.,urban farm,Toronto,Card,Priya Nair,priya@urbanroot.example
+CUST-009,ClearPath Utilities,utility contractor,Hamilton,Net 30,Brian Berry,ap@clearpathutilities.example
+CUST-010,Brampton Turf Solutions,turf installer,Brampton,Net 30,Owen Patel,owen@bramptonturf.example
+CUST-011,Elm Lane Poultry,poultry farm,Listowel,Net 30,Gord Allen,office@elmlanepoultry.example
+CUST-012,Stonebridge Estates Maintenance,property maintenance,Burlington,Net 30,Laura Chen,laura@stonebridge-maint.example

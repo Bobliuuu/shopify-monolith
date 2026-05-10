@@ -1,0 +1,17 @@
+SHOP ORDER CONFIRMATION
+Order: ord_0000015
+Customer: Maple Ridge Farms Ltd. #2
+Date: 2026-01-05
+Status: fulfilled
+Currency: CAD
+
+Items:
+- GF-FERT-START-122412 20 bag @ $46.47 (929.40)
+- GF-SEED-ALF-50 6 sack @ $216.37 (1,298.22)
+- GF-IRR-DRIP-100 1 roll @ $50.87 (50.87)
+
+Subtotal: $2,278.49
+Discount: $0.00
+Tax: $302.57
+Shipping: $49.00
+Total: $2,630.06

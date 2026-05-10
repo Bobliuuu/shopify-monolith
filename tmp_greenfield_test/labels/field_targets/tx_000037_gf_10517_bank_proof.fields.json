@@ -1,0 +1,104 @@
+{
+  "doc_id": "tx_000037_gf_10517_bank_proof",
+  "doc_type": "bank_proof",
+  "tx_id": "TX-000037",
+  "fields": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000037"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10517"
+    },
+    {
+      "type": "customer_name",
+      "text": "HighPoint Property Services"
+    },
+    {
+      "type": "date",
+      "text": "2026-11-15"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-11-22"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-11-28"
+    },
+    {
+      "type": "total",
+      "text": "3,300.84",
+      "number": 3300.84
+    },
+    {
+      "type": "payment_ref",
+      "text": "HIGHPO-0517"
+    },
+    {
+      "type": "payment_method",
+      "text": "EFT"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEASON-SALT-20",
+      "description": "Ice melt salt (road salt) 20kg",
+      "messy_description": "ice melt",
+      "qty": 40,
+      "unit": "bag",
+      "unit_price": 11.32,
+      "line_total": 452.8
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BULK-GRAVEL-34",
+      "description": "Gravel 3/4 clear stone per ton",
+      "messy_description": "clear stone",
+      "qty": 5,
+      "unit": "ton",
+      "unit_price": 45.3,
+      "line_total": 226.5
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SOIL-TOP-PREM",
+      "description": "Topsoil screened (premium) per yard",
+      "messy_description": "premium dirt",
+      "qty": 1.5,
+      "unit": "yd",
+      "unit_price": 42.56,
+      "line_total": 63.84
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-TURF-10",
+      "description": "Grass seed premium turf mix 10lb",
+      "messy_description": "grass seed prem",
+      "qty": 50,
+      "unit": "bag",
+      "unit_price": 33.51,
+      "line_total": 1675.5
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-ALF-50",
+      "description": "Alfalfa seed coated 50lb sack",
+      "messy_description": "alfalfa coated",
+      "qty": 2,
+      "unit": "sack",
+      "unit_price": 213.73,
+      "line_total": 427.46
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "bulk dump delivery",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 75,
+      "line_total": 75
+    }
+  ]
+}

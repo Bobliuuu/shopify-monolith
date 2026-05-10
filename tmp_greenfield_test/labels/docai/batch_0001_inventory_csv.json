@@ -1,0 +1,8 @@
+{
+  "doc_id": "batch_0001_inventory_csv",
+  "doc_type": "inventory_csv",
+  "raw_text_path": "raw/artifacts/batch_0001_inventory_csv.csv",
+  "image_path": "images/batch_0001_inventory_csv.png",
+  "entities": [],
+  "bbox_status": "populate_after_real_ocr"
+}

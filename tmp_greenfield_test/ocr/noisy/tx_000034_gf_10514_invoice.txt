@@ -1,0 +1,25 @@
+GreenField Farm & Site Supply
+l7 Sideroad 8, Guelph, ON NlH 6J2     (5l9) 822-44l9
+HST # 842O3 l234 RTOOOl
+
+INVOICE: GF-lO5l4          Date: 2O26-O5-l7
+Due: 2O26-O7-l6                Terms: Net 6O
+PO: PO-5539
+
+BILL TO:
+Elora, ON
+Attn: Sarah Lewis
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-FEED-CHKN-LAYER2O hens feed                              l2      bag        22.85     274.2O
+GF-BED-STRAW-DUSTY   dusty straw bales                      l2      bale        6.49      77.88
+SERV-DELIVERY        local run                              l       ea        l85.OO     l85.OO
+
+Subtotal:      537.O8
+ HST l3%:       69.82
+TOTAL DUE:    $6O6.9O
+
+Payment method expected: Interac
+Payment ref: AUTH-559O23
+PEN NOTE: same pricing as last time?? verify

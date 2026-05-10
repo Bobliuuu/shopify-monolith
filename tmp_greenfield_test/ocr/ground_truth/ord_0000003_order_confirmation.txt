@@ -1,0 +1,17 @@
+SHOP ORDER CONFIRMATION
+Order: ord_0000003
+Customer: Silver Creek Stables #1
+Date: 2026-12-05
+Status: open
+Currency: CAD
+
+Items:
+- GF-FENCE-CHARGER-SOLAR 2 ea @ $182.93 (365.86)
+- GF-BED-STRAW-HORSE 12 bale @ $9.01 (108.12)
+- GF-SITE-GLOVES-50 1 case @ $56.73 (56.73)
+
+Subtotal: $530.71
+Discount: $53.07
+Tax: $71.84
+Shipping: $75.00
+Total: $624.48

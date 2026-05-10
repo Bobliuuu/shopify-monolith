@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: Oak Valley Dairy
+Cheque/ref: OAKVAL-0490
+Date: 2026-08-29
+Invoice: GF-10490
+Amount: $3,288.88
+Notes: paid in full

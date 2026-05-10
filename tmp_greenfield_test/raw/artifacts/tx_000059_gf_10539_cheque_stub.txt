@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: Brampton Turf Solutions
+Cheque/ref: AUTH-722937
+Date: 2026-09-24
+Invoice: GF-10539
+Amount: $2,168.31
+Notes: paid in full

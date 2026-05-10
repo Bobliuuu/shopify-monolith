@@ -1,0 +1,14 @@
+ From: laura@stonebridge-maint.example
+To: orders@greenfieldsupply.example
+Subject: order for 2026-06-l5
+
+hey,
+
+can you get us fill dirt grass seed prem for 2026-06-l5?
+PO is coming later, just get it moving
+
+ship/deliver to Burlington if possible.
+
+thanks,
+ Laura
+Stonebridge Estates Maintenance

@@ -1,0 +1,13 @@
+County Hardware & Farm Supply
+RECEIPT / YARD TICKET #68527       2026-10-10
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+premium ice melt                   197.1    bag       16.01   3,155.57
+handling / fuel / pallet fee        1        ea         25.00      25.00
+
+Subtotal: 3,180.57
+HST:      413.47
+TOTAL:    $3,594.04
+Paid by: account charge

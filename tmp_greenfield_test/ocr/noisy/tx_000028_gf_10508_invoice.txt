@@ -1,0 +1,26 @@
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (S19) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10S08          Date: 2026-0S-23
+Due: 2026-06-22                Terms: Net 30
+PO: n/a / txt order
+
+BILL TO:
+ GreenScape Landscaping Inc.
+Mississauga, ON
+Attn: Kyle Park
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-SITE-GLOVES-S0    work glove box                         6       case       S7.22     343.32
+GF-BULK-GRAVEL-34    clear stone                            1       ton        42.38      42.38
+GF-BULK-SAND-MASON   washed sand                            2       yd         38.29      76.S8
+SERV-DELIVERY        local run                              1       ea        1S0.00     1S0.00
+
+Subtotal:      612.28
+HST 13%:       79.60
+TOTAL DUE:    $691.88
+
+ Payment method expected: on account
+Payment ref: AUTH-389688
+PEN NOTE: Thanks Kyle! Call if you need anything else

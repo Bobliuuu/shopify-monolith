@@ -1,0 +1,104 @@
+{
+  "doc_id": "tx_000048_gf_10528_customer_email",
+  "doc_type": "customer_email",
+  "tx_id": "TX-000048",
+  "fields": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000048"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10528"
+    },
+    {
+      "type": "customer_name",
+      "text": "UrbanRoot Gardens Co."
+    },
+    {
+      "type": "date",
+      "text": "2026-11-12"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-11-19"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-11-19"
+    },
+    {
+      "type": "total",
+      "text": "2,118.89",
+      "number": 2118.89
+    },
+    {
+      "type": "payment_ref",
+      "text": "AUTH-770556"
+    },
+    {
+      "type": "payment_method",
+      "text": "on account"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SOIL-TOP-PREM",
+      "description": "Topsoil screened (premium) per yard",
+      "messy_description": "top soil premium",
+      "qty": 5,
+      "unit": "yd",
+      "unit_price": 50.19,
+      "line_total": 250.95
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BULK-GRAVEL-34",
+      "description": "Gravel 3/4 clear stone per ton",
+      "messy_description": "clear stone",
+      "qty": 1.5,
+      "unit": "ton",
+      "unit_price": 46.06,
+      "line_total": 69.09
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-TURF-10",
+      "description": "Grass seed premium turf mix 10lb",
+      "messy_description": "grass seed prem",
+      "qty": 40,
+      "unit": "bag",
+      "unit_price": 34.09,
+      "line_total": 1363.6
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BULK-SAND-MASON",
+      "description": "Sand - masonry (washed) yard",
+      "messy_description": "washed sand",
+      "qty": 4,
+      "unit": "yd",
+      "unit_price": 35.37,
+      "line_total": 141.48
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "delivery charge",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 75,
+      "line_total": 75
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DISCOUNT",
+      "description": "Account discount / price adjustment",
+      "messy_description": "acct discount",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": -25,
+      "line_total": -25
+    }
+  ]
+}

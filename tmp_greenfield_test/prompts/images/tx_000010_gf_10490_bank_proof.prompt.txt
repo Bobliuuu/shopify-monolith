@@ -1,0 +1,26 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create a mobile banking transaction detail screenshot showing deposit amount, date, ref, and account.
+
+Image condition:
+wrinkles, stains, pen marks, imperfect alignment
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Date posted: 2026-08-29
+Description: EFT Oak Valley Dairy OAKVAL-0490
+Amount: +$3,288.88
+Memo: invoice GF-10490
+Status: posted
+
+---END RAW CONTENT---

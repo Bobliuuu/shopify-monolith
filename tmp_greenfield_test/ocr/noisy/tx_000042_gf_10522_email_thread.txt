@@ -1,0 +1,13 @@
+EMAIL THREAD EXPORT
+
+To: orders@greenfieldsupply.example
+Subject: Re: GF-10522
+
+Customer:
+Can you resend the invoice? AP says they need the ref again.
+
+GreenFieId:
+Attached invoice GF-10522. Total is $2,853.97. Payment ref AUTH-211834.
+
+Customer:
+ok thanks. should go out 2026-06-28.

@@ -1,0 +1,25 @@
+GreenFieId Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10527          Date: 2026-09-10
+Due: 2026-09-17                Terms: Net 15
+PO: n/a / txt order
+
+BILL TO:
+Riverbend Organics
+ St Jacobs, ON
+Attn: Anita Brooks
+
+SKU                  Description                            Qty     Unit    Unit Price      Arnount
+-----------------------------------------------------------------------------------------------
+ GF-LIME-AG-LOAD      lime dump trailer                      1       load      534.58     534.58
+GF-CHEM-GLY-4L       weed spray 4L                          8       jug        74.18     593.44
+
+Subtotal:      1,128.02
+ HST 13%:       146.64
+TOTAL DUE:    $1,274.66
+
+ Payment method expected: on account
+ Payment ref: AUTH-861894
+PEN NOTE: customer asked why price changed

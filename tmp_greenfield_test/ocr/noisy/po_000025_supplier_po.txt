@@ -1,0 +1,8 @@
+SUPPLIER PURCHASE ORDER
+PO: po_000025
+Vendor: Fertilizer Depot Inc.
+Created: 2025-12-15
+Expected: 2026-01-05
+Status: received
+
+GF-BULK-CRUSHER-V01 x 83 ton @ $28.08

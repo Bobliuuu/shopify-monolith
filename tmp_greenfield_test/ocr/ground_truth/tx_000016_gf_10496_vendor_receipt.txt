@@ -1,0 +1,13 @@
+Tri-County Feed Mill
+RECEIPT / YARD TICKET #55194       2026-02-22
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+straw horse grade                  56.5     bale       5.95     336.18
+handling / fuel / pallet fee        1        ea         45.00      45.00
+
+Subtotal: 381.18
+HST:      49.55
+TOTAL:    $430.73
+Paid by: account charge

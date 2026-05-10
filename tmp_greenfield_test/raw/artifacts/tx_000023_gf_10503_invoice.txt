@@ -1,0 +1,26 @@
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10503          Date: 2026-07-19
+Due: 2026-08-18                Terms: Net 30
+PO: PO-7563
+
+BILL TO:
+Silver Creek Stables
+Milton, ON
+Attn: Megan Scott
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-SITE-TARP-1012    10x12 tarp                             4       ea         15.43      61.72
+GF-FENCE-TPOST-6     T post bundle                          3       bundle     83.39     250.17
+SERV-DELIVERY        delivery charge                        1       ea         95.00      95.00
+
+Subtotal:      406.89
+HST 13%:       52.90
+TOTAL DUE:    $459.79
+
+Payment method expected: Interac
+Payment ref: AUTH-609232
+PEN NOTE: Thanks Megan! Call if you need anything else

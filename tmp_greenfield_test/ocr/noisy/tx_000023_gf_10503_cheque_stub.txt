@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: Silver Creek Stables
+Cheque/ref: AUTH-6O9232
+Date: 2O26-O8-26
+Invoice: GF-1OSO3
+Arnount: $4S9.79
+Notes: AP batch

@@ -1,0 +1,114 @@
+{
+  "doc_id": "tx_000022_gf_10502_sms_thread",
+  "doc_type": "sms_thread",
+  "tx_id": "TX-000022",
+  "fields": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000022"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10502"
+    },
+    {
+      "type": "customer_name",
+      "text": "UrbanRoot Gardens Co."
+    },
+    {
+      "type": "date",
+      "text": "2026-03-23"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-03-30"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-04-04"
+    },
+    {
+      "type": "total",
+      "text": "2,554.55",
+      "number": 2554.55
+    },
+    {
+      "type": "payment_ref",
+      "text": "CHK-9890"
+    },
+    {
+      "type": "payment_method",
+      "text": "cheque"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BULK-SAND-MASON",
+      "description": "Sand - masonry (washed) yard",
+      "messy_description": "sand yard",
+      "qty": 3,
+      "unit": "yd",
+      "unit_price": 40.2,
+      "line_total": 120.6
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-ALF-50",
+      "description": "Alfalfa seed coated 50lb sack",
+      "messy_description": "alfalfa 50#",
+      "qty": 4,
+      "unit": "sack",
+      "unit_price": 226.19,
+      "line_total": 904.76
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-TURF-10",
+      "description": "Grass seed premium turf mix 10lb",
+      "messy_description": "turf mix",
+      "qty": 30,
+      "unit": "bag",
+      "unit_price": 29.42,
+      "line_total": 882.6
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BULK-CRUSHER",
+      "description": "Crusher run gravel driveway mix",
+      "messy_description": "driveway mix",
+      "qty": 2.5,
+      "unit": "ton",
+      "unit_price": 34.88,
+      "line_total": 87.2
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BULK-GRAVEL-34",
+      "description": "Gravel 3/4 clear stone per ton",
+      "messy_description": "3/4 clear",
+      "qty": 6,
+      "unit": "ton",
+      "unit_price": 39.25,
+      "line_total": 235.5
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "bulk dump delivery",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 85,
+      "line_total": 85
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DISCOUNT",
+      "description": "Account discount / price adjustment",
+      "messy_description": "acct discount",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": -55,
+      "line_total": -55
+    }
+  ]
+}

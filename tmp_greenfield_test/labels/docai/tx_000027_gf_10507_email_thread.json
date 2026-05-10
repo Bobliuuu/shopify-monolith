@@ -1,0 +1,96 @@
+{
+  "doc_id": "tx_000027_gf_10507_email_thread",
+  "doc_type": "email_thread",
+  "raw_text_path": "raw/artifacts/tx_000027_gf_10507_email_thread.txt",
+  "image_path": null,
+  "entities": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000027"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10507"
+    },
+    {
+      "type": "customer_name",
+      "text": "HighPoint Property Services"
+    },
+    {
+      "type": "date",
+      "text": "2026-02-05"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-02-12"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-02-14"
+    },
+    {
+      "type": "total",
+      "text": "1,744.87",
+      "number": 1744.87
+    },
+    {
+      "type": "payment_ref",
+      "text": "AUTH-381433"
+    },
+    {
+      "type": "payment_method",
+      "text": "Visa"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SOIL-TOP-PREM",
+      "description": "Topsoil screened (premium) per yard",
+      "messy_description": "premium dirt",
+      "qty": 4.5,
+      "unit": "yd",
+      "unit_price": 50.28,
+      "line_total": 226.26
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-IRR-HOSE-34",
+      "description": "Water hose heavy duty 3/4",
+      "messy_description": "3/4 hose",
+      "qty": 10,
+      "unit": "roll",
+      "unit_price": 64.18,
+      "line_total": 641.8
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BULK-GRAVEL-34",
+      "description": "Gravel 3/4 clear stone per ton",
+      "messy_description": "gravel 3/4",
+      "qty": 4.5,
+      "unit": "ton",
+      "unit_price": 39.97,
+      "line_total": 179.87
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SOIL-TOP-BASIC",
+      "description": "Top Soil (basic fill) — cheap stuff",
+      "messy_description": "fill dirt",
+      "qty": 10,
+      "unit": "yd",
+      "unit_price": 27.12,
+      "line_total": 271.2
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "delivery charge",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 225,
+      "line_total": 225
+    }
+  ],
+  "bbox_status": "populate_after_real_ocr"
+}

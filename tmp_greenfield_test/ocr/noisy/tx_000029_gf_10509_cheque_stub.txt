@@ -1,0 +1,6 @@
+Customer: GreenScape Landscaping Inc.
+Cheque/ref: CHK-4777
+Date: 2026-05-31
+lnvoice: GF-10509
+Arnount: $1,372.89
+Notes: paid in full

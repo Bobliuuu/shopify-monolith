@@ -1,0 +1,14 @@
+From: jason@highpointproperty.example
+To: orders@greenfieldsupply.example
+Subject: order for 2026-11-15
+
+hey,
+
+can you get us ice melt, clear stone for 2026-11-15?
+PO is coming later, just get it moving
+
+ship/deliver to Cambridge if possible.
+
+thanks,
+Jason
+HighPoint Property Services

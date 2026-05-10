@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: HighPoint Property Services
+Cheque/ref: HIGHPO-0517
+Date: 2026-11-28
+Invoice: GF-10517
+Amount: $3,300.84
+Notes: AP batch

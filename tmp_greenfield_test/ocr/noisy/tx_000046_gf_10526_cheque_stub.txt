@@ -1,0 +1,6 @@
+CHEQUE STUB / REMITTANCE
+Customer: UrbanRoot Gardens Co.
+Cheque/ref: AUTH-222343
+Date: 2O26-O7-19
+Invoice: GF-1OS26
+Amount: $1,186.86

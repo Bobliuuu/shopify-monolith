@@ -1,0 +1,31 @@
+sku,name,unit,price,category,messy_aliases
+GF-FERT-UREA-BULK,Urea 46-0-0 Bulk (per ton),ton,710.0,fertilizer,Urea bulk 46 | Urea 46-0-0 per ton | bulk urea | 46 urea bulk
+GF-FERT-UREA-55,Urea 46 granular - 55lb bags,bag,34.5,fertilizer,urea granular 55lb | 46 urea bags | Urea 55# | urea bags
+GF-FERT-START-122412,Starter Fert 12-24-12 (skid pricing avail),bag,42.0,fertilizer,12-24-12 starter | starter fert skid | Starter 12/24/12
+GF-LIME-AG-LOAD,Lime - ag grade (dump trailer load),load,540.0,soil,ag lime load | lime dump trailer | ag grade lime
+GF-LIME-DOLO-18,Dolomitic Lime bagged 18kg,bag,9.75,soil,dolo lime | dolomitic 18kg | lime bags
+GF-SOIL-TOP-PREM,Topsoil screened (premium) per yard,yd,46.0,bulk,screened topsoil | top soil premium | premium dirt
+GF-SOIL-TOP-BASIC,Top Soil (basic fill) — cheap stuff,yd,28.0,bulk,basic fill | cheap top soil | fill dirt
+GF-SEED-GRASS-CON25,Grass Seed Mix - Contractor Blend 25kg,bag,89.0,seed,contractor grass seed | seed mix 25kg | Contractor Blend
+GF-SEED-TURF-10,Grass seed premium turf mix 10lb,bag,31.5,seed,premium turf 10lb | turf mix | grass seed prem
+GF-SEED-ALF-50,Alfalfa seed coated 50lb sack,sack,219.0,seed,alfalfa coated | alfalfa 50# | coated alf seed
+GF-FEED-CHKN-LAYER20,Chicken Feed Layer Pellets 20kg,bag,22.25,feed,layer pellets | chicken feed 20kg | hens feed
+GF-FEED-DAIRY4-BULK,Dairy ration mix #4 (bulk auger fill),ton,492.0,feed,dairy #4 | ration mix 4 | bulk dairy feed
+GF-BED-STRAW-DUSTY,"Straw bales (small square, dusty)",bale,6.5,bedding,small straw | dusty straw bales | cheap straw
+GF-BED-STRAW-HORSE,"Straw Bale (clean, horse grade)",bale,8.25,bedding,horse straw | clean straw | straw horse grade
+GF-BED-SHAV-COMP,Wood shavings compressed bale,bale,10.75,bedding,compressed shavings | wood shaving bale | horse shavings
+GF-CHEM-GLY-4L,Roundup alt glyphosate 4L jug,jug,68.0,chemical,glyphosate 4L | roundup alt | weed spray 4L
+GF-CHEM-WEED-GEN,Weed killer concentrate (generic),jug,39.0,chemical,generic weed killer | weed conc. | weed concentrate
+GF-CHEM-INSECT-ORCH,Insecticide spray orchard grade,jug,83.0,chemical,orchard insecticide | insect spray | orchard spray
+GF-IRR-DRIP-100,Drip line 1/2 poly 100ft roll,roll,47.5,irrigation,drip line 100ft | half inch poly | irrigation drip roll
+GF-IRR-HOSE-34,Water hose heavy duty 3/4,roll,64.0,irrigation,3/4 hose | heavy hose | water hose hd
+GF-FENCE-WIRE-200,Fence wire galvanized 200m spool,spool,129.0,fencing,galv fence wire | wire 200m | fencing spool
+GF-FENCE-TPOST-6,T-posts 6ft green bundle of 10,bundle,79.0,fencing,6ft green t posts | T post bundle | posts 10 pack
+GF-FENCE-CHARGER-SOLAR,Electric fence charger solar,ea,189.0,fencing,solar fence charger | fence charger | solar zapper
+GF-BULK-GRAVEL-34,Gravel 3/4 clear stone per ton,ton,42.0,bulk,3/4 clear | clear stone | gravel 3/4
+GF-BULK-CRUSHER,Crusher run gravel driveway mix,ton,36.0,bulk,crusher run | driveway mix | crush run
+GF-BULK-SAND-MASON,Sand - masonry (washed) yard,yd,38.0,bulk,mason sand | washed sand | sand yard
+GF-SEASON-SALT-20,Ice melt salt (road salt) 20kg,bag,12.0,seasonal,road salt 20kg | ice melt | salt bags
+GF-SEASON-PETMELT,Ice Melt Premium (pet safe),bag,18.5,seasonal,pet melt | premium ice melt | pet safe salt
+GF-SITE-GLOVES-50,Work gloves (bulk pack 50),case,55.0,site,gloves bulk | work glove box | gloves 50 pack
+GF-SITE-TARP-1012,Blue tarp 10x12 (heavy duty-ish),ea,16.75,site,blue tarp | 10x12 tarp | hd-ish tarp

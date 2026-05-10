@@ -1,0 +1,8 @@
+PACKING SLIP
+Order: ord_OOOOO18
+Customer: Silver Creek Stables #2
+Carrier: Pickup
+Tracking: TRK-OOOOO18
+Fulfilled at: 2O26-O6-14
+ 
+GF-SITE-TARP-1O12  qty=2  loc=LOC-GUELPH-WH

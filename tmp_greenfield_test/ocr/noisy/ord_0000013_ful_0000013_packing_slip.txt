@@ -1,0 +1,11 @@
+PACKING SLIP
+Fulfillment: ful_00000l3
+Order: ord_00000l3
+Customer: Brampton Turf Solutions #2
+Carrier: Canada Post
+Fulfilled at: 2026-07-l3
+
+GF-SEASON-PETMELT  qty=8  loc=LOC-GUELPH-YARD
+GF-BULK-GRAVEL-34  qty=l6  loc=LOC-GUELPH-YARD
+GF-SEASON-SALT-20  qty=4  loc=LOC-GUELPH-YARD
+GF-SEED-GRASS-CON2S  qty=4  loc=LOC-GUELPH-YARD

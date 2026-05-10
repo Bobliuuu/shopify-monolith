@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Date posted: 2026-06-28
+Description: Interac Oak Valley Dairy AUTH-211834
+Arnount: +$2,8S3.97
+Memo: invoice GF-10S22
+ Status: posted

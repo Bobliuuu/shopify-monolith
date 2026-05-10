@@ -1,0 +1,14 @@
+EMAIL THREAD EXPORT
+
+From: mike@northlinecontracting.example
+To: orders@greenfieldsupply.example
+Subject: Re: GF-10S00
+
+Customer:
+Can you resend the invoice? AP says they need the ref again.
+
+GreenFieId:
+ Attached invoice GF-10S00. Total is $1,717.67. Payment ref AUTH-991014.
+
+Customer:
+ok thanks. should go out 2026-10-20.

@@ -1,0 +1,66 @@
+{
+  "doc_id": "tx_000031_gf_10511_bank_proof",
+  "doc_type": "bank_proof",
+  "raw_text_path": "raw/artifacts/tx_000031_gf_10511_bank_proof.txt",
+  "image_path": "images/tx_000031_gf_10511_bank_proof.png",
+  "entities": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000031"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10511"
+    },
+    {
+      "type": "customer_name",
+      "text": "Elm Lane Poultry"
+    },
+    {
+      "type": "date",
+      "text": "2026-09-09"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-10-09"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-09-16"
+    },
+    {
+      "type": "total",
+      "text": "182.47",
+      "number": 182.47
+    },
+    {
+      "type": "payment_ref",
+      "text": "ELMLAN-0511"
+    },
+    {
+      "type": "payment_method",
+      "text": "EFT"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SITE-TARP-1012",
+      "description": "Blue tarp 10x12 (heavy duty-ish)",
+      "messy_description": "10x12 tarp",
+      "qty": 4,
+      "unit": "ea",
+      "unit_price": 16.85,
+      "line_total": 67.4
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BED-SHAV-COMP",
+      "description": "Wood shavings compressed bale",
+      "messy_description": "wood shaving bale",
+      "qty": 8,
+      "unit": "bale",
+      "unit_price": 11.76,
+      "line_total": 94.08
+    }
+  ],
+  "bbox_status": "populate_after_real_ocr"
+}

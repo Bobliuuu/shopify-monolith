@@ -1,0 +1,45 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create a realistic photographed paper invoice with itemized table, HST, total, account terms, and handwritten circle around total.
+
+Image condition:
+wrinkles, stains, pen marks, imperfect alignment
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10504          Date: 2026-03-26
+Due: 2026-04-25                Terms: Net 30
+PO: n/a / txt order
+
+BILL TO:
+Silver Creek Stables
+Milton, ON
+Attn: Megan Scott
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-SITE-TARP-1012    hd-ish tarp                            4       ea         17.19      68.76
+GF-SITE-GLOVES-50    work glove box                         1       case       51.43      51.43
+GF-FEED-CHKN-LAYER20 layer pellets                          8       bag        23.94     191.52
+SERV-DELIVERY        local run                              1       ea        185.00     185.00
+
+Subtotal:      496.71
+HST 13%:       64.57
+TOTAL DUE:    $561.28
+
+Payment method expected: cheque
+Payment ref: CHK-6529
+PEN NOTE: substituted equivalent product
+
+---END RAW CONTENT---

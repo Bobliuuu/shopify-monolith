@@ -1,0 +1,49 @@
+batch_id,date,description,amount,type,invoice_no,payment_ref,customer
+BATCH-OOO1,2O26-O3-O1,cheque Elm Lane Poultry CHK-11O6,1,213.68,credit,GF-1O481,CHK-11O6,Elm Lane Poultry
+BATCH-OOO1,2O26-O6-O4,on account Oak Valley Dairy AUTH-748564,1,O34.19,credit,GF-1O482,AUTH-748564,Oak Valley Dairy
+BATCH-OOO1,2O26-12-2O,cheque Maple Ridge Farms Ltd. CHK-4598,2,197.O5,credit,GF-1O483,CHK-4598,Maple Ridge Farms Ltd.
+BATCH-OOO1,2O26-O5-O1,e-transfer Maple Ridge Farms Ltd. MAPLER-O484,5,956.99,credit,GF-1O484,MAPLER-O484,Maple Ridge Farms Ltd.
+BATCH-OOO1,2O26-O3-31,cheque GreenScape Landscaping Inc. CHK-92O1,2,587.94,credit,GF-1O485,CHK-92O1,GreenScape Landscaping Inc.
+ BATCH-OOO1,2O26-O7-O5,cheque Elm Lane Poultry CHK-4923,488.54,credit,GF-1O486,CHK-4923,Elm Lane Poultry
+BATCH-OOO1,2O26-O3-17,on account GreenScape Landscaping Inc. AUTH-823378,1,O16.77,credit,GF-1O487,AUTH-823378,GreenScape Landscaping Inc.
+BATCH-OOO12O26-O8-O9Visa Elm Lane Poultry AUTH-7O42O11847.12creditGF-1O488AUTH-7O42O1Elm Lane Poultry
+BATCH-OOO1,2O26-O4-15,EFT Silver Creek Stables SILVER-O489,715.79,credit,GF-1O489,SILVER-O489,Silver Creek Stables
+BATCH-OOO1,2O26-O8-29,EFT Oak Valley Dairy OAKVAL-O49O,3,288.88,credit,GF-1O49O,OAKVAL-O49O,Oak Valley Dairy
+BATCH-OOO1,2O26-O6-O3,e-transfer UrbanRoot Gardens Co. URBANR-O491,7,119.96,credit,GF-1O491,URBANR-O491,UrbanRoot Gardens Co.
+BATCH-OOO1,2O26-11-2O,Visa Brampton Turf Solutions AUTH-378O82,3,75O.15,credit,GF-1O492,AUTH-378O82,Brampton Turf Solutions
+BATCH-OOO1,2O26-O7-28,EFT NorthLine Contracting NORTHL-O493,1,117.14,credit,GF-1O493,NORTHL-O493,NorthLine Contracting
+BATCH-OOO1,2O26-O6-O4,cheque Riverbend Organics CHK-3647,5,299.49,credit,GF-1O494,CHK-3647,Riverbend Organics
+BATCH-OOO1,2O26-O1-13,EFT ClearPath Utilities CLEARP-O495,341.47,credit,GF-1O495,CLEARP-O495,ClearPath Utilities
+BATCH-OOO1,2O26-O3-17,e-transfer Elm Lane Poultry ELMLAN-O496,1O,645.57,credit,GF-1O496,ELMLAN-O496,Elm Lane Poultry
+BATCH-OOO1,2O26-O6-2O,e-transfer HighPoint Property Services HIGHPO-O497,843.55,credit,GF-1O497,HIGHPO-O497,HighPoint Property Services
+BATCH-OOO1,2O26-O6-17,on account HighPoint Property Services AUTH-446239,318.65,credit,GF-1O498,AUTH-446239,HighPoint Property Services
+BATCH-OOO1,2O26-O7-O6,Interac Stonebridge Estates Maintenance AUTH-923927,824.6O,credit,GF-1O499,AUTH-923927,Stonebridge Estates Maintenance
+BATCH-OOO1,2O26-1O-2O,Visa NorthLine Contracting AUTH-991O14,1,717.67,credit,GF-1O5OO,AUTH-991O14,NorthLine Contracting
+BATCH-OOO1,2O26-O5-O5,on account Brampton Turf Solutions AUTH-629298,6,23O.25,credit,GF-1O5O1,AUTH-629298,Brampton Turf Solutions
+BATCH-OOO1,2O26-O4-O4,cheque UrbanRoot Gardens Co. CHK-989O,2,554.55,credit,GF-1O5O2,CHK-989O,UrbanRoot Gardens Co.
+BATCH-OOO1,2O26-O8-26,Interac Silver Creek Stables AUTH-6O9232,459.79,credit,GF-1O5O3,AUTH-6O9232,Silver Creek Stables
+BATCH-OOO12O26-O4-25cheque Silver Creek Stables CHK-6529561.28creditGF-1O5O4CHK-6529Silver Creek Stables
+BATCH-OOO1,2O26-O5-16,Visa Silver Creek Stables AUTH-884256,7,4O2.55,credit,GF-1O5O5,AUTH-884256,Silver Creek Stables
+BATCH-OOO1,2O26-O3-O7,cheque Riverbend Organics CHK-2983,1,254.O3,credit,GF-1O5O6,CHK-2983,Riverbend Organics
+BATCH-OOO1,2O26-O2-14,Visa HighPoint Property Services AUTH-381433,1,3O8.65,credit,GF-1O5O7,AUTH-381433,HighPoint Property Services
+ BATCH-OOO1,2O26-O6-21,on account GreenScape Landscaping Inc. AUTH-389688,691.88,credit,GF-1O5O8,AUTH-389688,GreenScape Landscaping Inc.
+BATCH-OOO1,2O26-O5-31,cheque GreenScape Landscaping Inc. CHK-4777,1,372.89,credit,GF-1O5O9,CHK-4777,GreenScape Landscaping Inc.
+BATCH-OOO1,2O26-1O-14,EFT Stonebridge Estates Maintenance STONEB-O51O,1,652.38,credit,GF-1O51O,STONEB-O51O,Stonebridge Estates Maintenance
+BATCH-OOO1,2O26-O9-16,EFT Elm Lane Poultry ELMLAN-O511,182.47,credit,GF-1O511,ELMLAN-O511,Elm Lane Poultry
+BATCH-OOO1,2O26-O2-O7,Interac Elm Lane Poultry AUTH-42O214,2,386.44,credit,GF-1O512,AUTH-42O214,Elm Lane Poultry
+BATCH-OOO1,2O26-O5-O1,cheque GreenScape Landscaping Inc. CHK-4241,5,793.8O,credit,GF-1O513,CHK-4241,GreenScape Landscaping Inc.
+BATCH-OOO1,2O26-O6-O5,Interac Oak Valley Dairy AUTH-559O23,6O6.9O,credit,GF-1O514,AUTH-559O23,Oak Valley Dairy
+BATCH-OOO1,2O26-O7-O2,e-transfer Stonebridge Estates Maintenance STONEB-O515,2,28O.57,credit,GF-1O515,STONEB-O515,Stonebridge Estates Maintenance
+BATCH-OOO1,2O26-O4-13,EFT Riverbend Organics RIVERB-O516,2,6O7.84,credit,GF-1O516,RIVERB-O516,Riverbend Organics
+BATCH-OOO1,2O26-11-28,EFT HighPoint Property Services HIGHPO-O517,3,3OO.84,credit,GF-1O517,HIGHPO-O517,HighPoint Property Services
+BATCH-OOO1,2O26-1O-21,cheque Oak Valley Dairy CHK-9O22,3,265.98,credit,GF-1O518,CHK-9O22,Oak Valley Dairy
+BATCH-OOO1,2O26-1O-23,EFT HighPoint Property Services HIGHPO-O519,3,O35.78,credit,GF-1O519,HIGHPO-O519,HighPoint Property Services
+BATCH-OOO1,2O26-O4-1O,Interac Oak Valley Dairy AUTH-2O3225,8,83O.69,credit,GF-1O52O,AUTH-2O3225,Oak Valley Dairy
+BATCH-OOO1,2O26-O2-14,Visa Maple Ridge Farms Ltd. AUTH-816318,4,253.O9,credit,GF-1O521,AUTH-816318,Maple Ridge Farms Ltd.
+BATCH-OOO1,2O26-O6-28,Interac Oak Valley Dairy AUTH-211834,2,853.97,credit,GF-1O522,AUTH-211834,Oak Valley Dairy
+BATCH-OOO1,2O26-O6-2O,cheque Brampton Turf Solutions CHK-477O,733.97,credit,GF-1O523,CHK-477O,Brampton Turf Solutions
+BATCH-OOO1,2O26-O5-18,e-transfer Brampton Turf Solutions BRAMPT-O524,2O7.92,credit,GF-1O524,BRAMPT-O524,Brampton Turf Solutions
+BATCH-OOO1,2O26-1O-O8,cheque HighPoint Property Services CHK-2479,1,811.28,credit,GF-1O525,CHK-2479,HighPoint Property Services
+BATCH-OOO1,2O26-11-19,on account UrbanRoot Gardens Co. AUTH-77O556,2,118.89,credit,GF-1O528,AUTH-77O556,UrbanRoot Gardens Co.
+BATCH-OOO1,2O26-O4-12,e-transfer NorthLine Contracting NORTHL-O529,485.26,credit,GF-1O529,NORTHL-O529,NorthLine Contracting
+BATCH-OOO1,2O26-O2-23,Visa Oak Valley Dairy AUTH-145471,1,434.31,credit,GF-1O53O,AUTH-145471,Oak Valley Dairy

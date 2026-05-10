@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Date posted: 2026-08-26
+Description: Interac Silver Creek Stables AUTH-609232
+Amount: +$459.79
+Memo: invoice GF-10503
+Status: posted

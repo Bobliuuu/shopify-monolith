@@ -1,0 +1,8 @@
+SUPPLIER PURCHASE ORDER
+ PO: po_OOOO1O
+Vendor: Wellington Aggregates Yard Ticket
+Created: 2O25-12-15
+Expected: 2O26-O1-O5
+Status: received
+
+GF-SEED-ALF-5O-VO1 x 329 sack @ $17O.82

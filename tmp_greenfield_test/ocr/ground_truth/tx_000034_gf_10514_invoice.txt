@@ -1,0 +1,26 @@
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10514          Date: 2026-05-17
+Due: 2026-07-16                Terms: Net 60
+PO: PO-5539
+
+BILL TO:
+Oak Valley Dairy
+Elora, ON
+Attn: Sarah Lewis
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-FEED-CHKN-LAYER20 hens feed                              12      bag        22.85     274.20
+GF-BED-STRAW-DUSTY   dusty straw bales                      12      bale        6.49      77.88
+SERV-DELIVERY        local run                              1       ea        185.00     185.00
+
+Subtotal:      537.08
+HST 13%:       69.82
+TOTAL DUE:    $606.90
+
+Payment method expected: Interac
+Payment ref: AUTH-559023
+PEN NOTE: same pricing as last time?? verify

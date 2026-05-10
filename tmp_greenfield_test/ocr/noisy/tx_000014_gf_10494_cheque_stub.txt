@@ -1,0 +1,6 @@
+CHEQUE STUB / REMITTANCE
+Customer: Riverbend Organics
+Cheque/ref: CHK-3647
+Date: 2O26-O6-O4
+Invoice: GF-1O494
+Amount: $5,299.49

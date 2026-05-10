@@ -1,0 +1,44 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create a realistic photographed paper invoice with itemized table, HST, total, account terms, and handwritten circle around total.
+
+Image condition:
+low-resolution fax/scan look, slightly washed out
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10493          Date: 2026-07-09
+Due: 2026-08-08                Terms: Net 30
+PO: n/a / txt order
+
+BILL TO:
+NorthLine Contracting
+Kitchener, ON
+Attn: Mike Rowan
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-BULK-GRAVEL-34    gravel 3/4                             8       ton        46.08     368.64
+GF-BULK-CRUSHER      crush run                              6       ton        33.17     199.02
+GF-FENCE-WIRE-200    galv fence wire                        3       spool     140.32     420.96
+
+Subtotal:      988.62
+HST 13%:       128.52
+TOTAL DUE:    $1,117.14
+
+Payment method expected: EFT
+Payment ref: NORTHL-0493
+PEN NOTE: same pricing as last time?? verify
+
+---END RAW CONTENT---

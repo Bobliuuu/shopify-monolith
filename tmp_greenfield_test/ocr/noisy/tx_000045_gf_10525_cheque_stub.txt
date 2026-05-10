@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: HighPoint Property Services
+Cheque/ref: CHK-2479
+Date: 2O26-1O-O8
+ Invoice: GF-1OS2S
+ Amount: $1,811.28
+Notes: hold receipt

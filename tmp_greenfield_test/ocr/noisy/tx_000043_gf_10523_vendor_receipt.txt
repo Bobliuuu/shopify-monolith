@@ -1,0 +1,12 @@
+ RECEIPT / YARD TICKET #23066       2026-06-01
+Sold to: GreenFieId Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+road salt 20kg                     244.7    bag        9.96   2437.21
+handling / fuel / pallet fee        1        ea         18.00      18.00
+
+Subtotal: 2,455.21
+HST:      319.18
+TOTAL:    $2,774.39
+Paid by: cheque

@@ -1,0 +1,13 @@
+Guelph AgriChem Wholesale
+RECEIPT / YARD TICKET #63452       2O26-O7-O9
+Sold to: GreenFieId Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Arnount
+----------------------------------------------------------------------
+gravel 3/4                         2l.3     ton       3l.l2     662.86
+handling / fuel / pallet fee        l        ea         25.OO      25.OO
+
+Subtotal: 687.86
+HST:      89.42
+T0TAL:    $777.28
+Paid by: cheque

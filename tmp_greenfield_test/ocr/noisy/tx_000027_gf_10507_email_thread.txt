@@ -1,0 +1,14 @@
+EMAIL THREAD EXPORT
+
+From: jason at highpointproperty.example
+To: orders at greenfieldsupply.example
+Subject: Re: GF-1O5O7
+
+Customer:
+Can you resend the invoice? AP says they need the ref again.
+
+GreenField:
+Attached invoice GF-1O5O7. Total is $1,744.87. Payment ref AUTH-381433.
+
+Customer:
+ok thanks. should go out 2O26-O2-14.

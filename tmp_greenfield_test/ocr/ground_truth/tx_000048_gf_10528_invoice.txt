@@ -1,0 +1,29 @@
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10528          Date: 2026-11-12
+Due: 2026-11-19                Terms: Card
+PO: n/a / txt order
+
+BILL TO:
+UrbanRoot Gardens Co.
+Toronto, ON
+Attn: Priya Nair
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-SOIL-TOP-PREM     top soil premium                       5       yd         50.19     250.95
+GF-BULK-GRAVEL-34    clear stone                            1.5     ton        46.06      69.09
+GF-SEED-TURF-10      grass seed prem                        40      bag        34.09   1,363.60
+GF-BULK-SAND-MASON   washed sand                            4       yd         35.37     141.48
+SERV-DELIVERY        delivery charge                        1       ea         75.00      75.00
+SERV-DISCOUNT        acct discount                          1       ea        -25.00     -25.00
+
+Subtotal:      1,875.12
+HST 13%:       243.77
+TOTAL DUE:    $2,118.89
+
+Payment method expected: on account
+Payment ref: AUTH-770556
+PEN NOTE: Thanks Priya! Call if you need anything else

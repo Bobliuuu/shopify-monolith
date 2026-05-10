@@ -1,0 +1,13 @@
+Waterloo Farm Hardware
+RECEIPT / YARD TICKET #83010       2026-02-01
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+weed concentrate                   6.7      jug       27.46     183.98
+handling / fuel / pallet fee        1        ea         45.00      45.00
+
+Subtotal: 228.98
+HST:      29.77
+TOTAL:    $258.75
+Paid by: account charge

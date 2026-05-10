@@ -1,0 +1,28 @@
+batch_id,sku,name,starting_qty,ordered_out,restocked,ending_qty,unit,notes
+BATCH-OOOl,GF-BED-SHAV-COMP,Wood shavings compressed bale,l99,98,2O,l2l,bale,check bin
+BATCH-OOOl,GF-BED-STRAW-DUSTY,Straw bales (small square, dusty),lO5,74,O,3l,bale,
+BATCH-OOOl,GF-BED-STRAW-HORSE,Straw Bale (clean, horse grade),l5O,87,5O,ll3,bale,low stock
+BATCH-OOOl,GF-BULK-CRUSHER,Crusher run gravel driveway mix,247,3O.5,O,2l6.5,ton,handwritten correction
+BATCH-OOOl,GF-BULK-GRAVEL-34,Gravel 3/4 clear stone per ton,69,5l.O,5O,68.O,ton,check bin
+BATCH-OOOl,GF-BULK-SAND-MASON,Sand - masonry (washed) yard,lO7,l9.5,lO,97.5,yd,check bin
+BATCH-OOOl,GF-CHEM-GLY-4L,Roundup alt glyphosate 4L jug,23l,8,lOO,323,jug,check bin
+BATCH-OOOl,GF-CHEM-INSECT-ORCH,Insecticide spray orchard grade,l8O,4,O,l76,jug,handwritten correction
+BATCH-OOOl,GF-CHEM-WEED-GEN,Weed killer concentrate (generic),42,4,2O,58,jug,counted by Mike
+ BATCH-OOOl,GF-FEED-CHKN-LAYER2O,Chicken Feed Layer Pellets 2Okg,l22,l32,lO,O,bag,low stock
+BATCH-OOOl,GF-FEED-DAIRY4-BULK,Dairy ration mix #4 (bulk auger fill),l67,47.O,3O,l5O.O,ton,low stock
+BATCH-OOOl,GF-FENCE-CHARGER-SOLAR,Electric fence charger solar,224,l6,O,2O8,ea,handwritten correction
+BATCH-OOOl,GF-FENCE-TPOST-6,T-posts 6ft green bundle of lO,242,39,5O,253,bundle,check bin
+BATCH-OOOl,GF-FENCE-WIRE-2OO,Fence wire galvanized 2OOm spool,l64,3O,3O,l64,spool,handwritten correction
+BATCH-OOOl,GF-FERT-UREA-55,Urea 46 granular - 55lb bags,l64,ll7,lO,57,bag,handwritten correction
+BATCH-OOOl,GF-IRR-DRIP-lOO,Drip line l/2 poly lOOft roll,ll9,32,5O,l37,roll,low stock
+ BATCH-OOOl,GF-LIME-AG-LOAD,Lime - ag grade (dump trailer load),l69,4,2O,l85,load,counted by Mike
+BATCH-OOOl,GF-LIME-DOLO-l8,Dolomitic Lime bagged l8kg,ll3,llO,O,3,bag,handwritten correction
+BATCH-OOOl,GF-SEASON-PETMELT,Ice Melt Premium (pet safe),25O,2lO,lO,5O,bag,
+ BATCH-OOOl,GF-SEASON-SALT-2O,Ice melt salt (road salt) 2Okg,l48,2l4,O,-66,bag,handwritten correction
+BATCH-OOOl,GF-SEED-ALF-5O,Alfalfa seed coated 5Olb sack,l54,l5,5O,l89,sack,
+BATCH-OOOl,GF-SEED-GRASS-CON25,Grass Seed Mix - Contractor Blend 25kg,2lO,23O,lO,-lO,bag,check bin
+BATCH-OOOl,GF-SEED-TURF-lO,Grass seed premium turf mix lOlb,2O3,492,O,-289,bag,
+BATCH-OOOl,GF-SITE-GLOVES-5O,Work gloves (bulk pack 5O),l6O,6l,lO,lO9,case,handwritten correction
+ BATCH-OOOl,GF-SITE-TARP-lOl2,Blue tarp lOxl2 (heavy duty-ish),l84,63,O,l2l,ea,counted by Mike
+BATCH-OOOl,GF-SOIL-TOP-BASIC,Top Soil (basic fill) — cheap stuff,83,36,lO,57,yd,low stock
+BATCH-OOOl,GF-SOIL-TOP-PREM,Topsoil screened (premium) per yard,ll7,29.O,2O,lO8.O,yd,

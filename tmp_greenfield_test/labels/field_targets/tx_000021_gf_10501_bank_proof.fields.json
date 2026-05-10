@@ -1,0 +1,104 @@
+{
+  "doc_id": "tx_000021_gf_10501_bank_proof",
+  "doc_type": "bank_proof",
+  "tx_id": "TX-000021",
+  "fields": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000021"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10501"
+    },
+    {
+      "type": "customer_name",
+      "text": "Brampton Turf Solutions"
+    },
+    {
+      "type": "date",
+      "text": "2026-04-10"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-05-10"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-05-05"
+    },
+    {
+      "type": "total",
+      "text": "6,230.25",
+      "number": 6230.25
+    },
+    {
+      "type": "payment_ref",
+      "text": "AUTH-629298"
+    },
+    {
+      "type": "payment_method",
+      "text": "on account"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-IRR-HOSE-34",
+      "description": "Water hose heavy duty 3/4",
+      "messy_description": "3/4 hose",
+      "qty": 10,
+      "unit": "roll",
+      "unit_price": 68.79,
+      "line_total": 687.9
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-TURF-10",
+      "description": "Grass seed premium turf mix 10lb",
+      "messy_description": "grass seed prem",
+      "qty": 25,
+      "unit": "bag",
+      "unit_price": 30.22,
+      "line_total": 755.5
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-GRASS-CON25",
+      "description": "Grass Seed Mix - Contractor Blend 25kg",
+      "messy_description": "Contractor Blend",
+      "qty": 40,
+      "unit": "bag",
+      "unit_price": 89.32,
+      "line_total": 3572.8
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEASON-SALT-20",
+      "description": "Ice melt salt (road salt) 20kg",
+      "messy_description": "road salt 20kg",
+      "qty": 10,
+      "unit": "bag",
+      "unit_price": 13.02,
+      "line_total": 130.2
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SOIL-TOP-PREM",
+      "description": "Topsoil screened (premium) per yard",
+      "messy_description": "top soil premium",
+      "qty": 5,
+      "unit": "yd",
+      "unit_price": 43.42,
+      "line_total": 217.1
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "delivery charge",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 150,
+      "line_total": 150
+    }
+  ]
+}

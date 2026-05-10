@@ -1,0 +1,23 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create a realistic handwritten note in blue pen on scrap paper; must look genuinely handwritten, not typed.
+
+Image condition:
+mostly readable, mild desk shadow
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+HANDWRITTEN NOTE TRANSCRIPTION:
+Jason / HighPoint
+local run - 1 ea
+same as last time
+ref GF-10535 / CHK-8972
+
+---END RAW CONTENT---

@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-04-29T07:46:57.305348+00:00",
+  "results": [
+    {
+      "url": "https://example.com/",
+      "score_performance": null,
+      "score_accessibility": null,
+      "score_seo": null,
+      "score_best_practices": null,
+      "report_path": "data/seo/reports/example.com_.report.json"
+    },
+    {
+      "url": "https://example.com/products",
+      "score_performance": null,
+      "score_accessibility": null,
+      "score_seo": null,
+      "score_best_practices": null,
+      "report_path": "data/seo/reports/example.com_products.report.json"
+    }
+  ],
+  "prioritized_fixes": []
+}

@@ -1,0 +1,25 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create an inventory adjustment report with SKU deltas, timestamps, and reasons.
+
+Image condition:
+wrinkles, stains, pen marks, imperfect alignment
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+INVENTORY ADJUSTMENT LOG
+Adjustment id: adj_0000001_gf_irr_hose_34
+SKU: GF-IRR-HOSE-34
+Location: LOC-KIT-STAGE
+Delta: -1
+Reason: order_fulfillment
+Timestamp: 2026-02-27
+
+---END RAW CONTENT---

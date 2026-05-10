@@ -1,0 +1,14 @@
+From: mike@northlinecontracting.example
+To: orders@greenfieldsupply.example
+Subject: order for 2026-07-09
+
+hey,
+
+can you get us gravel 3/4, crush run for 2026-07-09?
+same as last time if the price is close
+
+ship/deliver to Kitchener if possible.
+
+thanks,
+Mike
+NorthLine Contracting

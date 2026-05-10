@@ -1,0 +1,25 @@
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (S19) 822-4419
+HST # 842O3 1234 RTOOO1
+
+INVOICE: GF-1OS21          Date: 2O26-O1-24
+Due: 2O26-O2-23                Terms: Net 3O
+PO: n/a / txt order
+
+BILL TO:
+Maple Ridge Farms Ltd.
+Fergus, ON
+Attn: Jeff Martin
+
+SKU                  Description                            Qty     Unit    Unit Price      Arnount
+-----------------------------------------------------------------------------------------------
+GF-LIME-DOLO-18      dolo lime                              2O      bag         9.73     194.6O
+SERV-DELIVERY        bulk dump delivery                     1       ea         8S.OO      8S.OO
+SERV-DISCOUNT        acct discount                          1       ea        -SS.OO     -SS.OO
+Subtotal:      3,763.8O
+HST 13%:       489.29
+TOTAL DUE:    $4,2S3.O9
+
+Payment method expected: Visa
+Payment ref: AUTH-816318
+PEN NOTE: partial delivery - send rest Friday

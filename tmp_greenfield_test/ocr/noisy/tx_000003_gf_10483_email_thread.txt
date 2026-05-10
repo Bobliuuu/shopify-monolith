@@ -1,0 +1,13 @@
+EMAIL THREAD EXPORT
+
+From: accounts@mapleridgefarms.example
+To: orders@greenfieldsupply.example
+Subject: Re: GF-10483
+
+Can you resend the invoice? AP says they need the ref again.
+
+GreenFieId:
+Attached invoice GF-10483. Total is $4,394.10. Payment ref CHK-4598.
+
+Customer:
+ok thanks. should go out 2026-12-20.

@@ -1,0 +1,13 @@
+Tri-County Feed Mill
+RECEIPT / YARD TICKET #57341       2026-04-29
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+solar zapper                       13.2     ea       140.56   1,855.39
+handling / fuel / pallet fee        1        ea         36.00      36.00
+
+Subtotal: 1,891.39
+HST:      245.88
+TOTAL:    $2,137.27
+Paid by: cheque

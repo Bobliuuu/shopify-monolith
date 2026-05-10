@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+ Customer: GreenScape Landscaping Inc.
+Cheque/ref: CHK-4241
+Date: 2026-05-01
+Invoice: GF-10513
+Arnount: $5,793.80
+Notes: paid in full

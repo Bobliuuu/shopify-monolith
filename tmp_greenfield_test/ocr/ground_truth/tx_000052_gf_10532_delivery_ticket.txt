@@ -1,0 +1,15 @@
+GREENFIELD FARM & SITE SUPPLY       DELIVERY TICKET #80971
+Date: 2026-08-01
+Customer: Silver Creek Stables
+Location: Milton, ON
+Driver: Wayne
+
+QTY      UNIT   DESCRIPTION
+-----------------------------------------
+2        bundle T post bundle
+1        spool  galv fence wire
+6        bale   horse shavings
+20       bale   cheap straw
+
+Notes: Leave by north gate
+Received by: ____________________

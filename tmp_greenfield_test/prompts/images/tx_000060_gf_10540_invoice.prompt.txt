@@ -1,0 +1,45 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create a realistic photographed paper invoice with itemized table, HST, total, account terms, and handwritten circle around total.
+
+Image condition:
+wrinkles, stains, pen marks, imperfect alignment
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10540          Date: 2026-01-22
+Due: 2026-02-21                Terms: Net 30
+PO: PO-4317
+
+BILL TO:
+Stonebridge Estates Maintenance
+Burlington, ON
+Attn: Laura Chen
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-IRR-DRIP-100      drip line 100ft                        6       roll       44.99     269.94
+GF-BULK-SAND-MASON   washed sand                            5       yd         35.67     178.35
+GF-BULK-GRAVEL-34    gravel 3/4                             12      ton        39.28     471.36
+SERV-DELIVERY        delivery charge                        1       ea         95.00      95.00
+
+Subtotal:      1,014.65
+HST 13%:       131.90
+TOTAL DUE:    $1,146.55
+
+Payment method expected: Visa
+Payment ref: AUTH-648141
+PEN NOTE: customer asked why price changed
+
+---END RAW CONTENT---

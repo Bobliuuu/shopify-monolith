@@ -1,0 +1,7 @@
+Mobile banking transaction detail
+
+Date posted: 2026-09-27
+Description: on account GreenScape Landscaping Inc. AUTH-618119
+Amount: +$1,172.58
+Memo: invoice GF-10538
+Status: posted

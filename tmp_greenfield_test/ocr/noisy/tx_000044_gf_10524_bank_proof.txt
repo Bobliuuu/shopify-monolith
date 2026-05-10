@@ -1,0 +1,7 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Description: e-transfer Brampton Turf Solutions BRAMPT-0524
+Arnount: +$207.92
+Memo: invoice GF-10524
+Status: posted

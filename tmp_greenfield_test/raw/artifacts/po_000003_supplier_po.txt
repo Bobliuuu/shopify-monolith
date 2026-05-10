@@ -1,0 +1,8 @@
+SUPPLIER PURCHASE ORDER
+PO: po_000003
+Vendor: County Hardware & Farm Supply
+Created: 2025-12-15
+Expected: 2026-01-05
+Status: received
+
+GF-FERT-START-122412-V01 x 342 bag @ $32.76

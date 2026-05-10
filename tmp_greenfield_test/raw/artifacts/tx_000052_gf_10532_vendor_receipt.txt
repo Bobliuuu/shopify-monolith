@@ -1,0 +1,13 @@
+Tri-County Feed Mill
+RECEIPT / YARD TICKET #55083       2026-08-01
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+cheap straw                        47.7     bale       5.87     280.00
+handling / fuel / pallet fee        1        ea         12.00      12.00
+
+Subtotal: 292.00
+HST:      37.96
+TOTAL:    $329.96
+Paid by: account charge

@@ -1,0 +1,12 @@
+Fertilizer Depot Inc.
+RECEIPT / YARD TICKET #45325       2026-01-22
+Sold to: GreenFieId Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+gravel 3/4                         40.2     ton       29.58   1,189.12
+handling / fuel / pallet fee        1        ea         45.00      45.00
+Subtotal: 1,234.12
+HST:      160.44
+TOTAL:    $1,394.56
+ Paid by: account charge

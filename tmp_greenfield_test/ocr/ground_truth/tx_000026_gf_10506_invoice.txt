@@ -1,0 +1,26 @@
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10506          Date: 2026-02-25
+Due: 2026-03-04                Terms: Net 15
+PO: PO-7419
+
+BILL TO:
+Riverbend Organics
+St Jacobs, ON
+Attn: Anita Brooks
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-LIME-DOLO-18      dolomitic 18kg                         80      bag        10.56     844.80
+GF-CHEM-WEED-GEN     generic weed killer                    4       jug        42.49     169.96
+SERV-DELIVERY        delivery - truck                       1       ea         95.00      95.00
+
+Subtotal:      1,109.76
+HST 13%:       144.27
+TOTAL DUE:    $1,254.03
+
+Payment method expected: cheque
+Payment ref: CHK-2983
+PEN NOTE: Thanks Anita! Call if you need anything else

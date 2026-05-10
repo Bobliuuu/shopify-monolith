@@ -1,0 +1,14 @@
+EMAIL THREAD EXPORT
+
+From: priya@urbanroot.example
+To: orders@greenfieldsupply.example
+Subject: Re: GF-10491
+
+Customer:
+Can you resend the invoice? AP says they need the ref again.
+
+GreenField:
+Attached invoice GF-10491. Total is $7,119.96. Payment ref URBANR-0491.
+
+Customer:
+ok thanks. should go out 2026-06-03.

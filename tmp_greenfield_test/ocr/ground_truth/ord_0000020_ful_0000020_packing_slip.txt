@@ -1,0 +1,9 @@
+PACKING SLIP
+Fulfillment: ful_0000020
+Order: ord_0000020
+Customer: Riverbend Organics #1
+Carrier: Purolator
+Tracking: TRK-0000020
+Fulfilled at: 2026-09-21
+
+GF-SEED-ALF-50  qty=2  loc=LOC-KIT-STAGE

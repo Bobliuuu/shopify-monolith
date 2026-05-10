@@ -1,0 +1,66 @@
+{
+  "doc_id": "tx_000043_gf_10523_delivery_ticket",
+  "doc_type": "delivery_ticket",
+  "raw_text_path": "raw/artifacts/tx_000043_gf_10523_delivery_ticket.txt",
+  "image_path": null,
+  "entities": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000043"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10523"
+    },
+    {
+      "type": "customer_name",
+      "text": "Brampton Turf Solutions"
+    },
+    {
+      "type": "date",
+      "text": "2026-06-01"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-07-01"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-06-20"
+    },
+    {
+      "type": "total",
+      "text": "1,223.29",
+      "number": 1223.29
+    },
+    {
+      "type": "payment_ref",
+      "text": "CHK-4770"
+    },
+    {
+      "type": "payment_method",
+      "text": "cheque"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SITE-TARP-1012",
+      "description": "Blue tarp 10x12 (heavy duty-ish)",
+      "messy_description": "hd-ish tarp",
+      "qty": 4,
+      "unit": "ea",
+      "unit_price": 16.24,
+      "line_total": 64.96
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEASON-SALT-20",
+      "description": "Ice melt salt (road salt) 20kg",
+      "messy_description": "road salt 20kg",
+      "qty": 80,
+      "unit": "bag",
+      "unit_price": 12.72,
+      "line_total": 1017.6
+    }
+  ],
+  "bbox_status": "populate_after_real_ocr"
+}

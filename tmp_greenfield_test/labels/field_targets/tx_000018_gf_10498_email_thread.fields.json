@@ -1,0 +1,74 @@
+{
+  "doc_id": "tx_000018_gf_10498_email_thread",
+  "doc_type": "email_thread",
+  "tx_id": "TX-000018",
+  "fields": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000018"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10498"
+    },
+    {
+      "type": "customer_name",
+      "text": "HighPoint Property Services"
+    },
+    {
+      "type": "date",
+      "text": "2026-06-10"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-06-17"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-06-17"
+    },
+    {
+      "type": "total",
+      "text": "424.87",
+      "number": 424.87
+    },
+    {
+      "type": "payment_ref",
+      "text": "AUTH-446239"
+    },
+    {
+      "type": "payment_method",
+      "text": "on account"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-IRR-HOSE-34",
+      "description": "Water hose heavy duty 3/4",
+      "messy_description": "water hose hd",
+      "qty": 2,
+      "unit": "roll",
+      "unit_price": 61.81,
+      "line_total": 123.62
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BULK-SAND-MASON",
+      "description": "Sand - masonry (washed) yard",
+      "messy_description": "sand yard",
+      "qty": 4.5,
+      "unit": "yd",
+      "unit_price": 34.97,
+      "line_total": 157.37
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "local run",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 95,
+      "line_total": 95
+    }
+  ]
+}

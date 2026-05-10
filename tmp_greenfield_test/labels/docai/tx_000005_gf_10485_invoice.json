@@ -1,0 +1,96 @@
+{
+  "doc_id": "tx_000005_gf_10485_invoice",
+  "doc_type": "invoice",
+  "raw_text_path": "raw/artifacts/tx_000005_gf_10485_invoice.txt",
+  "image_path": "images/tx_000005_gf_10485_invoice.png",
+  "entities": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000005"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10485"
+    },
+    {
+      "type": "customer_name",
+      "text": "GreenScape Landscaping Inc."
+    },
+    {
+      "type": "date",
+      "text": "2026-03-20"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-04-19"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-03-31"
+    },
+    {
+      "type": "total",
+      "text": "2,587.94",
+      "number": 2587.94
+    },
+    {
+      "type": "payment_ref",
+      "text": "CHK-9201"
+    },
+    {
+      "type": "payment_method",
+      "text": "cheque"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BULK-SAND-MASON",
+      "description": "Sand - masonry (washed) yard",
+      "messy_description": "sand yard",
+      "qty": 5,
+      "unit": "yd",
+      "unit_price": 38.58,
+      "line_total": 192.9
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SOIL-TOP-BASIC",
+      "description": "Top Soil (basic fill) — cheap stuff",
+      "messy_description": "basic fill",
+      "qty": 1,
+      "unit": "yd",
+      "unit_price": 29.19,
+      "line_total": 29.19
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-IRR-HOSE-34",
+      "description": "Water hose heavy duty 3/4",
+      "messy_description": "heavy hose",
+      "qty": 8,
+      "unit": "roll",
+      "unit_price": 69.07,
+      "line_total": 552.56
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEASON-PETMELT",
+      "description": "Ice Melt Premium (pet safe)",
+      "messy_description": "premium ice melt",
+      "qty": 80,
+      "unit": "bag",
+      "unit_price": 18.15,
+      "line_total": 1452.0
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SITE-TARP-1012",
+      "description": "Blue tarp 10x12 (heavy duty-ish)",
+      "messy_description": "blue tarp",
+      "qty": 4,
+      "unit": "ea",
+      "unit_price": 15.89,
+      "line_total": 63.56
+    }
+  ],
+  "bbox_status": "populate_after_real_ocr"
+}

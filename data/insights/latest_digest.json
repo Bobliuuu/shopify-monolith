@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-04-29T07:46:50.892668+00:00",
+  "insights": {
+    "orders": 5,
+    "revenue": 6068.400000000001,
+    "aov": 1213.68,
+    "top_demand_skus": [
+      {
+        "sku": "GF-FENCE-WIRE-200",
+        "sold_qty": 30.0
+      },
+      {
+        "sku": "GF-BED-STRAW-HORSE",
+        "sold_qty": 30.0
+      },
+      {
+        "sku": "GF-BED-STRAW-DUSTY",
+        "sold_qty": 20.0
+      },
+      {
+        "sku": "SERV-DELIVERY",
+        "sold_qty": 5.0
+      },
+      {
+        "sku": "GF-SITE-TARP-1012",
+        "sold_qty": 5.0
+      }
+    ]
+  },
+  "actions_created": 1,
+  "digest_id": "digest_1777448810"
+}

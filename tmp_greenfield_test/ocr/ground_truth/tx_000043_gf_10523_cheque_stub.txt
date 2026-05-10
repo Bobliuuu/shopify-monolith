@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: Brampton Turf Solutions
+Cheque/ref: CHK-4770
+Date: 2026-06-20
+Invoice: GF-10523
+Amount: $1,223.29
+Notes: paid in full

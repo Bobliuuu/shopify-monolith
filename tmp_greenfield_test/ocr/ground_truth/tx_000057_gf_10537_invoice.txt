@@ -1,0 +1,26 @@
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10537          Date: 2026-02-28
+Due: 2026-03-07                Terms: Net 15
+PO: n/a / txt order
+
+BILL TO:
+Riverbend Organics
+St Jacobs, ON
+Attn: Anita Brooks
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-SEED-GRASS-CON25  Contractor Blend                       50      bag        89.25   4,462.50
+GF-FERT-START-122412 12-24-12 starter                       20      bag        39.31     786.20
+SERV-DELIVERY        delivery - truck                       1       ea        185.00     185.00
+
+Subtotal:      5,433.70
+HST 13%:       706.38
+TOTAL DUE:    $6,140.08
+
+Payment method expected: cheque
+Payment ref: CHK-6562
+PEN NOTE: partial delivery - send rest Friday

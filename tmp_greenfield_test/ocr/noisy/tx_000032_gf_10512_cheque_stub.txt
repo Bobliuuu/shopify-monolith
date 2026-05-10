@@ -1,0 +1,6 @@
+CHEQUE STUB / REMITTANCE
+Cheque/ref: AUTH-420214
+Date: 2026-02-07
+ lnvoice: GF-10512
+Amount: $2,386.44
+Notes: less credit from last order

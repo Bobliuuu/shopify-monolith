@@ -1,0 +1,16 @@
+SHOP ORDER CONFIRMATION
+ Order: ord_0000025
+Customer: HighPoint Property Services #l
+Date: 2026-05-l0
+Status: open
+Currency: CAD
+
+Items:
+- GF-SEED-GRASS-CON25 50 bag @ $95.20 (4,760.00)
+- GF-SEASON-SALT-20 50 bag @ $l2.0l (600.50)
+
+Subtotal: $5,360.50
+ Discount: $536.05
+Tax: $627.l8
+Shipping: $0.00
+Total: $5,45l.63

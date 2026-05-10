@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: meta_raw
+    schema: meta
+    tables:
+      - name: warehouse_run
+      - name: ingestion_run

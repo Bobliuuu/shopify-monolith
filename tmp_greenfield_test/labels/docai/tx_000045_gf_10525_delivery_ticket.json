@@ -1,0 +1,86 @@
+{
+  "doc_id": "tx_000045_gf_10525_delivery_ticket",
+  "doc_type": "delivery_ticket",
+  "raw_text_path": "raw/artifacts/tx_000045_gf_10525_delivery_ticket.txt",
+  "image_path": "images/tx_000045_gf_10525_delivery_ticket.png",
+  "entities": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000045"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10525"
+    },
+    {
+      "type": "customer_name",
+      "text": "HighPoint Property Services"
+    },
+    {
+      "type": "date",
+      "text": "2026-09-29"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-10-06"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-10-08"
+    },
+    {
+      "type": "total",
+      "text": "1,811.28",
+      "number": 1811.28
+    },
+    {
+      "type": "payment_ref",
+      "text": "CHK-2479"
+    },
+    {
+      "type": "payment_method",
+      "text": "cheque"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SITE-TARP-1012",
+      "description": "Blue tarp 10x12 (heavy duty-ish)",
+      "messy_description": "10x12 tarp",
+      "qty": 10,
+      "unit": "ea",
+      "unit_price": 16.3,
+      "line_total": 163.0
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-GRASS-CON25",
+      "description": "Grass Seed Mix - Contractor Blend 25kg",
+      "messy_description": "contractor grass seed",
+      "qty": 6,
+      "unit": "bag",
+      "unit_price": 89.38,
+      "line_total": 536.28
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-ALF-50",
+      "description": "Alfalfa seed coated 50lb sack",
+      "messy_description": "alfalfa coated",
+      "qty": 2,
+      "unit": "sack",
+      "unit_price": 231.21,
+      "line_total": 462.42
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BULK-GRAVEL-34",
+      "description": "Gravel 3/4 clear stone per ton",
+      "messy_description": "clear stone",
+      "qty": 10,
+      "unit": "ton",
+      "unit_price": 44.12,
+      "line_total": 441.2
+    }
+  ],
+  "bbox_status": "populate_after_real_ocr"
+}

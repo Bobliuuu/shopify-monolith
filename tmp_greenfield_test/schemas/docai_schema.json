@@ -1,0 +1,13 @@
+{
+  "doc_id": "string",
+  "doc_type": "string",
+  "raw_text_path": "string",
+  "image_path": "optional string",
+  "entities": [
+    {
+      "type": "string",
+      "text": "string",
+      "bbox": "optional after OCR"
+    }
+  ]
+}

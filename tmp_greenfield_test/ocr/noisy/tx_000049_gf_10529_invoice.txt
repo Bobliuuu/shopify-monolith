@@ -1,0 +1,26 @@
+GreenFieId Farm & Site Supply
+l7 Sideroad 8, Guelph, ON NlH 6J2     (Sl9) 822-44l9
+HST # 842O3 l234 RTOOOl
+
+INVOICE: GF-lOS29          Date: 2O26-O3-O6
+Due: 2O26-O4-OS                Terms: Net 3O
+PO: n/a / txt order
+
+ BILL TO:
+NorthLine Contracting
+Kitchener, ON
+Attn: Mike Rowan
+
+ SKU                  Description                            Qty     Unit    Unit Price      Arnount
+-----------------------------------------------------------------------------------------------
+GF-SOIL-TOP-BASIC    basic fill                             8       yd         26.8S     2l4.8O
+GF-BULK-CRUSHER      crush run                              4       ton        38.l4     lS2.S6
+GF-IRR-HOSE-34       3/4 hose                               l       roll       62.O7      62.O7
+
+Subtotal:      429.43
+HST l3%:       SS.83
+TOTAL DUE:    $48S.26
+
+Payment method expected: e-transfer
+ Payment ref: NORTHL-OS29
+PEN NOTE: same pricing as last time?? verify

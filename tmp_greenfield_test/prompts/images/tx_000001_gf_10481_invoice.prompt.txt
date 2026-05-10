@@ -1,0 +1,46 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create a realistic photographed paper invoice with itemized table, HST, total, account terms, and handwritten circle around total.
+
+Image condition:
+low-resolution fax/scan look, slightly washed out
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10481          Date: 2026-02-27
+Due: 2026-03-29                Terms: Net 30
+PO: PO-4276
+
+BILL TO:
+Elm Lane Poultry
+Listowel, ON
+Attn: Gord Allen
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-BED-STRAW-HORSE   straw horse grade                      6       bale        8.59      51.54
+GF-SITE-TARP-1012    blue tarp                              1       ea         17.19      17.19
+GF-BED-STRAW-DUSTY   small straw                            4       bale        6.09      24.36
+GF-FENCE-WIRE-200    fencing spool                          6       spool     132.66     795.96
+SERV-DELIVERY        bulk dump delivery                     1       ea        185.00     185.00
+
+Subtotal:      1,074.05
+HST 13%:       139.63
+TOTAL DUE:    $1,213.68
+
+Payment method expected: cheque
+Payment ref: CHK-1106
+PEN NOTE: customer asked why price changed
+
+---END RAW CONTENT---

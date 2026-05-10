@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Date posted: 2026-06-21
+Description: cheque HighPoint Property Services CHK-8972
+Amount: +$520.11
+Memo: invoice GF-10535
+Status: posted

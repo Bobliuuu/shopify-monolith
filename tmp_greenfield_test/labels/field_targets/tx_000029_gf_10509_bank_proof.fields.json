@@ -1,0 +1,104 @@
+{
+  "doc_id": "tx_000029_gf_10509_bank_proof",
+  "doc_type": "bank_proof",
+  "tx_id": "TX-000029",
+  "fields": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000029"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10509"
+    },
+    {
+      "type": "customer_name",
+      "text": "GreenScape Landscaping Inc."
+    },
+    {
+      "type": "date",
+      "text": "2026-05-04"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-06-03"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-05-31"
+    },
+    {
+      "type": "total",
+      "text": "1,372.89",
+      "number": 1372.89
+    },
+    {
+      "type": "payment_ref",
+      "text": "CHK-4777"
+    },
+    {
+      "type": "payment_method",
+      "text": "cheque"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BULK-CRUSHER",
+      "description": "Crusher run gravel driveway mix",
+      "messy_description": "crusher run",
+      "qty": 5,
+      "unit": "ton",
+      "unit_price": 38.26,
+      "line_total": 191.3
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SITE-GLOVES-50",
+      "description": "Work gloves (bulk pack 50)",
+      "messy_description": "gloves 50 pack",
+      "qty": 3,
+      "unit": "case",
+      "unit_price": 52.79,
+      "line_total": 158.37
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-TURF-10",
+      "description": "Grass seed premium turf mix 10lb",
+      "messy_description": "grass seed prem",
+      "qty": 10,
+      "unit": "bag",
+      "unit_price": 30.72,
+      "line_total": 307.2
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BULK-GRAVEL-34",
+      "description": "Gravel 3/4 clear stone per ton",
+      "messy_description": "gravel 3/4",
+      "qty": 4,
+      "unit": "ton",
+      "unit_price": 42.22,
+      "line_total": 168.88
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEASON-SALT-20",
+      "description": "Ice melt salt (road salt) 20kg",
+      "messy_description": "salt bags",
+      "qty": 20,
+      "unit": "bag",
+      "unit_price": 11.96,
+      "line_total": 239.2
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "delivery charge",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 150,
+      "line_total": 150
+    }
+  ]
+}

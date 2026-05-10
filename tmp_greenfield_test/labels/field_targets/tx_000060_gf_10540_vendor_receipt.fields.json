@@ -1,0 +1,84 @@
+{
+  "doc_id": "tx_000060_gf_10540_vendor_receipt",
+  "doc_type": "vendor_receipt",
+  "tx_id": "TX-000060",
+  "fields": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000060"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10540"
+    },
+    {
+      "type": "customer_name",
+      "text": "Stonebridge Estates Maintenance"
+    },
+    {
+      "type": "date",
+      "text": "2026-01-22"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-02-21"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-02-20"
+    },
+    {
+      "type": "total",
+      "text": "1,146.55",
+      "number": 1146.55
+    },
+    {
+      "type": "payment_ref",
+      "text": "AUTH-648141"
+    },
+    {
+      "type": "payment_method",
+      "text": "Visa"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-IRR-DRIP-100",
+      "description": "Drip line 1/2 poly 100ft roll",
+      "messy_description": "drip line 100ft",
+      "qty": 6,
+      "unit": "roll",
+      "unit_price": 44.99,
+      "line_total": 269.94
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BULK-SAND-MASON",
+      "description": "Sand - masonry (washed) yard",
+      "messy_description": "washed sand",
+      "qty": 5,
+      "unit": "yd",
+      "unit_price": 35.67,
+      "line_total": 178.35
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BULK-GRAVEL-34",
+      "description": "Gravel 3/4 clear stone per ton",
+      "messy_description": "gravel 3/4",
+      "qty": 12,
+      "unit": "ton",
+      "unit_price": 39.28,
+      "line_total": 471.36
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "delivery charge",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 95,
+      "line_total": 95
+    }
+  ]
+}

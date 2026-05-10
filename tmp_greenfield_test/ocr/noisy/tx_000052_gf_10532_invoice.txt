@@ -1,0 +1,23 @@
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 842O3 1234 RTOOO1
+INVOICE: GF-1O532          Date: 2O26-O8-O1
+PO: n/a / txt order
+
+Silver Creek Stables
+Milton, ON
+Attn: Megan Scott
+ SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-FENCE-TPOST-6     T post bundle                          2       bundle     82.45     164.9O
+GF-FENCE-WIRE-2OO    galv fence wire                        1       spool     12O.8O     12O.8O
+GF-BED-SHAV-COMP     horse shavings                         6       bale       1O.73      64.38
+GF-BED-STRAW-DUSTY   cheap straw                            2O      bale        6.93     138.6O
+
+Subtotal:      638.68
+HST 13%:       83.O3
+TOTAL DUE:    $721.71
+
+Payment method expected: on account
+Payment ref: AUTH-88673O
+PEN NOTE: substituted equivalent product

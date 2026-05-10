@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: Riverbend Organics
+Cheque/ref: CHK-6562
+Date: 2026-03-07
+Invoice: GF-10537
+Amount: $6,140.08
+Notes: less credit from last order

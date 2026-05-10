@@ -1,0 +1,14 @@
+EMAIL THREAD EXPORT
+
+From: stableoffice at silvercreek.example
+To: orders at greenfieldsupply.example
+Subject: Re: GF-l0503
+
+Customer:
+Can you resend the invoice? AP says they need the ref again.
+
+GreenField:
+Attached invoice GF-l0503. Total is $459.79. Payment ref AUTH-609232.
+
+Customer:
+ok thanks. should go out 2026-08-26.

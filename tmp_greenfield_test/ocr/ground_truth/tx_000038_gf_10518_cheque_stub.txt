@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: Oak Valley Dairy
+Cheque/ref: CHK-9022
+Date: 2026-10-21
+Invoice: GF-10518
+Amount: $3,265.98
+Notes: paid in full

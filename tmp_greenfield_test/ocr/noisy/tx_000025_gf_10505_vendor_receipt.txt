@@ -1,0 +1,13 @@
+Guelph AgriChem Wholesale
+RECEIPT / YARD TICKET #80284       2026-0S-10
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+hens feed                          206.3    bag       14.48   2,987.22
+handling / fuel / pallet fee        1        ea          0.00       0.00
+
+Subtotal: 2,987.22
+HST:      388.34
+TOTAL:    $3,37S.S6
+Paid by: cheque

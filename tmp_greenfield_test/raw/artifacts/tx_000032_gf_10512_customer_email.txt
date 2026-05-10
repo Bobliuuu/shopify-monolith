@@ -1,0 +1,14 @@
+From: office@elmlanepoultry.example
+To: orders@greenfieldsupply.example
+Subject: order for 2026-01-28
+
+hey,
+
+can you get us 10x12 tarp, horse shavings for 2026-01-28?
+put it on our account please
+
+ship/deliver to Listowel if possible.
+
+thanks,
+Gord
+Elm Lane Poultry

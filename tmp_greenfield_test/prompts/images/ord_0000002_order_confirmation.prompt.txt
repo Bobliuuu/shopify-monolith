@@ -1,0 +1,36 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create an ecommerce order confirmation page or email screenshot with totals and line items.
+
+Image condition:
+looks like part of a stapled packet with another page edge visible
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+SHOP ORDER CONFIRMATION
+Order: ord_0000002
+Customer: Brampton Turf Solutions #1
+Date: 2026-04-21
+Status: closed
+Currency: CAD
+
+Items:
+- GF-SEED-GRASS-CON25 12 bag @ $92.61 (1,111.32)
+- GF-BULK-SAND-MASON 10 yd @ $41.13 (411.30)
+- GF-SEASON-PETMELT 8 bag @ $19.62 (156.96)
+- GF-SOIL-TOP-BASIC 12 yd @ $31.35 (376.20)
+
+Subtotal: $2,055.78
+Discount: $205.58
+Tax: $240.53
+Shipping: $0.00
+Total: $2,090.73
+
+---END RAW CONTENT---

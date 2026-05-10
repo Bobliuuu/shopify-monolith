@@ -1,0 +1,35 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create an ecommerce order confirmation page or email screenshot with totals and line items.
+
+Image condition:
+looks like part of a stapled packet with another page edge visible
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+SHOP ORDER CONFIRMATION
+Order: ord_0000019
+Customer: ClearPath Utilities #2
+Date: 2026-06-03
+Status: fulfilled
+Currency: CAD
+
+Items:
+- GF-IRR-HOSE-34 8 roll @ $62.30 (498.40)
+- GF-SOIL-TOP-BASIC 6 yd @ $28.27 (169.62)
+- GF-SOIL-TOP-PREM 6 yd @ $44.22 (265.32)
+
+Subtotal: $933.34
+Discount: $28.00
+Tax: $124.06
+Shipping: $49.00
+Total: $1,078.40
+
+---END RAW CONTENT---

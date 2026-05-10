@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Date posted: 2026-08-09
+Description: Visa Elm Lane Poultry AUTH-704201
+Arnount: +$1,847.12
+Memo: invoice GF-10488
+Status: posted

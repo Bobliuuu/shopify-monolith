@@ -1,0 +1,13 @@
+Guelph AgriChem Wholesale
+RECEIPT / YARD TICKET #29891       2026-01-08
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+galv fence wire                    21.3     spool    105.75   2,252.47
+handling / fuel / pallet fee        1        ea         60.00      60.00
+
+Subtotal: 2,312.47
+HST:      300.62
+TOTAL:    $2,613.09
+Paid by: Interac

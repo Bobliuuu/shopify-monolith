@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Date posted: 2026-04-10
+Description: Interac Oak Valley Dairy AUTH-203225
+Amount: +$8,830.69
+Memo: invoice GF-10520
+Status: posted

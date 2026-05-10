@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: HighPoint Property Services
+Cheque/ref: CHK-8972
+Date: 2O26-O6-21
+Invoice: GF-1OS3S
+Amount: $S2O.11
+Notes: paid in full

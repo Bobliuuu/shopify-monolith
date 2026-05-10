@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: Silver Creek Stables
+Cheque/ref: SILVER-0489
+Date: 2026-04-l5
+Invoice: GF-l0489
+Amount: $7l5.79
+Notes: hold receipt

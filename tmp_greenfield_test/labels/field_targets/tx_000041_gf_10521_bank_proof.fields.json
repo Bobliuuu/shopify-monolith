@@ -1,0 +1,84 @@
+{
+  "doc_id": "tx_000041_gf_10521_bank_proof",
+  "doc_type": "bank_proof",
+  "tx_id": "TX-000041",
+  "fields": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000041"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10521"
+    },
+    {
+      "type": "customer_name",
+      "text": "Maple Ridge Farms Ltd."
+    },
+    {
+      "type": "date",
+      "text": "2026-01-24"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-02-23"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-02-14"
+    },
+    {
+      "type": "total",
+      "text": "4,253.09",
+      "number": 4253.09
+    },
+    {
+      "type": "payment_ref",
+      "text": "AUTH-816318"
+    },
+    {
+      "type": "payment_method",
+      "text": "Visa"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-LIME-DOLO-18",
+      "description": "Dolomitic Lime bagged 18kg",
+      "messy_description": "dolo lime",
+      "qty": 20,
+      "unit": "bag",
+      "unit_price": 9.73,
+      "line_total": 194.6
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-GRASS-CON25",
+      "description": "Grass Seed Mix - Contractor Blend 25kg",
+      "messy_description": "Contractor Blend",
+      "qty": 40,
+      "unit": "bag",
+      "unit_price": 88.48,
+      "line_total": 3539.2
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "bulk dump delivery",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 85,
+      "line_total": 85
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DISCOUNT",
+      "description": "Account discount / price adjustment",
+      "messy_description": "acct discount",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": -55,
+      "line_total": -55
+    }
+  ]
+}

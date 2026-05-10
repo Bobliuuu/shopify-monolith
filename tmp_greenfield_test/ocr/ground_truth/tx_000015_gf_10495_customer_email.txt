@@ -1,0 +1,14 @@
+From: ap@clearpathutilities.example
+To: orders@greenfieldsupply.example
+Subject: order for 2026-01-05
+
+hey,
+
+can you get us 10x12 tarp, half inch poly for 2026-01-05?
+we may pay half now and half after delivery
+
+ship/deliver to Hamilton if possible.
+
+thanks,
+Brian
+ClearPath Utilities

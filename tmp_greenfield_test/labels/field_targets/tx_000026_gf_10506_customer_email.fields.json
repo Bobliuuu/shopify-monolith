@@ -1,0 +1,74 @@
+{
+  "doc_id": "tx_000026_gf_10506_customer_email",
+  "doc_type": "customer_email",
+  "tx_id": "TX-000026",
+  "fields": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000026"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10506"
+    },
+    {
+      "type": "customer_name",
+      "text": "Riverbend Organics"
+    },
+    {
+      "type": "date",
+      "text": "2026-02-25"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-03-04"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-03-07"
+    },
+    {
+      "type": "total",
+      "text": "1,254.03",
+      "number": 1254.03
+    },
+    {
+      "type": "payment_ref",
+      "text": "CHK-2983"
+    },
+    {
+      "type": "payment_method",
+      "text": "cheque"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-LIME-DOLO-18",
+      "description": "Dolomitic Lime bagged 18kg",
+      "messy_description": "dolomitic 18kg",
+      "qty": 80,
+      "unit": "bag",
+      "unit_price": 10.56,
+      "line_total": 844.8
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-CHEM-WEED-GEN",
+      "description": "Weed killer concentrate (generic)",
+      "messy_description": "generic weed killer",
+      "qty": 4,
+      "unit": "jug",
+      "unit_price": 42.49,
+      "line_total": 169.96
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "delivery - truck",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 95,
+      "line_total": 95
+    }
+  ]
+}

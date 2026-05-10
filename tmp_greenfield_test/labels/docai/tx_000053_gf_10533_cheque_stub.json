@@ -1,0 +1,86 @@
+{
+  "doc_id": "tx_000053_gf_10533_cheque_stub",
+  "doc_type": "cheque_stub",
+  "raw_text_path": "raw/artifacts/tx_000053_gf_10533_cheque_stub.txt",
+  "image_path": null,
+  "entities": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000053"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10533"
+    },
+    {
+      "type": "customer_name",
+      "text": "Maple Ridge Farms Ltd."
+    },
+    {
+      "type": "date",
+      "text": "2026-05-28"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-06-27"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-06-17"
+    },
+    {
+      "type": "total",
+      "text": "2,713.37",
+      "number": 2713.37
+    },
+    {
+      "type": "payment_ref",
+      "text": "AUTH-743378"
+    },
+    {
+      "type": "payment_method",
+      "text": "Visa"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FERT-UREA-55",
+      "description": "Urea 46 granular - 55lb bags",
+      "messy_description": "46 urea bags",
+      "qty": 8,
+      "unit": "bag",
+      "unit_price": 35.82,
+      "line_total": 286.56
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-CHEM-WEED-GEN",
+      "description": "Weed killer concentrate (generic)",
+      "messy_description": "weed concentrate",
+      "qty": 10,
+      "unit": "jug",
+      "unit_price": 36.64,
+      "line_total": 366.4
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-CHEM-GLY-4L",
+      "description": "Roundup alt glyphosate 4L jug",
+      "messy_description": "roundup alt",
+      "qty": 3,
+      "unit": "jug",
+      "unit_price": 63.97,
+      "line_total": 191.91
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-LIME-AG-LOAD",
+      "description": "Lime - ag grade (dump trailer load)",
+      "messy_description": "lime dump trailer",
+      "qty": 3,
+      "unit": "load",
+      "unit_price": 518.78,
+      "line_total": 1556.34
+    }
+  ],
+  "bbox_status": "populate_after_real_ocr"
+}

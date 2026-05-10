@@ -1,0 +1,84 @@
+{
+  "doc_id": "tx_000046_gf_10526_sms_thread",
+  "doc_type": "sms_thread",
+  "tx_id": "TX-000046",
+  "fields": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000046"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10526"
+    },
+    {
+      "type": "customer_name",
+      "text": "UrbanRoot Gardens Co."
+    },
+    {
+      "type": "date",
+      "text": "2026-07-08"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-07-15"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-07-19"
+    },
+    {
+      "type": "total",
+      "text": "1,186.86",
+      "number": 1186.86
+    },
+    {
+      "type": "payment_ref",
+      "text": "AUTH-222343"
+    },
+    {
+      "type": "payment_method",
+      "text": "Interac"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SITE-TARP-1012",
+      "description": "Blue tarp 10x12 (heavy duty-ish)",
+      "messy_description": "blue tarp",
+      "qty": 8,
+      "unit": "ea",
+      "unit_price": 16.11,
+      "line_total": 128.88
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BULK-CRUSHER",
+      "description": "Crusher run gravel driveway mix",
+      "messy_description": "crush run",
+      "qty": 8,
+      "unit": "ton",
+      "unit_price": 38.85,
+      "line_total": 310.8
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BULK-GRAVEL-34",
+      "description": "Gravel 3/4 clear stone per ton",
+      "messy_description": "3/4 clear",
+      "qty": 4,
+      "unit": "ton",
+      "unit_price": 45.56,
+      "line_total": 182.24
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SOIL-TOP-PREM",
+      "description": "Topsoil screened (premium) per yard",
+      "messy_description": "top soil premium",
+      "qty": 10,
+      "unit": "yd",
+      "unit_price": 42.84,
+      "line_total": 428.4
+    }
+  ]
+}

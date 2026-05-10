@@ -1,0 +1,13 @@
+County Hardware & Farm Supply
+RECEIPT / YARD TICKET #66059       2026-05-09
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+hd-ish tarp                        1.7      ea        14.00      23.80
+handling / fuel / pallet fee        1        ea         60.00      60.00
+
+Subtotal: 83.80
+HST:      10.89
+TOTAL:    $94.69
+Paid by: cheque

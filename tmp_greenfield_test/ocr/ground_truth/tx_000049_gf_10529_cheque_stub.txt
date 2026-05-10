@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: NorthLine Contracting
+Cheque/ref: NORTHL-0529
+Date: 2026-04-12
+Invoice: GF-10529
+Amount: $485.26
+Notes: hold receipt

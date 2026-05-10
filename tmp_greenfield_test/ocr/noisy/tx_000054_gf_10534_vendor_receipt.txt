@@ -1,0 +1,12 @@
+Wellington Aggregates Yard Ticket
+RECEIPT / YARD TICKET #8l646       2026-0S-l7
+Sold to: GreenFieId Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+handling / fuel / pallet fee        l        ea         60.00      60.00
+
+ Subtotal: 297.82
+HST:      38.72
+TOTAL:    $336.S4
+Paid by: cheque

@@ -1,0 +1,27 @@
+GreenFieId Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (S19) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10S12          Date: 2026-01-28
+Due: 2026-02-27                Terms: Net 30
+ PO: n/a / txt order
+
+ BILL TO:
+Elm Lane Poultry
+Listowel, ON
+Attn: Gord Allen
+
+SKU                  Description                            Qty     Unit    Unit Price      Arnount
+-----------------------------------------------------------------------------------------------
+ GF-SITE-TARP-1012    10x12 tarp                             2       ea         1S.77      31.S4
+GF-BED-SHAV-COMP     horse shavings                         S0      bale       11.04     SS2.00
+GF-FEED-DAIRY4-BULK  ration mix 4                           2.S     ton       S21.34   1,303.3S
+SERV-DELIVERY        local run                              1       ea        22S.00     22S.00
+
+Subtotal:      2,111.89
+HST 13%:       274.SS
+TOTAL DUE:    $2,386.44
+
+Payment method expected: Interac
+Payment ref: AUTH-420214
+PEN NOTE: Thanks Gord! Call if you need anything else

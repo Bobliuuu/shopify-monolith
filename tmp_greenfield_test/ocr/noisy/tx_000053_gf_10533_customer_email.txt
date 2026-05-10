@@ -1,0 +1,13 @@
+From: accounts@mapleridgefarms.example
+To: orders@greenfieldsupply.example
+Subject: order for 2O26-O5-28
+
+hey,
+
+put it on our account please
+
+ship/deliver to Fergus if possible.
+
+thanks,
+Jeff
+Maple Ridge Farms Ltd.

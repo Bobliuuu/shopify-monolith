@@ -1,0 +1,8 @@
+SUPPLIER PURCHASE ORDER
+PO: po_000024
+Vendor: County Hardware & Farm Supply
+Created: 2025-12-15
+Expected: 2026-01-05
+Status: received
+
+GF-BULK-GRAVEL-34-V01 x 350 ton @ $32.76

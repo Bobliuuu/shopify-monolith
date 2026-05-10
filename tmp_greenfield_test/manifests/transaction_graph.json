@@ -1,0 +1,1082 @@
+{
+  "TX-000001": {
+    "invoice_no": "GF-10481",
+    "customer": "Elm Lane Poultry",
+    "date": "2026-02-27",
+    "total": 1213.68,
+    "payment_ref": "CHK-1106",
+    "docs": [
+      "tx_000001_gf_10481_invoice",
+      "tx_000001_gf_10481_vendor_receipt",
+      "tx_000001_gf_10481_customer_email",
+      "tx_000001_gf_10481_email_thread",
+      "tx_000001_gf_10481_handwritten_note",
+      "tx_000001_gf_10481_delivery_ticket",
+      "tx_000001_gf_10481_bank_proof",
+      "tx_000001_gf_10481_cheque_stub",
+      "tx_000001_gf_10481_sms_thread"
+    ]
+  },
+  "TX-000002": {
+    "invoice_no": "GF-10482",
+    "customer": "Oak Valley Dairy",
+    "date": "2026-04-21",
+    "total": 1378.92,
+    "payment_ref": "AUTH-748564",
+    "docs": [
+      "tx_000002_gf_10482_invoice",
+      "tx_000002_gf_10482_vendor_receipt",
+      "tx_000002_gf_10482_customer_email",
+      "tx_000002_gf_10482_email_thread",
+      "tx_000002_gf_10482_handwritten_note",
+      "tx_000002_gf_10482_delivery_ticket",
+      "tx_000002_gf_10482_bank_proof",
+      "tx_000002_gf_10482_cheque_stub",
+      "tx_000002_gf_10482_sms_thread"
+    ]
+  },
+  "TX-000003": {
+    "invoice_no": "GF-10483",
+    "customer": "Maple Ridge Farms Ltd.",
+    "date": "2026-12-05",
+    "total": 4394.1,
+    "payment_ref": "CHK-4598",
+    "docs": [
+      "tx_000003_gf_10483_invoice",
+      "tx_000003_gf_10483_vendor_receipt",
+      "tx_000003_gf_10483_customer_email",
+      "tx_000003_gf_10483_email_thread",
+      "tx_000003_gf_10483_handwritten_note",
+      "tx_000003_gf_10483_delivery_ticket",
+      "tx_000003_gf_10483_bank_proof",
+      "tx_000003_gf_10483_cheque_stub",
+      "tx_000003_gf_10483_sms_thread"
+    ]
+  },
+  "TX-000004": {
+    "invoice_no": "GF-10484",
+    "customer": "Maple Ridge Farms Ltd.",
+    "date": "2026-04-28",
+    "total": 5956.99,
+    "payment_ref": "MAPLER-0484",
+    "docs": [
+      "tx_000004_gf_10484_invoice",
+      "tx_000004_gf_10484_vendor_receipt",
+      "tx_000004_gf_10484_customer_email",
+      "tx_000004_gf_10484_email_thread",
+      "tx_000004_gf_10484_handwritten_note",
+      "tx_000004_gf_10484_delivery_ticket",
+      "tx_000004_gf_10484_bank_proof",
+      "tx_000004_gf_10484_cheque_stub",
+      "tx_000004_gf_10484_sms_thread"
+    ]
+  },
+  "TX-000005": {
+    "invoice_no": "GF-10485",
+    "customer": "GreenScape Landscaping Inc.",
+    "date": "2026-03-20",
+    "total": 2587.94,
+    "payment_ref": "CHK-9201",
+    "docs": [
+      "tx_000005_gf_10485_invoice",
+      "tx_000005_gf_10485_vendor_receipt",
+      "tx_000005_gf_10485_customer_email",
+      "tx_000005_gf_10485_email_thread",
+      "tx_000005_gf_10485_handwritten_note",
+      "tx_000005_gf_10485_delivery_ticket",
+      "tx_000005_gf_10485_bank_proof",
+      "tx_000005_gf_10485_cheque_stub",
+      "tx_000005_gf_10485_sms_thread"
+    ]
+  },
+  "TX-000006": {
+    "invoice_no": "GF-10486",
+    "customer": "Elm Lane Poultry",
+    "date": "2026-06-02",
+    "total": 488.54,
+    "payment_ref": "CHK-4923",
+    "docs": [
+      "tx_000006_gf_10486_invoice",
+      "tx_000006_gf_10486_vendor_receipt",
+      "tx_000006_gf_10486_customer_email",
+      "tx_000006_gf_10486_email_thread",
+      "tx_000006_gf_10486_handwritten_note",
+      "tx_000006_gf_10486_delivery_ticket",
+      "tx_000006_gf_10486_bank_proof",
+      "tx_000006_gf_10486_cheque_stub",
+      "tx_000006_gf_10486_sms_thread"
+    ]
+  },
+  "TX-000007": {
+    "invoice_no": "GF-10487",
+    "customer": "GreenScape Landscaping Inc.",
+    "date": "2026-02-13",
+    "total": 1016.77,
+    "payment_ref": "AUTH-823378",
+    "docs": [
+      "tx_000007_gf_10487_invoice",
+      "tx_000007_gf_10487_vendor_receipt",
+      "tx_000007_gf_10487_customer_email",
+      "tx_000007_gf_10487_email_thread",
+      "tx_000007_gf_10487_handwritten_note",
+      "tx_000007_gf_10487_delivery_ticket",
+      "tx_000007_gf_10487_bank_proof",
+      "tx_000007_gf_10487_cheque_stub",
+      "tx_000007_gf_10487_sms_thread"
+    ]
+  },
+  "TX-000008": {
+    "invoice_no": "GF-10488",
+    "customer": "Elm Lane Poultry",
+    "date": "2026-07-11",
+    "total": 1847.12,
+    "payment_ref": "AUTH-704201",
+    "docs": [
+      "tx_000008_gf_10488_invoice",
+      "tx_000008_gf_10488_vendor_receipt",
+      "tx_000008_gf_10488_customer_email",
+      "tx_000008_gf_10488_email_thread",
+      "tx_000008_gf_10488_handwritten_note",
+      "tx_000008_gf_10488_delivery_ticket",
+      "tx_000008_gf_10488_bank_proof",
+      "tx_000008_gf_10488_cheque_stub",
+      "tx_000008_gf_10488_sms_thread"
+    ]
+  },
+  "TX-000009": {
+    "invoice_no": "GF-10489",
+    "customer": "Silver Creek Stables",
+    "date": "2026-04-08",
+    "total": 715.79,
+    "payment_ref": "SILVER-0489",
+    "docs": [
+      "tx_000009_gf_10489_invoice",
+      "tx_000009_gf_10489_vendor_receipt",
+      "tx_000009_gf_10489_customer_email",
+      "tx_000009_gf_10489_email_thread",
+      "tx_000009_gf_10489_handwritten_note",
+      "tx_000009_gf_10489_delivery_ticket",
+      "tx_000009_gf_10489_bank_proof",
+      "tx_000009_gf_10489_cheque_stub",
+      "tx_000009_gf_10489_sms_thread"
+    ]
+  },
+  "TX-000010": {
+    "invoice_no": "GF-10490",
+    "customer": "Oak Valley Dairy",
+    "date": "2026-08-05",
+    "total": 3288.88,
+    "payment_ref": "OAKVAL-0490",
+    "docs": [
+      "tx_000010_gf_10490_invoice",
+      "tx_000010_gf_10490_vendor_receipt",
+      "tx_000010_gf_10490_customer_email",
+      "tx_000010_gf_10490_email_thread",
+      "tx_000010_gf_10490_handwritten_note",
+      "tx_000010_gf_10490_delivery_ticket",
+      "tx_000010_gf_10490_bank_proof",
+      "tx_000010_gf_10490_cheque_stub",
+      "tx_000010_gf_10490_sms_thread"
+    ]
+  },
+  "TX-000011": {
+    "invoice_no": "GF-10491",
+    "customer": "UrbanRoot Gardens Co.",
+    "date": "2026-05-27",
+    "total": 7119.96,
+    "payment_ref": "URBANR-0491",
+    "docs": [
+      "tx_000011_gf_10491_invoice",
+      "tx_000011_gf_10491_vendor_receipt",
+      "tx_000011_gf_10491_customer_email",
+      "tx_000011_gf_10491_email_thread",
+      "tx_000011_gf_10491_handwritten_note",
+      "tx_000011_gf_10491_delivery_ticket",
+      "tx_000011_gf_10491_bank_proof",
+      "tx_000011_gf_10491_cheque_stub",
+      "tx_000011_gf_10491_sms_thread"
+    ]
+  },
+  "TX-000012": {
+    "invoice_no": "GF-10492",
+    "customer": "Brampton Turf Solutions",
+    "date": "2026-10-17",
+    "total": 3750.15,
+    "payment_ref": "AUTH-378082",
+    "docs": [
+      "tx_000012_gf_10492_invoice",
+      "tx_000012_gf_10492_vendor_receipt",
+      "tx_000012_gf_10492_customer_email",
+      "tx_000012_gf_10492_email_thread",
+      "tx_000012_gf_10492_handwritten_note",
+      "tx_000012_gf_10492_delivery_ticket",
+      "tx_000012_gf_10492_bank_proof",
+      "tx_000012_gf_10492_cheque_stub",
+      "tx_000012_gf_10492_sms_thread"
+    ]
+  },
+  "TX-000013": {
+    "invoice_no": "GF-10493",
+    "customer": "NorthLine Contracting",
+    "date": "2026-07-09",
+    "total": 1117.14,
+    "payment_ref": "NORTHL-0493",
+    "docs": [
+      "tx_000013_gf_10493_invoice",
+      "tx_000013_gf_10493_vendor_receipt",
+      "tx_000013_gf_10493_customer_email",
+      "tx_000013_gf_10493_email_thread",
+      "tx_000013_gf_10493_handwritten_note",
+      "tx_000013_gf_10493_delivery_ticket",
+      "tx_000013_gf_10493_bank_proof",
+      "tx_000013_gf_10493_cheque_stub",
+      "tx_000013_gf_10493_sms_thread"
+    ]
+  },
+  "TX-000014": {
+    "invoice_no": "GF-10494",
+    "customer": "Riverbend Organics",
+    "date": "2026-05-25",
+    "total": 5299.49,
+    "payment_ref": "CHK-3647",
+    "docs": [
+      "tx_000014_gf_10494_invoice",
+      "tx_000014_gf_10494_vendor_receipt",
+      "tx_000014_gf_10494_customer_email",
+      "tx_000014_gf_10494_email_thread",
+      "tx_000014_gf_10494_handwritten_note",
+      "tx_000014_gf_10494_delivery_ticket",
+      "tx_000014_gf_10494_bank_proof",
+      "tx_000014_gf_10494_cheque_stub",
+      "tx_000014_gf_10494_sms_thread"
+    ]
+  },
+  "TX-000015": {
+    "invoice_no": "GF-10495",
+    "customer": "ClearPath Utilities",
+    "date": "2026-01-05",
+    "total": 569.11,
+    "payment_ref": "CLEARP-0495",
+    "docs": [
+      "tx_000015_gf_10495_invoice",
+      "tx_000015_gf_10495_vendor_receipt",
+      "tx_000015_gf_10495_customer_email",
+      "tx_000015_gf_10495_email_thread",
+      "tx_000015_gf_10495_handwritten_note",
+      "tx_000015_gf_10495_delivery_ticket",
+      "tx_000015_gf_10495_bank_proof",
+      "tx_000015_gf_10495_cheque_stub",
+      "tx_000015_gf_10495_sms_thread"
+    ]
+  },
+  "TX-000016": {
+    "invoice_no": "GF-10496",
+    "customer": "Elm Lane Poultry",
+    "date": "2026-02-22",
+    "total": 10645.57,
+    "payment_ref": "ELMLAN-0496",
+    "docs": [
+      "tx_000016_gf_10496_invoice",
+      "tx_000016_gf_10496_vendor_receipt",
+      "tx_000016_gf_10496_customer_email",
+      "tx_000016_gf_10496_email_thread",
+      "tx_000016_gf_10496_handwritten_note",
+      "tx_000016_gf_10496_delivery_ticket",
+      "tx_000016_gf_10496_bank_proof",
+      "tx_000016_gf_10496_cheque_stub",
+      "tx_000016_gf_10496_sms_thread"
+    ]
+  },
+  "TX-000017": {
+    "invoice_no": "GF-10497",
+    "customer": "HighPoint Property Services",
+    "date": "2026-06-06",
+    "total": 843.55,
+    "payment_ref": "HIGHPO-0497",
+    "docs": [
+      "tx_000017_gf_10497_invoice",
+      "tx_000017_gf_10497_vendor_receipt",
+      "tx_000017_gf_10497_customer_email",
+      "tx_000017_gf_10497_email_thread",
+      "tx_000017_gf_10497_handwritten_note",
+      "tx_000017_gf_10497_delivery_ticket",
+      "tx_000017_gf_10497_bank_proof",
+      "tx_000017_gf_10497_cheque_stub",
+      "tx_000017_gf_10497_sms_thread"
+    ]
+  },
+  "TX-000018": {
+    "invoice_no": "GF-10498",
+    "customer": "HighPoint Property Services",
+    "date": "2026-06-10",
+    "total": 424.87,
+    "payment_ref": "AUTH-446239",
+    "docs": [
+      "tx_000018_gf_10498_invoice",
+      "tx_000018_gf_10498_vendor_receipt",
+      "tx_000018_gf_10498_customer_email",
+      "tx_000018_gf_10498_email_thread",
+      "tx_000018_gf_10498_handwritten_note",
+      "tx_000018_gf_10498_delivery_ticket",
+      "tx_000018_gf_10498_bank_proof",
+      "tx_000018_gf_10498_cheque_stub",
+      "tx_000018_gf_10498_sms_thread"
+    ]
+  },
+  "TX-000019": {
+    "invoice_no": "GF-10499",
+    "customer": "Stonebridge Estates Maintenance",
+    "date": "2026-06-03",
+    "total": 1374.33,
+    "payment_ref": "AUTH-923927",
+    "docs": [
+      "tx_000019_gf_10499_invoice",
+      "tx_000019_gf_10499_vendor_receipt",
+      "tx_000019_gf_10499_customer_email",
+      "tx_000019_gf_10499_email_thread",
+      "tx_000019_gf_10499_handwritten_note",
+      "tx_000019_gf_10499_delivery_ticket",
+      "tx_000019_gf_10499_bank_proof",
+      "tx_000019_gf_10499_cheque_stub",
+      "tx_000019_gf_10499_sms_thread"
+    ]
+  },
+  "TX-000020": {
+    "invoice_no": "GF-10500",
+    "customer": "NorthLine Contracting",
+    "date": "2026-09-19",
+    "total": 1717.67,
+    "payment_ref": "AUTH-991014",
+    "docs": [
+      "tx_000020_gf_10500_invoice",
+      "tx_000020_gf_10500_vendor_receipt",
+      "tx_000020_gf_10500_customer_email",
+      "tx_000020_gf_10500_email_thread",
+      "tx_000020_gf_10500_handwritten_note",
+      "tx_000020_gf_10500_delivery_ticket",
+      "tx_000020_gf_10500_bank_proof",
+      "tx_000020_gf_10500_cheque_stub",
+      "tx_000020_gf_10500_sms_thread"
+    ]
+  },
+  "TX-000021": {
+    "invoice_no": "GF-10501",
+    "customer": "Brampton Turf Solutions",
+    "date": "2026-04-10",
+    "total": 6230.25,
+    "payment_ref": "AUTH-629298",
+    "docs": [
+      "tx_000021_gf_10501_invoice",
+      "tx_000021_gf_10501_vendor_receipt",
+      "tx_000021_gf_10501_customer_email",
+      "tx_000021_gf_10501_email_thread",
+      "tx_000021_gf_10501_handwritten_note",
+      "tx_000021_gf_10501_delivery_ticket",
+      "tx_000021_gf_10501_bank_proof",
+      "tx_000021_gf_10501_cheque_stub",
+      "tx_000021_gf_10501_sms_thread"
+    ]
+  },
+  "TX-000022": {
+    "invoice_no": "GF-10502",
+    "customer": "UrbanRoot Gardens Co.",
+    "date": "2026-03-23",
+    "total": 2554.55,
+    "payment_ref": "CHK-9890",
+    "docs": [
+      "tx_000022_gf_10502_invoice",
+      "tx_000022_gf_10502_vendor_receipt",
+      "tx_000022_gf_10502_customer_email",
+      "tx_000022_gf_10502_email_thread",
+      "tx_000022_gf_10502_handwritten_note",
+      "tx_000022_gf_10502_delivery_ticket",
+      "tx_000022_gf_10502_bank_proof",
+      "tx_000022_gf_10502_cheque_stub",
+      "tx_000022_gf_10502_sms_thread"
+    ]
+  },
+  "TX-000023": {
+    "invoice_no": "GF-10503",
+    "customer": "Silver Creek Stables",
+    "date": "2026-07-19",
+    "total": 459.79,
+    "payment_ref": "AUTH-609232",
+    "docs": [
+      "tx_000023_gf_10503_invoice",
+      "tx_000023_gf_10503_vendor_receipt",
+      "tx_000023_gf_10503_customer_email",
+      "tx_000023_gf_10503_email_thread",
+      "tx_000023_gf_10503_handwritten_note",
+      "tx_000023_gf_10503_delivery_ticket",
+      "tx_000023_gf_10503_bank_proof",
+      "tx_000023_gf_10503_cheque_stub",
+      "tx_000023_gf_10503_sms_thread"
+    ]
+  },
+  "TX-000024": {
+    "invoice_no": "GF-10504",
+    "customer": "Silver Creek Stables",
+    "date": "2026-03-26",
+    "total": 561.28,
+    "payment_ref": "CHK-6529",
+    "docs": [
+      "tx_000024_gf_10504_invoice",
+      "tx_000024_gf_10504_vendor_receipt",
+      "tx_000024_gf_10504_customer_email",
+      "tx_000024_gf_10504_email_thread",
+      "tx_000024_gf_10504_handwritten_note",
+      "tx_000024_gf_10504_delivery_ticket",
+      "tx_000024_gf_10504_bank_proof",
+      "tx_000024_gf_10504_cheque_stub",
+      "tx_000024_gf_10504_sms_thread"
+    ]
+  },
+  "TX-000025": {
+    "invoice_no": "GF-10505",
+    "customer": "Silver Creek Stables",
+    "date": "2026-05-10",
+    "total": 7402.55,
+    "payment_ref": "AUTH-884256",
+    "docs": [
+      "tx_000025_gf_10505_invoice",
+      "tx_000025_gf_10505_vendor_receipt",
+      "tx_000025_gf_10505_customer_email",
+      "tx_000025_gf_10505_email_thread",
+      "tx_000025_gf_10505_handwritten_note",
+      "tx_000025_gf_10505_delivery_ticket",
+      "tx_000025_gf_10505_bank_proof",
+      "tx_000025_gf_10505_cheque_stub",
+      "tx_000025_gf_10505_sms_thread"
+    ]
+  },
+  "TX-000026": {
+    "invoice_no": "GF-10506",
+    "customer": "Riverbend Organics",
+    "date": "2026-02-25",
+    "total": 1254.03,
+    "payment_ref": "CHK-2983",
+    "docs": [
+      "tx_000026_gf_10506_invoice",
+      "tx_000026_gf_10506_vendor_receipt",
+      "tx_000026_gf_10506_customer_email",
+      "tx_000026_gf_10506_email_thread",
+      "tx_000026_gf_10506_handwritten_note",
+      "tx_000026_gf_10506_delivery_ticket",
+      "tx_000026_gf_10506_bank_proof",
+      "tx_000026_gf_10506_cheque_stub",
+      "tx_000026_gf_10506_sms_thread"
+    ]
+  },
+  "TX-000027": {
+    "invoice_no": "GF-10507",
+    "customer": "HighPoint Property Services",
+    "date": "2026-02-05",
+    "total": 1744.87,
+    "payment_ref": "AUTH-381433",
+    "docs": [
+      "tx_000027_gf_10507_invoice",
+      "tx_000027_gf_10507_vendor_receipt",
+      "tx_000027_gf_10507_customer_email",
+      "tx_000027_gf_10507_email_thread",
+      "tx_000027_gf_10507_handwritten_note",
+      "tx_000027_gf_10507_delivery_ticket",
+      "tx_000027_gf_10507_bank_proof",
+      "tx_000027_gf_10507_cheque_stub",
+      "tx_000027_gf_10507_sms_thread"
+    ]
+  },
+  "TX-000028": {
+    "invoice_no": "GF-10508",
+    "customer": "GreenScape Landscaping Inc.",
+    "date": "2026-05-23",
+    "total": 691.88,
+    "payment_ref": "AUTH-389688",
+    "docs": [
+      "tx_000028_gf_10508_invoice",
+      "tx_000028_gf_10508_vendor_receipt",
+      "tx_000028_gf_10508_customer_email",
+      "tx_000028_gf_10508_email_thread",
+      "tx_000028_gf_10508_handwritten_note",
+      "tx_000028_gf_10508_delivery_ticket",
+      "tx_000028_gf_10508_bank_proof",
+      "tx_000028_gf_10508_cheque_stub",
+      "tx_000028_gf_10508_sms_thread"
+    ]
+  },
+  "TX-000029": {
+    "invoice_no": "GF-10509",
+    "customer": "GreenScape Landscaping Inc.",
+    "date": "2026-05-04",
+    "total": 1372.89,
+    "payment_ref": "CHK-4777",
+    "docs": [
+      "tx_000029_gf_10509_invoice",
+      "tx_000029_gf_10509_vendor_receipt",
+      "tx_000029_gf_10509_customer_email",
+      "tx_000029_gf_10509_email_thread",
+      "tx_000029_gf_10509_handwritten_note",
+      "tx_000029_gf_10509_delivery_ticket",
+      "tx_000029_gf_10509_bank_proof",
+      "tx_000029_gf_10509_cheque_stub",
+      "tx_000029_gf_10509_sms_thread"
+    ]
+  },
+  "TX-000030": {
+    "invoice_no": "GF-10510",
+    "customer": "Stonebridge Estates Maintenance",
+    "date": "2026-10-02",
+    "total": 1652.38,
+    "payment_ref": "STONEB-0510",
+    "docs": [
+      "tx_000030_gf_10510_invoice",
+      "tx_000030_gf_10510_vendor_receipt",
+      "tx_000030_gf_10510_customer_email",
+      "tx_000030_gf_10510_email_thread",
+      "tx_000030_gf_10510_handwritten_note",
+      "tx_000030_gf_10510_delivery_ticket",
+      "tx_000030_gf_10510_bank_proof",
+      "tx_000030_gf_10510_cheque_stub",
+      "tx_000030_gf_10510_sms_thread"
+    ]
+  },
+  "TX-000031": {
+    "invoice_no": "GF-10511",
+    "customer": "Elm Lane Poultry",
+    "date": "2026-09-09",
+    "total": 182.47,
+    "payment_ref": "ELMLAN-0511",
+    "docs": [
+      "tx_000031_gf_10511_invoice",
+      "tx_000031_gf_10511_vendor_receipt",
+      "tx_000031_gf_10511_customer_email",
+      "tx_000031_gf_10511_email_thread",
+      "tx_000031_gf_10511_handwritten_note",
+      "tx_000031_gf_10511_delivery_ticket",
+      "tx_000031_gf_10511_bank_proof",
+      "tx_000031_gf_10511_cheque_stub",
+      "tx_000031_gf_10511_sms_thread"
+    ]
+  },
+  "TX-000032": {
+    "invoice_no": "GF-10512",
+    "customer": "Elm Lane Poultry",
+    "date": "2026-01-28",
+    "total": 2386.44,
+    "payment_ref": "AUTH-420214",
+    "docs": [
+      "tx_000032_gf_10512_invoice",
+      "tx_000032_gf_10512_vendor_receipt",
+      "tx_000032_gf_10512_customer_email",
+      "tx_000032_gf_10512_email_thread",
+      "tx_000032_gf_10512_handwritten_note",
+      "tx_000032_gf_10512_delivery_ticket",
+      "tx_000032_gf_10512_bank_proof",
+      "tx_000032_gf_10512_cheque_stub",
+      "tx_000032_gf_10512_sms_thread"
+    ]
+  },
+  "TX-000033": {
+    "invoice_no": "GF-10513",
+    "customer": "GreenScape Landscaping Inc.",
+    "date": "2026-04-17",
+    "total": 5793.8,
+    "payment_ref": "CHK-4241",
+    "docs": [
+      "tx_000033_gf_10513_invoice",
+      "tx_000033_gf_10513_vendor_receipt",
+      "tx_000033_gf_10513_customer_email",
+      "tx_000033_gf_10513_email_thread",
+      "tx_000033_gf_10513_handwritten_note",
+      "tx_000033_gf_10513_delivery_ticket",
+      "tx_000033_gf_10513_bank_proof",
+      "tx_000033_gf_10513_cheque_stub",
+      "tx_000033_gf_10513_sms_thread"
+    ]
+  },
+  "TX-000034": {
+    "invoice_no": "GF-10514",
+    "customer": "Oak Valley Dairy",
+    "date": "2026-05-17",
+    "total": 606.9,
+    "payment_ref": "AUTH-559023",
+    "docs": [
+      "tx_000034_gf_10514_invoice",
+      "tx_000034_gf_10514_vendor_receipt",
+      "tx_000034_gf_10514_customer_email",
+      "tx_000034_gf_10514_email_thread",
+      "tx_000034_gf_10514_handwritten_note",
+      "tx_000034_gf_10514_delivery_ticket",
+      "tx_000034_gf_10514_bank_proof",
+      "tx_000034_gf_10514_cheque_stub",
+      "tx_000034_gf_10514_sms_thread"
+    ]
+  },
+  "TX-000035": {
+    "invoice_no": "GF-10515",
+    "customer": "Stonebridge Estates Maintenance",
+    "date": "2026-06-15",
+    "total": 2280.57,
+    "payment_ref": "STONEB-0515",
+    "docs": [
+      "tx_000035_gf_10515_invoice",
+      "tx_000035_gf_10515_vendor_receipt",
+      "tx_000035_gf_10515_customer_email",
+      "tx_000035_gf_10515_email_thread",
+      "tx_000035_gf_10515_handwritten_note",
+      "tx_000035_gf_10515_delivery_ticket",
+      "tx_000035_gf_10515_bank_proof",
+      "tx_000035_gf_10515_cheque_stub",
+      "tx_000035_gf_10515_sms_thread"
+    ]
+  },
+  "TX-000036": {
+    "invoice_no": "GF-10516",
+    "customer": "Riverbend Organics",
+    "date": "2026-04-03",
+    "total": 2607.84,
+    "payment_ref": "RIVERB-0516",
+    "docs": [
+      "tx_000036_gf_10516_invoice",
+      "tx_000036_gf_10516_vendor_receipt",
+      "tx_000036_gf_10516_customer_email",
+      "tx_000036_gf_10516_email_thread",
+      "tx_000036_gf_10516_handwritten_note",
+      "tx_000036_gf_10516_delivery_ticket",
+      "tx_000036_gf_10516_bank_proof",
+      "tx_000036_gf_10516_cheque_stub",
+      "tx_000036_gf_10516_sms_thread"
+    ]
+  },
+  "TX-000037": {
+    "invoice_no": "GF-10517",
+    "customer": "HighPoint Property Services",
+    "date": "2026-11-15",
+    "total": 3300.84,
+    "payment_ref": "HIGHPO-0517",
+    "docs": [
+      "tx_000037_gf_10517_invoice",
+      "tx_000037_gf_10517_vendor_receipt",
+      "tx_000037_gf_10517_customer_email",
+      "tx_000037_gf_10517_email_thread",
+      "tx_000037_gf_10517_handwritten_note",
+      "tx_000037_gf_10517_delivery_ticket",
+      "tx_000037_gf_10517_bank_proof",
+      "tx_000037_gf_10517_cheque_stub",
+      "tx_000037_gf_10517_sms_thread"
+    ]
+  },
+  "TX-000038": {
+    "invoice_no": "GF-10518",
+    "customer": "Oak Valley Dairy",
+    "date": "2026-09-13",
+    "total": 3265.98,
+    "payment_ref": "CHK-9022",
+    "docs": [
+      "tx_000038_gf_10518_invoice",
+      "tx_000038_gf_10518_vendor_receipt",
+      "tx_000038_gf_10518_customer_email",
+      "tx_000038_gf_10518_email_thread",
+      "tx_000038_gf_10518_handwritten_note",
+      "tx_000038_gf_10518_delivery_ticket",
+      "tx_000038_gf_10518_bank_proof",
+      "tx_000038_gf_10518_cheque_stub",
+      "tx_000038_gf_10518_sms_thread"
+    ]
+  },
+  "TX-000039": {
+    "invoice_no": "GF-10519",
+    "customer": "HighPoint Property Services",
+    "date": "2026-10-10",
+    "total": 3035.78,
+    "payment_ref": "HIGHPO-0519",
+    "docs": [
+      "tx_000039_gf_10519_invoice",
+      "tx_000039_gf_10519_vendor_receipt",
+      "tx_000039_gf_10519_customer_email",
+      "tx_000039_gf_10519_email_thread",
+      "tx_000039_gf_10519_handwritten_note",
+      "tx_000039_gf_10519_delivery_ticket",
+      "tx_000039_gf_10519_bank_proof",
+      "tx_000039_gf_10519_cheque_stub",
+      "tx_000039_gf_10519_sms_thread"
+    ]
+  },
+  "TX-000040": {
+    "invoice_no": "GF-10520",
+    "customer": "Oak Valley Dairy",
+    "date": "2026-02-08",
+    "total": 8830.69,
+    "payment_ref": "AUTH-203225",
+    "docs": [
+      "tx_000040_gf_10520_invoice",
+      "tx_000040_gf_10520_vendor_receipt",
+      "tx_000040_gf_10520_customer_email",
+      "tx_000040_gf_10520_email_thread",
+      "tx_000040_gf_10520_handwritten_note",
+      "tx_000040_gf_10520_delivery_ticket",
+      "tx_000040_gf_10520_bank_proof",
+      "tx_000040_gf_10520_cheque_stub",
+      "tx_000040_gf_10520_sms_thread"
+    ]
+  },
+  "TX-000041": {
+    "invoice_no": "GF-10521",
+    "customer": "Maple Ridge Farms Ltd.",
+    "date": "2026-01-24",
+    "total": 4253.09,
+    "payment_ref": "AUTH-816318",
+    "docs": [
+      "tx_000041_gf_10521_invoice",
+      "tx_000041_gf_10521_vendor_receipt",
+      "tx_000041_gf_10521_customer_email",
+      "tx_000041_gf_10521_email_thread",
+      "tx_000041_gf_10521_handwritten_note",
+      "tx_000041_gf_10521_delivery_ticket",
+      "tx_000041_gf_10521_bank_proof",
+      "tx_000041_gf_10521_cheque_stub",
+      "tx_000041_gf_10521_sms_thread"
+    ]
+  },
+  "TX-000042": {
+    "invoice_no": "GF-10522",
+    "customer": "Oak Valley Dairy",
+    "date": "2026-04-29",
+    "total": 2853.97,
+    "payment_ref": "AUTH-211834",
+    "docs": [
+      "tx_000042_gf_10522_invoice",
+      "tx_000042_gf_10522_vendor_receipt",
+      "tx_000042_gf_10522_customer_email",
+      "tx_000042_gf_10522_email_thread",
+      "tx_000042_gf_10522_handwritten_note",
+      "tx_000042_gf_10522_delivery_ticket",
+      "tx_000042_gf_10522_bank_proof",
+      "tx_000042_gf_10522_cheque_stub",
+      "tx_000042_gf_10522_sms_thread"
+    ]
+  },
+  "TX-000043": {
+    "invoice_no": "GF-10523",
+    "customer": "Brampton Turf Solutions",
+    "date": "2026-06-01",
+    "total": 1223.29,
+    "payment_ref": "CHK-4770",
+    "docs": [
+      "tx_000043_gf_10523_invoice",
+      "tx_000043_gf_10523_vendor_receipt",
+      "tx_000043_gf_10523_customer_email",
+      "tx_000043_gf_10523_email_thread",
+      "tx_000043_gf_10523_handwritten_note",
+      "tx_000043_gf_10523_delivery_ticket",
+      "tx_000043_gf_10523_bank_proof",
+      "tx_000043_gf_10523_cheque_stub",
+      "tx_000043_gf_10523_sms_thread"
+    ]
+  },
+  "TX-000044": {
+    "invoice_no": "GF-10524",
+    "customer": "Brampton Turf Solutions",
+    "date": "2026-05-09",
+    "total": 207.92,
+    "payment_ref": "BRAMPT-0524",
+    "docs": [
+      "tx_000044_gf_10524_invoice",
+      "tx_000044_gf_10524_vendor_receipt",
+      "tx_000044_gf_10524_customer_email",
+      "tx_000044_gf_10524_email_thread",
+      "tx_000044_gf_10524_handwritten_note",
+      "tx_000044_gf_10524_delivery_ticket",
+      "tx_000044_gf_10524_bank_proof",
+      "tx_000044_gf_10524_cheque_stub",
+      "tx_000044_gf_10524_sms_thread"
+    ]
+  },
+  "TX-000045": {
+    "invoice_no": "GF-10525",
+    "customer": "HighPoint Property Services",
+    "date": "2026-09-29",
+    "total": 1811.28,
+    "payment_ref": "CHK-2479",
+    "docs": [
+      "tx_000045_gf_10525_invoice",
+      "tx_000045_gf_10525_vendor_receipt",
+      "tx_000045_gf_10525_customer_email",
+      "tx_000045_gf_10525_email_thread",
+      "tx_000045_gf_10525_handwritten_note",
+      "tx_000045_gf_10525_delivery_ticket",
+      "tx_000045_gf_10525_bank_proof",
+      "tx_000045_gf_10525_cheque_stub",
+      "tx_000045_gf_10525_sms_thread"
+    ]
+  },
+  "TX-000046": {
+    "invoice_no": "GF-10526",
+    "customer": "UrbanRoot Gardens Co.",
+    "date": "2026-07-08",
+    "total": 1186.86,
+    "payment_ref": "AUTH-222343",
+    "docs": [
+      "tx_000046_gf_10526_invoice",
+      "tx_000046_gf_10526_vendor_receipt",
+      "tx_000046_gf_10526_customer_email",
+      "tx_000046_gf_10526_email_thread",
+      "tx_000046_gf_10526_handwritten_note",
+      "tx_000046_gf_10526_delivery_ticket",
+      "tx_000046_gf_10526_bank_proof",
+      "tx_000046_gf_10526_cheque_stub",
+      "tx_000046_gf_10526_sms_thread"
+    ]
+  },
+  "TX-000047": {
+    "invoice_no": "GF-10527",
+    "customer": "Riverbend Organics",
+    "date": "2026-09-10",
+    "total": 1274.66,
+    "payment_ref": "AUTH-861894",
+    "docs": [
+      "tx_000047_gf_10527_invoice",
+      "tx_000047_gf_10527_vendor_receipt",
+      "tx_000047_gf_10527_customer_email",
+      "tx_000047_gf_10527_email_thread",
+      "tx_000047_gf_10527_handwritten_note",
+      "tx_000047_gf_10527_delivery_ticket",
+      "tx_000047_gf_10527_bank_proof",
+      "tx_000047_gf_10527_cheque_stub",
+      "tx_000047_gf_10527_sms_thread"
+    ]
+  },
+  "TX-000048": {
+    "invoice_no": "GF-10528",
+    "customer": "UrbanRoot Gardens Co.",
+    "date": "2026-11-12",
+    "total": 2118.89,
+    "payment_ref": "AUTH-770556",
+    "docs": [
+      "tx_000048_gf_10528_invoice",
+      "tx_000048_gf_10528_vendor_receipt",
+      "tx_000048_gf_10528_customer_email",
+      "tx_000048_gf_10528_email_thread",
+      "tx_000048_gf_10528_handwritten_note",
+      "tx_000048_gf_10528_delivery_ticket",
+      "tx_000048_gf_10528_bank_proof",
+      "tx_000048_gf_10528_cheque_stub",
+      "tx_000048_gf_10528_sms_thread"
+    ]
+  },
+  "TX-000049": {
+    "invoice_no": "GF-10529",
+    "customer": "NorthLine Contracting",
+    "date": "2026-03-06",
+    "total": 485.26,
+    "payment_ref": "NORTHL-0529",
+    "docs": [
+      "tx_000049_gf_10529_invoice",
+      "tx_000049_gf_10529_vendor_receipt",
+      "tx_000049_gf_10529_customer_email",
+      "tx_000049_gf_10529_email_thread",
+      "tx_000049_gf_10529_handwritten_note",
+      "tx_000049_gf_10529_delivery_ticket",
+      "tx_000049_gf_10529_bank_proof",
+      "tx_000049_gf_10529_cheque_stub",
+      "tx_000049_gf_10529_sms_thread"
+    ]
+  },
+  "TX-000050": {
+    "invoice_no": "GF-10530",
+    "customer": "Oak Valley Dairy",
+    "date": "2026-01-08",
+    "total": 1434.31,
+    "payment_ref": "AUTH-145471",
+    "docs": [
+      "tx_000050_gf_10530_invoice",
+      "tx_000050_gf_10530_vendor_receipt",
+      "tx_000050_gf_10530_customer_email",
+      "tx_000050_gf_10530_email_thread",
+      "tx_000050_gf_10530_handwritten_note",
+      "tx_000050_gf_10530_delivery_ticket",
+      "tx_000050_gf_10530_bank_proof",
+      "tx_000050_gf_10530_cheque_stub",
+      "tx_000050_gf_10530_sms_thread"
+    ]
+  },
+  "TX-000051": {
+    "invoice_no": "GF-10531",
+    "customer": "Maple Ridge Farms Ltd.",
+    "date": "2026-02-01",
+    "total": 2551.96,
+    "payment_ref": "MAPLER-0531",
+    "docs": [
+      "tx_000051_gf_10531_invoice",
+      "tx_000051_gf_10531_vendor_receipt",
+      "tx_000051_gf_10531_customer_email",
+      "tx_000051_gf_10531_email_thread",
+      "tx_000051_gf_10531_handwritten_note",
+      "tx_000051_gf_10531_delivery_ticket",
+      "tx_000051_gf_10531_bank_proof",
+      "tx_000051_gf_10531_cheque_stub",
+      "tx_000051_gf_10531_sms_thread"
+    ]
+  },
+  "TX-000052": {
+    "invoice_no": "GF-10532",
+    "customer": "Silver Creek Stables",
+    "date": "2026-08-01",
+    "total": 721.71,
+    "payment_ref": "AUTH-886730",
+    "docs": [
+      "tx_000052_gf_10532_invoice",
+      "tx_000052_gf_10532_vendor_receipt",
+      "tx_000052_gf_10532_customer_email",
+      "tx_000052_gf_10532_email_thread",
+      "tx_000052_gf_10532_handwritten_note",
+      "tx_000052_gf_10532_delivery_ticket",
+      "tx_000052_gf_10532_bank_proof",
+      "tx_000052_gf_10532_cheque_stub",
+      "tx_000052_gf_10532_sms_thread"
+    ]
+  },
+  "TX-000053": {
+    "invoice_no": "GF-10533",
+    "customer": "Maple Ridge Farms Ltd.",
+    "date": "2026-05-28",
+    "total": 2713.37,
+    "payment_ref": "AUTH-743378",
+    "docs": [
+      "tx_000053_gf_10533_invoice",
+      "tx_000053_gf_10533_vendor_receipt",
+      "tx_000053_gf_10533_customer_email",
+      "tx_000053_gf_10533_email_thread",
+      "tx_000053_gf_10533_handwritten_note",
+      "tx_000053_gf_10533_delivery_ticket",
+      "tx_000053_gf_10533_bank_proof",
+      "tx_000053_gf_10533_cheque_stub",
+      "tx_000053_gf_10533_sms_thread"
+    ]
+  },
+  "TX-000054": {
+    "invoice_no": "GF-10534",
+    "customer": "Stonebridge Estates Maintenance",
+    "date": "2026-05-17",
+    "total": 834.03,
+    "payment_ref": "STONEB-0534",
+    "docs": [
+      "tx_000054_gf_10534_invoice",
+      "tx_000054_gf_10534_vendor_receipt",
+      "tx_000054_gf_10534_customer_email",
+      "tx_000054_gf_10534_email_thread",
+      "tx_000054_gf_10534_handwritten_note",
+      "tx_000054_gf_10534_delivery_ticket",
+      "tx_000054_gf_10534_bank_proof",
+      "tx_000054_gf_10534_cheque_stub",
+      "tx_000054_gf_10534_sms_thread"
+    ]
+  },
+  "TX-000055": {
+    "invoice_no": "GF-10535",
+    "customer": "HighPoint Property Services",
+    "date": "2026-06-09",
+    "total": 520.11,
+    "payment_ref": "CHK-8972",
+    "docs": [
+      "tx_000055_gf_10535_invoice",
+      "tx_000055_gf_10535_vendor_receipt",
+      "tx_000055_gf_10535_customer_email",
+      "tx_000055_gf_10535_email_thread",
+      "tx_000055_gf_10535_handwritten_note",
+      "tx_000055_gf_10535_delivery_ticket",
+      "tx_000055_gf_10535_bank_proof",
+      "tx_000055_gf_10535_cheque_stub",
+      "tx_000055_gf_10535_sms_thread"
+    ]
+  },
+  "TX-000056": {
+    "invoice_no": "GF-10536",
+    "customer": "Maple Ridge Farms Ltd.",
+    "date": "2026-01-04",
+    "total": 3397.94,
+    "payment_ref": "CHK-8033",
+    "docs": [
+      "tx_000056_gf_10536_invoice",
+      "tx_000056_gf_10536_vendor_receipt",
+      "tx_000056_gf_10536_customer_email",
+      "tx_000056_gf_10536_email_thread",
+      "tx_000056_gf_10536_handwritten_note",
+      "tx_000056_gf_10536_delivery_ticket",
+      "tx_000056_gf_10536_bank_proof",
+      "tx_000056_gf_10536_cheque_stub",
+      "tx_000056_gf_10536_sms_thread"
+    ]
+  },
+  "TX-000057": {
+    "invoice_no": "GF-10537",
+    "customer": "Riverbend Organics",
+    "date": "2026-02-28",
+    "total": 6140.08,
+    "payment_ref": "CHK-6562",
+    "docs": [
+      "tx_000057_gf_10537_invoice",
+      "tx_000057_gf_10537_vendor_receipt",
+      "tx_000057_gf_10537_customer_email",
+      "tx_000057_gf_10537_email_thread",
+      "tx_000057_gf_10537_handwritten_note",
+      "tx_000057_gf_10537_delivery_ticket",
+      "tx_000057_gf_10537_bank_proof",
+      "tx_000057_gf_10537_cheque_stub",
+      "tx_000057_gf_10537_sms_thread"
+    ]
+  },
+  "TX-000058": {
+    "invoice_no": "GF-10538",
+    "customer": "GreenScape Landscaping Inc.",
+    "date": "2026-09-19",
+    "total": 1172.58,
+    "payment_ref": "AUTH-618119",
+    "docs": [
+      "tx_000058_gf_10538_invoice",
+      "tx_000058_gf_10538_vendor_receipt",
+      "tx_000058_gf_10538_customer_email",
+      "tx_000058_gf_10538_email_thread",
+      "tx_000058_gf_10538_handwritten_note",
+      "tx_000058_gf_10538_delivery_ticket",
+      "tx_000058_gf_10538_bank_proof",
+      "tx_000058_gf_10538_cheque_stub",
+      "tx_000058_gf_10538_sms_thread"
+    ]
+  },
+  "TX-000059": {
+    "invoice_no": "GF-10539",
+    "customer": "Brampton Turf Solutions",
+    "date": "2026-08-18",
+    "total": 2168.31,
+    "payment_ref": "AUTH-722937",
+    "docs": [
+      "tx_000059_gf_10539_invoice",
+      "tx_000059_gf_10539_vendor_receipt",
+      "tx_000059_gf_10539_customer_email",
+      "tx_000059_gf_10539_email_thread",
+      "tx_000059_gf_10539_handwritten_note",
+      "tx_000059_gf_10539_delivery_ticket",
+      "tx_000059_gf_10539_bank_proof",
+      "tx_000059_gf_10539_cheque_stub",
+      "tx_000059_gf_10539_sms_thread"
+    ]
+  },
+  "TX-000060": {
+    "invoice_no": "GF-10540",
+    "customer": "Stonebridge Estates Maintenance",
+    "date": "2026-01-22",
+    "total": 1146.55,
+    "payment_ref": "AUTH-648141",
+    "docs": [
+      "tx_000060_gf_10540_invoice",
+      "tx_000060_gf_10540_vendor_receipt",
+      "tx_000060_gf_10540_customer_email",
+      "tx_000060_gf_10540_email_thread",
+      "tx_000060_gf_10540_handwritten_note",
+      "tx_000060_gf_10540_delivery_ticket",
+      "tx_000060_gf_10540_bank_proof",
+      "tx_000060_gf_10540_cheque_stub",
+      "tx_000060_gf_10540_sms_thread"
+    ]
+  }
+}

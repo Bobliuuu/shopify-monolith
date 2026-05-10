@@ -1,0 +1,11 @@
+PACKING SLIP
+Fulfillment: ful_0000017
+Order: ord_0000017
+Customer: Maple Ridge Farms Ltd. #2
+Carrier: Pickup
+Tracking: TRK-0000017
+Fulfilled at: 2026-06-07
+
+GF-CHEM-GLY-4L  qty=2  loc=LOC-KIT-STAGE
+GF-IRR-DRIP-100  qty=2  loc=LOC-KIT-STAGE
+GF-CHEM-INSECT-ORCH  qty=8  loc=LOC-KIT-STAGE

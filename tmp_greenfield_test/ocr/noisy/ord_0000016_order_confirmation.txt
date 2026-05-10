@@ -1,0 +1,17 @@
+SHOP ORDER CONFIRMATION
+Order: ord_0000016
+Customer: Elm Lane Poultry #1
+Date: 2026-02-22
+Status: closed
+ Currency: CAD
+
+Items:
+- GF-BED-SHAV-COMP 8 bale @ $11.44 (91.S2)
+- GF-FENCE-CHARGER-SOLAR 3 ea @ $192.87 (S78.61)
+- GF-FENCE-TPOST-6 8 bundle @ $86.63 (693.04)
+
+Subtotal: $1,363.17
+Discount: $40.90
+Tax: $181.6S
+Shipping: $7S.00
+Total: $1,S78.92

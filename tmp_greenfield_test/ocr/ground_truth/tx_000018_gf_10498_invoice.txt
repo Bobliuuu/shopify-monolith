@@ -1,0 +1,26 @@
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10498          Date: 2026-06-10
+Due: 2026-06-17                Terms: Due on receipt
+PO: n/a / txt order
+
+BILL TO:
+HighPoint Property Services
+Cambridge, ON
+Attn: Jason Reid
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-IRR-HOSE-34       water hose hd                          2       roll       61.81     123.62
+GF-BULK-SAND-MASON   sand yard                              4.5     yd         34.97     157.37
+SERV-DELIVERY        local run                              1       ea         95.00      95.00
+
+Subtotal:      375.99
+HST 13%:       48.88
+TOTAL DUE:    $424.87
+
+Payment method expected: on account
+Payment ref: AUTH-446239
+PEN NOTE: split payment expected

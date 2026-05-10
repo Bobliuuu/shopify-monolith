@@ -1,0 +1,13 @@
+EMAIL THREAD EXPORT
+
+From: accounts@mapleridgefarms.example
+To: orders@greenfieldsupply.example
+Subject: Re: GF-1O531
+
+Customer:
+ Can you resend the invoice? AP says they need the ref again.
+
+ Attached invoice GF-1O531. Total is $2,551.96. Payment ref MAPLER-O531.
+
+Customer:
+ok thanks. should go out 2O26-O3-O4.

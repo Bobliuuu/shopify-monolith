@@ -1,0 +1,7 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****ll82
+Date posted: 2026-02-07
+Description: Interac Elm Lane Poultry AUTH-4202l4
+Amount: +$2,386.44
+Memo: invoice GF-l05l2

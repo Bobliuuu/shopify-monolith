@@ -1,0 +1,35 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create an ecommerce order confirmation page or email screenshot with totals and line items.
+
+Image condition:
+tilted phone photo, mild blur, shadow across document
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+SHOP ORDER CONFIRMATION
+Order: ord_0000003
+Customer: Silver Creek Stables #1
+Date: 2026-12-05
+Status: open
+Currency: CAD
+
+Items:
+- GF-FENCE-CHARGER-SOLAR 2 ea @ $182.93 (365.86)
+- GF-BED-STRAW-HORSE 12 bale @ $9.01 (108.12)
+- GF-SITE-GLOVES-50 1 case @ $56.73 (56.73)
+
+Subtotal: $530.71
+Discount: $53.07
+Tax: $71.84
+Shipping: $75.00
+Total: $624.48
+
+---END RAW CONTENT---

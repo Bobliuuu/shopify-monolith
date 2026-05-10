@@ -1,0 +1,86 @@
+{
+  "doc_id": "tx_000030_gf_10510_email_thread",
+  "doc_type": "email_thread",
+  "raw_text_path": "raw/artifacts/tx_000030_gf_10510_email_thread.txt",
+  "image_path": null,
+  "entities": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000030"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10510"
+    },
+    {
+      "type": "customer_name",
+      "text": "Stonebridge Estates Maintenance"
+    },
+    {
+      "type": "date",
+      "text": "2026-10-02"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-11-01"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-10-14"
+    },
+    {
+      "type": "total",
+      "text": "1,652.38",
+      "number": 1652.38
+    },
+    {
+      "type": "payment_ref",
+      "text": "STONEB-0510"
+    },
+    {
+      "type": "payment_method",
+      "text": "EFT"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-TURF-10",
+      "description": "Grass seed premium turf mix 10lb",
+      "messy_description": "grass seed prem",
+      "qty": 12,
+      "unit": "bag",
+      "unit_price": 33.09,
+      "line_total": 397.08
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEASON-PETMELT",
+      "description": "Ice Melt Premium (pet safe)",
+      "messy_description": "pet melt",
+      "qty": 50,
+      "unit": "bag",
+      "unit_price": 17.96,
+      "line_total": 898.0
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BULK-GRAVEL-34",
+      "description": "Gravel 3/4 clear stone per ton",
+      "messy_description": "clear stone",
+      "qty": 2.5,
+      "unit": "ton",
+      "unit_price": 40.88,
+      "line_total": 102.2
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "bulk dump delivery",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 65,
+      "line_total": 65
+    }
+  ],
+  "bbox_status": "populate_after_real_ocr"
+}

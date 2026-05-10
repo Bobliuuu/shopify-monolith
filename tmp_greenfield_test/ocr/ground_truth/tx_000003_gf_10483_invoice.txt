@@ -1,0 +1,28 @@
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10483          Date: 2026-12-05
+Due: 2027-01-04                Terms: Net 30
+PO: n/a / txt order
+
+BILL TO:
+Maple Ridge Farms Ltd.
+Fergus, ON
+Attn: Jeff Martin
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-FERT-UREA-55      Urea 55#                               12      bag        34.56     414.72
+GF-LIME-AG-LOAD      ag lime load                           1       load      532.78     532.78
+GF-IRR-HOSE-34       water hose hd                          8       roll       61.96     495.68
+GF-SEED-TURF-10      grass seed prem                        80      bag        29.38   2,350.40
+SERV-DELIVERY        bulk dump delivery                     1       ea         95.00      95.00
+
+Subtotal:      3,888.58
+HST 13%:       505.52
+TOTAL DUE:    $4,394.10
+
+Payment method expected: cheque
+Payment ref: CHK-4598
+PEN NOTE: split payment expected

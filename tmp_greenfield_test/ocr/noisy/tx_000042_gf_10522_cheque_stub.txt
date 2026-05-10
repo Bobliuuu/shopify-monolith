@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: Oak Valley Dairy
+Cheque/ref: AUTH-211834
+Date: 2026-06-28
+ Invoice: GF-10522
+Arnount: $2,853.97
+Notes: less credit from last order

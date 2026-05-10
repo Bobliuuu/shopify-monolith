@@ -1,0 +1,13 @@
+County Hardware & Farm Supply
+RECEIPT / YARD TICKET #6657O       2O26-O7-11
+Sold to: GreenFieId Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+dusty straw bales                  15.4     bale       5.48      84.39
+ handling / fuel / pallet fee        1        ea         25.OO      25.OO
+
+Subtotal: 1O9.39
+HST:      14.22
+TOTAL:    $123.61
+Paid by: EFT batch

@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Date posted: 2026-04-25
+Description: cheque Silver Creek Stables CHK-6529
+Amount: +$561.28
+Memo: invoice GF-10504
+Status: posted

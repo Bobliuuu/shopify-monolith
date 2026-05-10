@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: Elm Lane Poultry
+Cheque/ref: ELMLAN-0511
+Date: 2026-09-16
+Invoice: GF-10511
+Amount: $182.47
+Notes: hold receipt

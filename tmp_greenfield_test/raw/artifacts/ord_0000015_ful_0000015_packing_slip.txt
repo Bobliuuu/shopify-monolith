@@ -1,0 +1,11 @@
+PACKING SLIP
+Fulfillment: ful_0000015
+Order: ord_0000015
+Customer: Maple Ridge Farms Ltd. #2
+Carrier: Pickup
+Tracking: TRK-0000015
+Fulfilled at: 2026-01-09
+
+GF-FERT-START-122412  qty=20  loc=LOC-GUELPH-YARD
+GF-SEED-ALF-50  qty=6  loc=LOC-GUELPH-YARD
+GF-IRR-DRIP-100  qty=1  loc=LOC-GUELPH-YARD

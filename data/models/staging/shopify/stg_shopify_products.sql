@@ -2,7 +2,7 @@
 -- Explicitly cast ID fields as VARCHAR to prevent dbt from converting to INT64
 
 with source as (
-    select * from {{ source('shopify_raw', 'shopify_products') }}
+    select * from {{ source('shopify_dlt', 'shopify_products') }}
 ),
 
 staged as (

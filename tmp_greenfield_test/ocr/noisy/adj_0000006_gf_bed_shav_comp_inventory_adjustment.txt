@@ -1,0 +1,6 @@
+Adjustment id: adj_OOOOOO6_gf_bed_shav_comp
+SKU: GF-BED-SHAV-COMP
+Location: LOC-GUELPH-WH
+ Delta: -8O
+Reason: order_fulfillment
+Timestamp: 2O26-O6-O4

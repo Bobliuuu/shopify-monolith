@@ -1,0 +1,14 @@
+From: accounts@mapleridgefarms.example
+To: orders@greenfieldsupply.example
+Subject: order for 2026-01-24
+
+hey,
+
+can you get us dolo lime, Contractor Blend for 2026-01-24?
+send what you have and backorder the rest
+
+ship/deliver to Fergus if possible.
+
+thanks,
+Jeff
+Maple Ridge Farms Ltd.

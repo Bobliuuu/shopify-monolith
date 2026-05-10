@@ -1,0 +1,8 @@
+ Mobile banking transaction detail
+
+Account: Business Chequing ****ll82
+Date posted: 2O26-O5-l9
+Description: e-transfer Stonebridge Estates Maintenance STONEB-O534
+Amount: +$834.O3
+Memo: invoice GF-lO534
+Status: posted

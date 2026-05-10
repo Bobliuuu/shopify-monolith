@@ -1,0 +1,28 @@
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 842O3 1234 RTOOO1
+
+INVOICE: GF-1O5O9          Date: 2O26-O5-O4
+Due: 2O26-O6-O3                Terms: Net 3O
+PO: PO-2979
+
+ BILL TO:
+GreenScape Landscaping Inc.
+Mississauga, ON
+Attn: Kyle Park
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-BULK-CRUSHER      crusher run                            5       ton        38.26     191.3O
+GF-SITE-GLOVES-5O    gloves 5O pack                         3       case       52.79     158.37
+GF-SEED-TURF-1O      grass seed prem                        1O      bag        3O.72     3O7.2O
+GF-BULK-GRAVEL-34    gravel 3/4                             4       ton        42.22     168.88
+GF-SEASON-SALT-2O    salt bags                              2O      bag        11.96     239.2O
+SERV-DELIVERY        delivery charge                        1       ea        15O.OO     15O.OO
+Subtotal:      1,214.95
+ HST 13%:       157.94
+TOTAL DUE:    $1,372.89
+
+Payment method expected: cheque
+Payment ref: CHK-4777
+PEN NOTE: same pricing as last time?? verify

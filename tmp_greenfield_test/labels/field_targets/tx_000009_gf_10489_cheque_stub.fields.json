@@ -1,0 +1,74 @@
+{
+  "doc_id": "tx_000009_gf_10489_cheque_stub",
+  "doc_type": "cheque_stub",
+  "tx_id": "TX-000009",
+  "fields": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000009"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10489"
+    },
+    {
+      "type": "customer_name",
+      "text": "Silver Creek Stables"
+    },
+    {
+      "type": "date",
+      "text": "2026-04-08"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-05-08"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-04-15"
+    },
+    {
+      "type": "total",
+      "text": "715.79",
+      "number": 715.79
+    },
+    {
+      "type": "payment_ref",
+      "text": "SILVER-0489"
+    },
+    {
+      "type": "payment_method",
+      "text": "EFT"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FENCE-TPOST-6",
+      "description": "T-posts 6ft green bundle of 10",
+      "messy_description": "posts 10 pack",
+      "qty": 4,
+      "unit": "bundle",
+      "unit_price": 78.53,
+      "line_total": 314.12
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FENCE-WIRE-200",
+      "description": "Fence wire galvanized 200m spool",
+      "messy_description": "fencing spool",
+      "qty": 1,
+      "unit": "spool",
+      "unit_price": 134.32,
+      "line_total": 134.32
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "local run",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 185,
+      "line_total": 185
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create a crumpled thermal/vendor receipt or yard ticket photo with faded ink, wrinkled paper, and line-item purchase details.
+
+Image condition:
+looks like part of a stapled packet with another page edge visible
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+Wellington Aggregates Yard Ticket
+RECEIPT / YARD TICKET #43187       2026-04-10
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+3/4 hose                           30.3     roll      55.41   1,678.92
+handling / fuel / pallet fee        1        ea         45.00      45.00
+
+Subtotal: 1,723.92
+HST:      224.11
+TOTAL:    $1,948.03
+Paid by: EFT batch
+
+---END RAW CONTENT---

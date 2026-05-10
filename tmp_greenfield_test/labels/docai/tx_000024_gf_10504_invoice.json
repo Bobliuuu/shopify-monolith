@@ -1,0 +1,86 @@
+{
+  "doc_id": "tx_000024_gf_10504_invoice",
+  "doc_type": "invoice",
+  "raw_text_path": "raw/artifacts/tx_000024_gf_10504_invoice.txt",
+  "image_path": null,
+  "entities": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000024"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10504"
+    },
+    {
+      "type": "customer_name",
+      "text": "Silver Creek Stables"
+    },
+    {
+      "type": "date",
+      "text": "2026-03-26"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-04-25"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-04-25"
+    },
+    {
+      "type": "total",
+      "text": "561.28",
+      "number": 561.28
+    },
+    {
+      "type": "payment_ref",
+      "text": "CHK-6529"
+    },
+    {
+      "type": "payment_method",
+      "text": "cheque"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SITE-TARP-1012",
+      "description": "Blue tarp 10x12 (heavy duty-ish)",
+      "messy_description": "hd-ish tarp",
+      "qty": 4,
+      "unit": "ea",
+      "unit_price": 17.19,
+      "line_total": 68.76
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SITE-GLOVES-50",
+      "description": "Work gloves (bulk pack 50)",
+      "messy_description": "work glove box",
+      "qty": 1,
+      "unit": "case",
+      "unit_price": 51.43,
+      "line_total": 51.43
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FEED-CHKN-LAYER20",
+      "description": "Chicken Feed Layer Pellets 20kg",
+      "messy_description": "layer pellets",
+      "qty": 8,
+      "unit": "bag",
+      "unit_price": 23.94,
+      "line_total": 191.52
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "local run",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 185,
+      "line_total": 185
+    }
+  ],
+  "bbox_status": "populate_after_real_ocr"
+}

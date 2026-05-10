@@ -1,0 +1,13 @@
+County Hardware & Farm Supply
+RECEIPT / YARD TICKET #60470       2026-09-10
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+weed spray 4L                      24.2     jug       64.42   1,558.96
+handling / fuel / pallet fee        1        ea          0.00       0.00
+
+Subtotal: 1,558.96
+HST:      202.66
+TOTAL:    $1,761.62
+Paid by: Visa ending 4102

@@ -1,0 +1,16 @@
+SHOP ORDER CONFIRMATION
+Order: ord_0000024
+Customer: Elm Lane Poultry #2
+Date: 2026-03-26
+Status: fulfilled
+Currency: CAD
+ 
+Items:
+- GF-FENCE-WIRE-200 3 spool @ $140.90 (422.70)
+- GF-SITE-GLOVES-S0 3 case @ $S3.64 (160.92)
+
+Subtotal: $S83.62
+Discount: $S8.36
+Tax: $72.83
+Shipping: $3S.00
+ Total: $633.09

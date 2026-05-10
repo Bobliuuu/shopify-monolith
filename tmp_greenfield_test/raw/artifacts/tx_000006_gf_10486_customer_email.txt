@@ -1,0 +1,14 @@
+From: office@elmlanepoultry.example
+To: orders@greenfieldsupply.example
+Subject: order for 2026-06-02
+
+hey,
+
+can you get us cheap straw, wire 200m for 2026-06-02?
+put it on our account please
+
+ship/deliver to Listowel if possible.
+
+thanks,
+Gord
+Elm Lane Poultry

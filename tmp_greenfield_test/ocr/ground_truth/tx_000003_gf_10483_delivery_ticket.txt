@@ -1,0 +1,13 @@
+GREENFIELD FARM & SITE SUPPLY       DELIVERY TICKET #83366
+Date: 2026-12-05
+Customer: Maple Ridge Farms Ltd.
+Location: Fergus, ON
+Driver: Mike
+
+QTY      UNIT   DESCRIPTION
+-----------------------------------------
+12       bag    Urea 55#
+1        load   ag lime load
+
+Notes: Leave by north gate
+Received by: ____________________

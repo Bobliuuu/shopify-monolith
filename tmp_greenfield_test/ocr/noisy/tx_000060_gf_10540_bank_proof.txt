@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Date posted: 2026-02-20
+Description: Visa Stonebridge Estates Maintenance AUTH-648141
+Amount: +$1,146.SS
+Memo: invoice GF-10S40
+Status: posted

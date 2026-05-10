@@ -1,0 +1,28 @@
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10499          Date: 2026-06-03
+Due: 2026-07-03                Terms: Net 30
+PO: PO-7534
+
+BILL TO:
+Stonebridge Estates Maintenance
+Burlington, ON
+Attn: Laura Chen
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-SEASON-SALT-20    road salt 20kg                         12      bag        12.24     146.88
+GF-IRR-HOSE-34       heavy hose                             4       roll       66.54     266.16
+GF-IRR-DRIP-100      drip line 100ft                        8       roll       50.10     400.80
+GF-SITE-GLOVES-50    work glove box                         6       case       56.23     337.38
+SERV-DELIVERY        local run                              1       ea         65.00      65.00
+
+Subtotal:      1,216.22
+HST 13%:       158.11
+TOTAL DUE:    $1,374.33
+
+Payment method expected: Interac
+Payment ref: AUTH-923927
+PEN NOTE: split payment expected

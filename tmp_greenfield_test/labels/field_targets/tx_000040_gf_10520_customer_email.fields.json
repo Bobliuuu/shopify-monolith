@@ -1,0 +1,94 @@
+{
+  "doc_id": "tx_000040_gf_10520_customer_email",
+  "doc_type": "customer_email",
+  "tx_id": "TX-000040",
+  "fields": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000040"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10520"
+    },
+    {
+      "type": "customer_name",
+      "text": "Oak Valley Dairy"
+    },
+    {
+      "type": "date",
+      "text": "2026-02-08"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-04-09"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-04-10"
+    },
+    {
+      "type": "total",
+      "text": "8,830.69",
+      "number": 8830.69
+    },
+    {
+      "type": "payment_ref",
+      "text": "AUTH-203225"
+    },
+    {
+      "type": "payment_method",
+      "text": "Interac"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FENCE-WIRE-200",
+      "description": "Fence wire galvanized 200m spool",
+      "messy_description": "fencing spool",
+      "qty": 3,
+      "unit": "spool",
+      "unit_price": 138.47,
+      "line_total": 415.41
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FENCE-TPOST-6",
+      "description": "T-posts 6ft green bundle of 10",
+      "messy_description": "posts 10 pack",
+      "qty": 4,
+      "unit": "bundle",
+      "unit_price": 86.25,
+      "line_total": 345.0
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FEED-DAIRY4-BULK",
+      "description": "Dairy ration mix #4 (bulk auger fill)",
+      "messy_description": "ration mix 4",
+      "qty": 12,
+      "unit": "ton",
+      "unit_price": 531.23,
+      "line_total": 6374.76
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SITE-GLOVES-50",
+      "description": "Work gloves (bulk pack 50)",
+      "messy_description": "gloves 50 pack",
+      "qty": 10,
+      "unit": "case",
+      "unit_price": 55.96,
+      "line_total": 559.6
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "bulk dump delivery",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 120,
+      "line_total": 120
+    }
+  ]
+}

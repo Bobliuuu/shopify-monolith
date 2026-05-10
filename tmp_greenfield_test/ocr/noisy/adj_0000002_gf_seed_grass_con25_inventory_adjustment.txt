@@ -1,0 +1,7 @@
+INVENTORY ADJUSTMENT LOG
+Adjustment id: adj_OOOOOO2_gf_seed_grass_con25
+SKU: GF-SEED-GRASS-CON25
+Location: LOC-GUELPH-WH
+Delta: -l2
+Reason: order_fulfillment
+Timestamp: 2O26-O4-23

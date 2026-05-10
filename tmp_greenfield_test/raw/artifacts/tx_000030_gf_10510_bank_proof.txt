@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Date posted: 2026-10-14
+Description: EFT Stonebridge Estates Maintenance STONEB-0510
+Amount: +$1,652.38
+Memo: invoice GF-10510
+Status: posted

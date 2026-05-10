@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: Elm Lane Poultry
+Cheque/ref: AUTH-704201
+Date: 2026-08-09
+Invoice: GF-10488
+Amount: $1,847.12
+Notes: less credit from last order

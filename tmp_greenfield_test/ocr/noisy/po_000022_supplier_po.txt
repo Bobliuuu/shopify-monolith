@@ -1,0 +1,8 @@
+SUPPLIER PURCHASE ORDER
+PO: po_000022
+Vendor: Fertilizer Depot Inc.
+Created: 2025-l2-l5
+Expected: 2026-0l-05
+Status: received
+
+GF-FENCE-TPOST-6-V0l x 330 bundle @ $6l.62

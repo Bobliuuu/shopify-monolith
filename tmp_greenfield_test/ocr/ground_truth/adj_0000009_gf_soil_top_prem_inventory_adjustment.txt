@@ -1,0 +1,7 @@
+INVENTORY ADJUSTMENT LOG
+Adjustment id: adj_0000009_gf_soil_top_prem
+SKU: GF-SOIL-TOP-PREM
+Location: LOC-GUELPH-WH
+Delta: -2
+Reason: order_fulfillment
+Timestamp: 2026-04-08

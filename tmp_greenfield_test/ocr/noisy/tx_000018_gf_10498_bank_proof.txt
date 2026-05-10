@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Date posted: 2O26-O6-17
+ Description: on account HighPoint Property Services AUTH-446239
+Amount: +$254.92
+Memo: invoice GF-1O498
+Status: posted

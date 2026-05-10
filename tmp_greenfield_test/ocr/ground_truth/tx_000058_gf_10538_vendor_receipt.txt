@@ -1,0 +1,13 @@
+Wellington Aggregates Yard Ticket
+RECEIPT / YARD TICKET #81581       2026-09-19
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+blue tarp                          5.9      ea        14.14      83.43
+handling / fuel / pallet fee        1        ea         60.00      60.00
+
+Subtotal: 143.43
+HST:      18.65
+TOTAL:    $162.08
+Paid by: cheque

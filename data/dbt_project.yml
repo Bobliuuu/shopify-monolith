@@ -18,20 +18,37 @@ clean-targets:
 
 models:
   shopify_monolith:
-    materialized: table
+    +tags: [shopify_monolith]
+    base:
+      +schema: base
+      +materialized: view
+      +tags: [base]
     staging:
-      materialized: view
-      shopify:
-        materialized: view
-        base:
-          materialized: table
-          schema: dev
+      +schema: staging
+      +materialized: view
+      +tags: [staging]
+    intermediate:
+      +schema: intermediate
+      +materialized: view
+      +tags: [intermediate]
     marts:
-      materialized: table
-      fct_shopify_transactions:
-        materialized: table
-        schema: dev
+      dimensions:
+        +schema: dim
+        +materialized: table
+        +tags: [dimension]
+      facts:
+        +schema: fct
+        +materialized: table
+        +tags: [fact]
+      greenfield:
+        +schema: mart
+        +materialized: view
+        +tags: [mart]
+    views:
+      +schema: analytics_views
+      +materialized: view
+      +tags: [analytics_view]
 
 vars:
   target_database: shopify_monolith
-  target_schema: dev 
+  target_schema: dev

@@ -1,0 +1,16 @@
+SHOP ORDER CONFIRMATION
+Order: ord_0000014
+Customer: ClearPath Utilities #2
+Date: 2026-05-25
+Status: partially_fulfilled
+Currency: CAD
+
+Items:
+- GF-FENCE-WIRE-200 10 spool @ $139.39 (1,393.90)
+- GF-FENCE-TPOST-6 10 bundle @ $83.58 (835.80)
+
+Subtotal: $2,229.70
+Discount: $66.89
+Tax: $281.17
+Shipping: $0.00
+Total: $2,443.98

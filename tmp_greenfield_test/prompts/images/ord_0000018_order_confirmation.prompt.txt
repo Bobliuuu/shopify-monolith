@@ -1,0 +1,33 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create an ecommerce order confirmation page or email screenshot with totals and line items.
+
+Image condition:
+wrinkles, stains, pen marks, imperfect alignment
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+SHOP ORDER CONFIRMATION
+Order: ord_0000018
+Customer: Silver Creek Stables #2
+Date: 2026-06-10
+Status: closed
+Currency: CAD
+
+Items:
+- GF-SITE-TARP-1012 2 ea @ $17.79 (35.58)
+
+Subtotal: $35.58
+Discount: $1.07
+Tax: $9.04
+Shipping: $35.00
+Total: $78.55
+
+---END RAW CONTENT---

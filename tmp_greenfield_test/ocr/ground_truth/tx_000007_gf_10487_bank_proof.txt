@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Date posted: 2026-03-17
+Description: on account GreenScape Landscaping Inc. AUTH-823378
+Amount: +$1,016.77
+Memo: invoice GF-10487
+Status: posted

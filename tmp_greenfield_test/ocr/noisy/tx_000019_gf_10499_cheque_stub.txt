@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+ Customer: Stonebridge Estates Maintenance
+Cheque/ref: AUTH-923927
+Date: 2026-07-06
+lnvoice: GF-10499
+Amount: $1,374.33
+Notes: AP batch

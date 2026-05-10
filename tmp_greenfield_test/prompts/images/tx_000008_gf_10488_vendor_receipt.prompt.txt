@@ -1,0 +1,31 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create a crumpled thermal/vendor receipt or yard ticket photo with faded ink, wrinkled paper, and line-item purchase details.
+
+Image condition:
+slight skew, natural paper texture
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+County Hardware & Farm Supply
+RECEIPT / YARD TICKET #66570       2026-07-11
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+dusty straw bales                  15.4     bale       5.48      84.39
+handling / fuel / pallet fee        1        ea         25.00      25.00
+
+Subtotal: 109.39
+HST:      14.22
+TOTAL:    $123.61
+Paid by: EFT batch
+
+---END RAW CONTENT---

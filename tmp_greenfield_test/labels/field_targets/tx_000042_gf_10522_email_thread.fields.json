@@ -1,0 +1,94 @@
+{
+  "doc_id": "tx_000042_gf_10522_email_thread",
+  "doc_type": "email_thread",
+  "tx_id": "TX-000042",
+  "fields": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000042"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10522"
+    },
+    {
+      "type": "customer_name",
+      "text": "Oak Valley Dairy"
+    },
+    {
+      "type": "date",
+      "text": "2026-04-29"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-06-28"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-06-28"
+    },
+    {
+      "type": "total",
+      "text": "2,853.97",
+      "number": 2853.97
+    },
+    {
+      "type": "payment_ref",
+      "text": "AUTH-211834"
+    },
+    {
+      "type": "payment_method",
+      "text": "Interac"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FENCE-CHARGER-SOLAR",
+      "description": "Electric fence charger solar",
+      "messy_description": "solar zapper",
+      "qty": 4,
+      "unit": "ea",
+      "unit_price": 204.54,
+      "line_total": 818.16
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BED-SHAV-COMP",
+      "description": "Wood shavings compressed bale",
+      "messy_description": "wood shaving bale",
+      "qty": 40,
+      "unit": "bale",
+      "unit_price": 10.2,
+      "line_total": 408.0
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FEED-CHKN-LAYER20",
+      "description": "Chicken Feed Layer Pellets 20kg",
+      "messy_description": "chicken feed 20kg",
+      "qty": 20,
+      "unit": "bag",
+      "unit_price": 24.43,
+      "line_total": 488.6
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FENCE-TPOST-6",
+      "description": "T-posts 6ft green bundle of 10",
+      "messy_description": "posts 10 pack",
+      "qty": 8,
+      "unit": "bundle",
+      "unit_price": 86.36,
+      "line_total": 690.88
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "bulk dump delivery",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 120,
+      "line_total": 120
+    }
+  ]
+}

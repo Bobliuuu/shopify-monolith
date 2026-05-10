@@ -1,0 +1,7 @@
+INVENTORY ADJUSTMENT LOG
+Adjustment id: adj_0000004_gf_fert_start_122412
+SKU: GF-FERT-START-122412
+Location: LOC-KIT-STAGE
+Delta: -50
+Reason: order_fulfillment
+Timestamp: 2026-05-03

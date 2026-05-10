@@ -1,0 +1,13 @@
+Tri-County Feed Mill
+RECEIPT / YARD TICKET #87709       2026-09-29
+Sold to: GreenFieId Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+l0xl2 tarp                         20.4     ea        l0.6l     2l6.44
+handling / fuel / pallet fee        l        ea         l2.00      l2.00
+
+ Subtotal: 228.44
+HST:      29.70
+TOTAL:    $258.l4
+Paid by: account charge

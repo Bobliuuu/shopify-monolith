@@ -1,0 +1,26 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create a supplier purchase order form with vendor details and ordered SKUs.
+
+Image condition:
+wrinkles, stains, pen marks, imperfect alignment
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+SUPPLIER PURCHASE ORDER
+PO: po_000022
+Vendor: Fertilizer Depot Inc.
+Created: 2025-12-15
+Expected: 2026-01-05
+Status: received
+
+GF-FENCE-TPOST-6-V01 x 330 bundle @ $61.62
+
+---END RAW CONTENT---

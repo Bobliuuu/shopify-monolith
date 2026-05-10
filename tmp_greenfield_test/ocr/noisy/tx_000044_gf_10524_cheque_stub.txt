@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: Brampton Turf Solutions
+Cheque/ref: BRAMPT-0S24
+Date: 2026-0S-l8
+ Invoice: GF-l0S24
+Arnount: $207.92
+ Notes: hold receipt

@@ -1,0 +1,11 @@
+PACKING SLIP
+Fulfillment: ful_OOOOOO3
+Order: ord_OOOOOO3
+Customer: Silver Creek Stables #1
+Carrier: Fleet
+Tracking: TRK-OOOOOO3
+Fulfilled at: 2O26-12-O7
+
+GF-FENCE-CHARGER-SOLAR  qty=2  loc=LOC-KIT-STAGE
+GF-BED-STRAW-HORSE  qty=12  loc=LOC-KIT-STAGE
+GF-SITE-GLOVES-5O  qty=1  loc=LOC-KIT-STAGE

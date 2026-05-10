@@ -1,0 +1,104 @@
+{
+  "doc_id": "tx_000036_gf_10516_sms_thread",
+  "doc_type": "sms_thread",
+  "tx_id": "TX-000036",
+  "fields": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000036"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10516"
+    },
+    {
+      "type": "customer_name",
+      "text": "Riverbend Organics"
+    },
+    {
+      "type": "date",
+      "text": "2026-04-03"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-04-10"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-04-13"
+    },
+    {
+      "type": "total",
+      "text": "2,607.84",
+      "number": 2607.84
+    },
+    {
+      "type": "payment_ref",
+      "text": "RIVERB-0516"
+    },
+    {
+      "type": "payment_method",
+      "text": "EFT"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-CHEM-INSECT-ORCH",
+      "description": "Insecticide spray orchard grade",
+      "messy_description": "orchard spray",
+      "qty": 4,
+      "unit": "jug",
+      "unit_price": 81.34,
+      "line_total": 325.36
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-ALF-50",
+      "description": "Alfalfa seed coated 50lb sack",
+      "messy_description": "alfalfa 50#",
+      "qty": 1,
+      "unit": "sack",
+      "unit_price": 235.29,
+      "line_total": 235.29
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FERT-UREA-55",
+      "description": "Urea 46 granular - 55lb bags",
+      "messy_description": "Urea 55#",
+      "qty": 25,
+      "unit": "bag",
+      "unit_price": 36.05,
+      "line_total": 901.25
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-IRR-DRIP-100",
+      "description": "Drip line 1/2 poly 100ft roll",
+      "messy_description": "irrigation drip roll",
+      "qty": 8,
+      "unit": "roll",
+      "unit_price": 51.78,
+      "line_total": 414.24
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-GRASS-CON25",
+      "description": "Grass Seed Mix - Contractor Blend 25kg",
+      "messy_description": "seed mix 25kg",
+      "qty": 4,
+      "unit": "bag",
+      "unit_price": 89.17,
+      "line_total": 356.68
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "delivery charge",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 75,
+      "line_total": 75
+    }
+  ]
+}

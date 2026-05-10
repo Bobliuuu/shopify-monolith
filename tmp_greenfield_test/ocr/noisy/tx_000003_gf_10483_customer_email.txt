@@ -1,0 +1,14 @@
+From: accounts@mapleridgefarms.example
+To: orders@greenfieldsupply.example
+Subject: order for 2026-12-05
+
+hey,
+
+can you get us Urea 55#, ag lime load for 2026-12-05?
+we may pay half now and half after delivery
+
+ship/deliver to Fergus if possible.
+
+thanks,
+Jeff
+Maple Ridge Farms Ltd.

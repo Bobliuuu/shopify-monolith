@@ -1,0 +1,86 @@
+{
+  "doc_id": "tx_000002_gf_10482_bank_proof",
+  "doc_type": "bank_proof",
+  "raw_text_path": "raw/artifacts/tx_000002_gf_10482_bank_proof.txt",
+  "image_path": "images/tx_000002_gf_10482_bank_proof.png",
+  "entities": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000002"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10482"
+    },
+    {
+      "type": "customer_name",
+      "text": "Oak Valley Dairy"
+    },
+    {
+      "type": "date",
+      "text": "2026-04-21"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-06-20"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-06-04"
+    },
+    {
+      "type": "total",
+      "text": "1,378.92",
+      "number": 1378.92
+    },
+    {
+      "type": "payment_ref",
+      "text": "AUTH-748564"
+    },
+    {
+      "type": "payment_method",
+      "text": "on account"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FEED-DAIRY4-BULK",
+      "description": "Dairy ration mix #4 (bulk auger fill)",
+      "messy_description": "ration mix 4",
+      "qty": 1.5,
+      "unit": "ton",
+      "unit_price": 484.43,
+      "line_total": 726.64
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FENCE-TPOST-6",
+      "description": "T-posts 6ft green bundle of 10",
+      "messy_description": "6ft green t posts",
+      "qty": 6,
+      "unit": "bundle",
+      "unit_price": 76.44,
+      "line_total": 458.64
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "delivery charge",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 75,
+      "line_total": 75
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DISCOUNT",
+      "description": "Account discount / price adjustment",
+      "messy_description": "acct discount",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": -40,
+      "line_total": -40
+    }
+  ],
+  "bbox_status": "populate_after_real_ocr"
+}

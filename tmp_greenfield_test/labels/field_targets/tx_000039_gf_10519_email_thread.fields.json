@@ -1,0 +1,114 @@
+{
+  "doc_id": "tx_000039_gf_10519_email_thread",
+  "doc_type": "email_thread",
+  "tx_id": "TX-000039",
+  "fields": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000039"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10519"
+    },
+    {
+      "type": "customer_name",
+      "text": "HighPoint Property Services"
+    },
+    {
+      "type": "date",
+      "text": "2026-10-10"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-10-17"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-10-23"
+    },
+    {
+      "type": "total",
+      "text": "3,035.78",
+      "number": 3035.78
+    },
+    {
+      "type": "payment_ref",
+      "text": "HIGHPO-0519"
+    },
+    {
+      "type": "payment_method",
+      "text": "EFT"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BULK-GRAVEL-34",
+      "description": "Gravel 3/4 clear stone per ton",
+      "messy_description": "clear stone",
+      "qty": 4.5,
+      "unit": "ton",
+      "unit_price": 40.41,
+      "line_total": 181.84
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-IRR-DRIP-100",
+      "description": "Drip line 1/2 poly 100ft roll",
+      "messy_description": "half inch poly",
+      "qty": 1,
+      "unit": "roll",
+      "unit_price": 46.42,
+      "line_total": 46.42
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-TURF-10",
+      "description": "Grass seed premium turf mix 10lb",
+      "messy_description": "grass seed prem",
+      "qty": 25,
+      "unit": "bag",
+      "unit_price": 31.17,
+      "line_total": 779.25
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEASON-PETMELT",
+      "description": "Ice Melt Premium (pet safe)",
+      "messy_description": "premium ice melt",
+      "qty": 80,
+      "unit": "bag",
+      "unit_price": 20.29,
+      "line_total": 1623.2
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BULK-SAND-MASON",
+      "description": "Sand - masonry (washed) yard",
+      "messy_description": "sand yard",
+      "qty": 1,
+      "unit": "yd",
+      "unit_price": 35.82,
+      "line_total": 35.82
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "delivery charge",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 75,
+      "line_total": 75
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DISCOUNT",
+      "description": "Account discount / price adjustment",
+      "messy_description": "acct discount",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": -55,
+      "line_total": -55
+    }
+  ]
+}

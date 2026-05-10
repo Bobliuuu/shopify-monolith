@@ -1,0 +1,94 @@
+{
+  "doc_id": "tx_000003_gf_10483_email_thread",
+  "doc_type": "email_thread",
+  "tx_id": "TX-000003",
+  "fields": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000003"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10483"
+    },
+    {
+      "type": "customer_name",
+      "text": "Maple Ridge Farms Ltd."
+    },
+    {
+      "type": "date",
+      "text": "2026-12-05"
+    },
+    {
+      "type": "due_date",
+      "text": "2027-01-04"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-12-20"
+    },
+    {
+      "type": "total",
+      "text": "4,394.10",
+      "number": 4394.1
+    },
+    {
+      "type": "payment_ref",
+      "text": "CHK-4598"
+    },
+    {
+      "type": "payment_method",
+      "text": "cheque"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FERT-UREA-55",
+      "description": "Urea 46 granular - 55lb bags",
+      "messy_description": "Urea 55#",
+      "qty": 12,
+      "unit": "bag",
+      "unit_price": 34.56,
+      "line_total": 414.72
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-LIME-AG-LOAD",
+      "description": "Lime - ag grade (dump trailer load)",
+      "messy_description": "ag lime load",
+      "qty": 1,
+      "unit": "load",
+      "unit_price": 532.78,
+      "line_total": 532.78
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-IRR-HOSE-34",
+      "description": "Water hose heavy duty 3/4",
+      "messy_description": "water hose hd",
+      "qty": 8,
+      "unit": "roll",
+      "unit_price": 61.96,
+      "line_total": 495.68
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-TURF-10",
+      "description": "Grass seed premium turf mix 10lb",
+      "messy_description": "grass seed prem",
+      "qty": 80,
+      "unit": "bag",
+      "unit_price": 29.38,
+      "line_total": 2350.4
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "bulk dump delivery",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 95,
+      "line_total": 95
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create a crumpled thermal/vendor receipt or yard ticket photo with faded ink, wrinkled paper, and line-item purchase details.
+
+Image condition:
+mostly readable, mild desk shadow
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+Ontario Seed & Turf Wholesale
+RECEIPT / YARD TICKET #72635       2026-06-09
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+10x12 tarp                         6.9      ea        11.19      77.21
+handling / fuel / pallet fee        1        ea         45.00      45.00
+
+Subtotal: 122.21
+HST:      15.89
+TOTAL:    $138.10
+Paid by: Visa ending 4102
+
+---END RAW CONTENT---

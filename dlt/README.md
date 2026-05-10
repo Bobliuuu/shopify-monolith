@@ -1,44 +1,43 @@
 # Data Load Tool (DLT) Pipeline
 
-This repo contains **DLT-based pipelines** that extract data from APIs and loads it into a local Postgres database.
+DLT pipelines load API data into the **monolith DuckDB** at the repository root: **`data.duckdb`**.
 
-Each pipeline handles:
-- API authentication
-- Data extraction via DLT sources
-- Loading into Postgres using inferred schemas
+Each pipeline uses:
+
+- API authentication via environment variables (see `env.example`)
+- Source definitions under `sources/`
+- Dataset names map to **DuckDB schemas**: `shopify`, `stripe`, etc.
 
 ---
 
 ## Running Pipelines
 
-To run a pipeline, execute the corresponding file in the `pipelines/` directory.
+Run from the `dlt/` directory so imports resolve (`python -m pipelines.<module>`).
 
 ### Shopify
 
 **Command:**  
 `python -m pipelines.run_shopify_pipeline`
 
-**Expected Tables:**
-- `shopify_data__shopify_products`
-- `shopify_data__shopify_orders`
-- `shopify_data__shopify_customers`
+**Destination:** `../data.duckdb`  
+**Schema:** `shopify`  
+**Tables:** `shopify_products` (and additional resources as you extend the source)
 
 ### Stripe
 
 **Command:**  
-`python -m pipelines.run_stripe_pipeline.py`
+`python -m pipelines.run_stripe_pipeline`
 
-**Expected Tables:**
-- `stripe_data__stripe_customers`
-- `stripe_data__stripe_charges`
-- `stripe_data__stripe_invoices`
+**Destination:** `../data.duckdb`  
+**Schema:** `stripe`  
+**Tables:** `stripe_customers`, `stripe_charges`, `stripe_invoices`
 
 ---
 
 ## Project Structure
 
 ```
-├── pipelines/ # Entry points for each integration
-├── sources/ # DLT source definitions per API
-├── .env / env.example # Environment variable config
+├── pipelines/      # Entry points per integration
+├── sources/        # DLT source definitions
+├── env.example     # Environment variable template
 ```

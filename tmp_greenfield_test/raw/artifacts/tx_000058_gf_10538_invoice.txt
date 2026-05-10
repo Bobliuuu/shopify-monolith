@@ -1,0 +1,27 @@
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10538          Date: 2026-09-19
+Due: 2026-10-19                Terms: Net 30
+PO: n/a / txt order
+
+BILL TO:
+GreenScape Landscaping Inc.
+Mississauga, ON
+Attn: Kyle Park
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-SITE-GLOVES-50    gloves 50 pack                         8       case       60.09     480.72
+GF-IRR-DRIP-100      drip line 100ft                        10      roll       44.96     449.60
+GF-SITE-TARP-1012    blue tarp                              2       ea         16.18      32.36
+SERV-DELIVERY        bulk dump delivery                     1       ea         75.00      75.00
+
+Subtotal:      1,037.68
+HST 13%:       134.90
+TOTAL DUE:    $1,172.58
+
+Payment method expected: on account
+Payment ref: AUTH-618119
+PEN NOTE: missing PO, call office

@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Date posted: 2026-04-15
+Description: EFT Silver Creek Stables SILVER-0489
+Arnount: +$715.79
+Memo: invoice GF-10489
+Status: posted

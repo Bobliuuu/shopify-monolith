@@ -1,0 +1,16 @@
+SHOP ORDER CONFIRMATION
+Order: ord_OOOOOO8
+Customer: Stonebridge Estates Maintenance #l
+Date: 2O26-O7-ll
+Status: open
+Currency: CAD
+
+Items:
+- GF-SOIL-TOP-PREM l.S yd  at  $SO.l9 (7S.28)
+- GF-IRR-DRIP-lOO 8 roll  at  $47.S2 (38O.l6)
+
+Subtotal: $4SS.44
+Discount: $O.OO
+Tax: $62.46
+Shipping: $2S.OO
+Total: $S42.9O

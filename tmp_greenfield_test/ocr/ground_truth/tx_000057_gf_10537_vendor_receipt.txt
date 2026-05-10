@@ -1,0 +1,13 @@
+Waterloo Farm Hardware
+RECEIPT / YARD TICKET #30837       2026-02-28
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+12-24-12 starter                   39.6     bag       32.95   1,304.82
+handling / fuel / pallet fee        1        ea         45.00      45.00
+
+Subtotal: 1,349.82
+HST:      175.48
+TOTAL:    $1,525.30
+Paid by: Visa ending 4102

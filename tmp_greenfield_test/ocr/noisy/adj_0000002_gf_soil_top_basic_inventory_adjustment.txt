@@ -1,0 +1,7 @@
+INVENTORY ADJUSTMENT LOG
+Adjustment id: adj_0000002_gf_soil_top_basic
+SKU: GF-SOIL-TOP-BASIC
+Location: LOC-GUELPH-WH
+Delta: -l2
+Reason: order_fulfillment
+Timestamp: 2026-04-23

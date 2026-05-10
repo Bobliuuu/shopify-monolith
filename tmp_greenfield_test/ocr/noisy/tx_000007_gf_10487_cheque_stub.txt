@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: GreenScape Landscaping Inc.
+Cheque/ref: AUTH-823378
+Date: 2O26-O3-l7
+lnvoice: GF-lO487
+Arnount: $l,Ol6.77
+Notes: less credit from last order

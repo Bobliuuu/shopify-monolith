@@ -1,0 +1,13 @@
+Wellington Aggregates Yard Ticket
+RECEIPT / YARD TICKET #43187       2026-04-10
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+3/4 hose                           30.3     roll      55.41   1,678.92
+handling / fuel / pallet fee        1        ea         45.00      45.00
+
+Subtotal: 1,723.92
+HST:      224.11
+TOTAL:    $1,948.03
+Paid by: EFT batch

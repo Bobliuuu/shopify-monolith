@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****ll82
+Date posted: 2026-02-23
+Description: Visa Oak Valley Dairy AUTH-l4547l
+Amount: +$l,434.3l
+ Memo: invoice GF-l0530
+Status: posted

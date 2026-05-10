@@ -1,0 +1,106 @@
+{
+  "doc_id": "tx_000008_gf_10488_invoice",
+  "doc_type": "invoice",
+  "raw_text_path": "raw/artifacts/tx_000008_gf_10488_invoice.txt",
+  "image_path": null,
+  "entities": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000008"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10488"
+    },
+    {
+      "type": "customer_name",
+      "text": "Elm Lane Poultry"
+    },
+    {
+      "type": "date",
+      "text": "2026-07-11"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-08-10"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-08-09"
+    },
+    {
+      "type": "total",
+      "text": "1,847.12",
+      "number": 1847.12
+    },
+    {
+      "type": "payment_ref",
+      "text": "AUTH-704201"
+    },
+    {
+      "type": "payment_method",
+      "text": "Visa"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FEED-DAIRY4-BULK",
+      "description": "Dairy ration mix #4 (bulk auger fill)",
+      "messy_description": "dairy #4",
+      "qty": 1,
+      "unit": "ton",
+      "unit_price": 504.74,
+      "line_total": 504.74
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BED-STRAW-HORSE",
+      "description": "Straw Bale (clean, horse grade)",
+      "messy_description": "horse straw",
+      "qty": 50,
+      "unit": "bale",
+      "unit_price": 7.92,
+      "line_total": 396.0
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SITE-GLOVES-50",
+      "description": "Work gloves (bulk pack 50)",
+      "messy_description": "gloves bulk",
+      "qty": 8,
+      "unit": "case",
+      "unit_price": 56.85,
+      "line_total": 454.8
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FEED-CHKN-LAYER20",
+      "description": "Chicken Feed Layer Pellets 20kg",
+      "messy_description": "chicken feed 20kg",
+      "qty": 6,
+      "unit": "bag",
+      "unit_price": 24.1,
+      "line_total": 144.6
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BED-STRAW-DUSTY",
+      "description": "Straw bales (small square, dusty)",
+      "messy_description": "dusty straw bales",
+      "qty": 6,
+      "unit": "bale",
+      "unit_price": 6.58,
+      "line_total": 39.48
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "bulk dump delivery",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 95,
+      "line_total": 95
+    }
+  ],
+  "bbox_status": "populate_after_real_ocr"
+}

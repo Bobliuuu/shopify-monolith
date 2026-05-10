@@ -1,0 +1,10 @@
+PACKING SLIP
+Fulfillment: ful_0000004
+Order: ord_0000004
+Customer: Riverbend Organics #1
+Carrier: Fleet
+Tracking: TRK-0000004
+Fulfilled at: 2026-05-03
+
+GF-FERT-START-122412  qty=50  loc=LOC-KIT-STAGE
+GF-IRR-DRIP-100  qty=2  loc=LOC-KIT-STAGE

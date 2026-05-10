@@ -1,0 +1,86 @@
+{
+  "doc_id": "tx_000054_gf_10534_sms_thread",
+  "doc_type": "sms_thread",
+  "raw_text_path": "raw/artifacts/tx_000054_gf_10534_sms_thread.txt",
+  "image_path": "images/tx_000054_gf_10534_sms_thread.png",
+  "entities": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000054"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10534"
+    },
+    {
+      "type": "customer_name",
+      "text": "Stonebridge Estates Maintenance"
+    },
+    {
+      "type": "date",
+      "text": "2026-05-17"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-06-16"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-05-19"
+    },
+    {
+      "type": "total",
+      "text": "834.03",
+      "number": 834.03
+    },
+    {
+      "type": "payment_ref",
+      "text": "STONEB-0534"
+    },
+    {
+      "type": "payment_method",
+      "text": "e-transfer"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-ALF-50",
+      "description": "Alfalfa seed coated 50lb sack",
+      "messy_description": "alfalfa coated",
+      "qty": 3,
+      "unit": "sack",
+      "unit_price": 215.32,
+      "line_total": 645.96
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEASON-PETMELT",
+      "description": "Ice Melt Premium (pet safe)",
+      "messy_description": "premium ice melt",
+      "qty": 8,
+      "unit": "bag",
+      "unit_price": 18.91,
+      "line_total": 151.28
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SITE-TARP-1012",
+      "description": "Blue tarp 10x12 (heavy duty-ish)",
+      "messy_description": "hd-ish tarp",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 15.84,
+      "line_total": 15.84
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DISCOUNT",
+      "description": "Account discount / price adjustment",
+      "messy_description": "acct discount",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": -75,
+      "line_total": -75
+    }
+  ],
+  "bbox_status": "populate_after_real_ocr"
+}

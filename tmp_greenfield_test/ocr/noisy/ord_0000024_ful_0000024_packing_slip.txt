@@ -1,0 +1,10 @@
+PACKING SLIP
+ Fulfillment: ful_0000024
+Order: ord_0000024
+Customer: Elm Lane Poultry #2
+Carrier: Purolator
+Tracking: TRK-0000024
+ Fulfilled at: 2026-03-28
+
+GF-FENCE-WIRE-200  qty=3  loc=LOC-KIT-STAGE
+GF-SITE-GLOVES-50  qty=3  loc=LOC-KIT-STAGE

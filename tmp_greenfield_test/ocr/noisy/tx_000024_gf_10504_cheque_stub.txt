@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: Silver Creek Stables
+Cheque/ref: CHK-6S29
+Date: 2026-04-2S
+Invoice: GF-l0S04
+Amount: $S6l.28
+Notes: paid in full

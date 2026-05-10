@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****1182
+Date posted: 2026-03-31
+Description: cheque GreenScape Landscaping Inc. CHK-9201
+Amount: +$2,587.94
+Memo: invoice GF-10485
+Status: posted

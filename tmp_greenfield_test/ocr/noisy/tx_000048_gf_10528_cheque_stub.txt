@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: UrbanRoot Gardens Co.
+Cheque/ref: AUTH-77O556
+Date: 2O26-11-19
+lnvoice: GF-1O528
+Arnount: $2,118.89
+Notes: less credit from last order

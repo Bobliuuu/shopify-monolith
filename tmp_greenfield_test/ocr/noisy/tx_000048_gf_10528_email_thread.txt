@@ -1,0 +1,14 @@
+EMAIL THREAD EXPORT
+
+From: priya at urbanroot.example
+To: orders at greenfieldsupply.example
+Subject: Re: GF-lOS28
+
+ Customer:
+Can you resend the invoice? AP says they need the ref again.
+
+GreenField:
+Attached invoice GF-lOS28. Total is $2,ll8.89. Payment ref AUTH-77OSS6.
+
+Customer:
+ok thanks. should go out 2O26-ll-l9.

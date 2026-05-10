@@ -1,0 +1,6 @@
+CHEQUE STUB / REMITTANCE
+Customer: GreenScape Landscaping Inc.
+Cheque/ref: AUTH-389688
+ Date: 2O26-O6-21
+Invoice: GF-1O5O8
+Notes: AP batch

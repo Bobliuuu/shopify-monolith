@@ -1,0 +1,43 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create a realistic photographed paper invoice with itemized table, HST, total, account terms, and handwritten circle around total.
+
+Image condition:
+slightly cropped edge, strong side shadow
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10515          Date: 2026-06-15
+Due: 2026-07-15                Terms: Net 30
+PO: n/a / txt order
+
+BILL TO:
+Stonebridge Estates Maintenance
+Burlington, ON
+Attn: Laura Chen
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-SOIL-TOP-BASIC    fill dirt                              10      yd         29.97     299.70
+GF-SEED-TURF-10      grass seed prem                        50      bag        34.37   1,718.50
+
+Subtotal:      2,018.20
+HST 13%:       262.37
+TOTAL DUE:    $2,280.57
+
+Payment method expected: e-transfer
+Payment ref: STONEB-0515
+PEN NOTE: missing PO, call office
+
+---END RAW CONTENT---

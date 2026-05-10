@@ -1,0 +1,96 @@
+{
+  "doc_id": "tx_000052_gf_10532_handwritten_note",
+  "doc_type": "handwritten_note",
+  "raw_text_path": "raw/artifacts/tx_000052_gf_10532_handwritten_note.txt",
+  "image_path": "images/tx_000052_gf_10532_handwritten_note.png",
+  "entities": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000052"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10532"
+    },
+    {
+      "type": "customer_name",
+      "text": "Silver Creek Stables"
+    },
+    {
+      "type": "date",
+      "text": "2026-08-01"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-08-31"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-08-08"
+    },
+    {
+      "type": "total",
+      "text": "721.71",
+      "number": 721.71
+    },
+    {
+      "type": "payment_ref",
+      "text": "AUTH-886730"
+    },
+    {
+      "type": "payment_method",
+      "text": "on account"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FENCE-TPOST-6",
+      "description": "T-posts 6ft green bundle of 10",
+      "messy_description": "T post bundle",
+      "qty": 2,
+      "unit": "bundle",
+      "unit_price": 82.45,
+      "line_total": 164.9
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FENCE-WIRE-200",
+      "description": "Fence wire galvanized 200m spool",
+      "messy_description": "galv fence wire",
+      "qty": 1,
+      "unit": "spool",
+      "unit_price": 120.8,
+      "line_total": 120.8
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BED-SHAV-COMP",
+      "description": "Wood shavings compressed bale",
+      "messy_description": "horse shavings",
+      "qty": 6,
+      "unit": "bale",
+      "unit_price": 10.73,
+      "line_total": 64.38
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-BED-STRAW-DUSTY",
+      "description": "Straw bales (small square, dusty)",
+      "messy_description": "cheap straw",
+      "qty": 20,
+      "unit": "bale",
+      "unit_price": 6.93,
+      "line_total": 138.6
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "delivery - truck",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 150,
+      "line_total": 150
+    }
+  ],
+  "bbox_status": "populate_after_real_ocr"
+}

@@ -1,0 +1,8 @@
+SUPPLIER PURCHASE ORDER
+ PO: po_OOOOO2
+Vendor: Fertilizer Depot Inc.
+Created: 2O25-l2-l5
+Expected: 2O26-Ol-O5
+Status: received
+
+GF-FERT-UREA-55-VOl x 68 bag  at  $26.9l

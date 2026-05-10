@@ -1,0 +1,104 @@
+{
+  "doc_id": "tx_000051_gf_10531_sms_thread",
+  "doc_type": "sms_thread",
+  "tx_id": "TX-000051",
+  "fields": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000051"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10531"
+    },
+    {
+      "type": "customer_name",
+      "text": "Maple Ridge Farms Ltd."
+    },
+    {
+      "type": "date",
+      "text": "2026-02-01"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-03-03"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-03-04"
+    },
+    {
+      "type": "total",
+      "text": "2,551.96",
+      "number": 2551.96
+    },
+    {
+      "type": "payment_ref",
+      "text": "MAPLER-0531"
+    },
+    {
+      "type": "payment_method",
+      "text": "e-transfer"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-TURF-10",
+      "description": "Grass seed premium turf mix 10lb",
+      "messy_description": "turf mix",
+      "qty": 6,
+      "unit": "bag",
+      "unit_price": 34.08,
+      "line_total": 204.48
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-CHEM-INSECT-ORCH",
+      "description": "Insecticide spray orchard grade",
+      "messy_description": "orchard insecticide",
+      "qty": 6,
+      "unit": "jug",
+      "unit_price": 78.58,
+      "line_total": 471.48
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FERT-UREA-55",
+      "description": "Urea 46 granular - 55lb bags",
+      "messy_description": "Urea 55#",
+      "qty": 12,
+      "unit": "bag",
+      "unit_price": 35.62,
+      "line_total": 427.44
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SEED-ALF-50",
+      "description": "Alfalfa seed coated 50lb sack",
+      "messy_description": "coated alf seed",
+      "qty": 4,
+      "unit": "sack",
+      "unit_price": 240.69,
+      "line_total": 962.76
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-CHEM-WEED-GEN",
+      "description": "Weed killer concentrate (generic)",
+      "messy_description": "weed concentrate",
+      "qty": 3,
+      "unit": "jug",
+      "unit_price": 39.07,
+      "line_total": 117.21
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "bulk dump delivery",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 75,
+      "line_total": 75
+    }
+  ]
+}

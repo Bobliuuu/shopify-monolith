@@ -1,0 +1,14 @@
+EMAIL THREAD EXPORT
+
+From: kyle@greenscapelandscaping.example
+To: orders@greenfieldsupply.example
+Subject: Re: GF-10508
+
+Customer:
+Can you resend the invoice? AP says they need the ref again.
+
+GreenField:
+Attached invoice GF-10508. Total is $691.88. Payment ref AUTH-389688.
+
+Customer:
+ok thanks. should go out 2026-06-21.

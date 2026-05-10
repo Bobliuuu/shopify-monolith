@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****ll82
+Date posted: 2026-0l-l3
+Description: EFT ClearPath Utilities CLEARP-0495
+Arnount: +$34l.47
+Memo: invoice GF-l0495
+Status: posted

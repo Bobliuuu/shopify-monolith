@@ -1,0 +1,32 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create a realistic email thread screenshot showing multiple messages and references to invoice/payment.
+
+Image condition:
+slight skew, natural paper texture
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+EMAIL THREAD EXPORT
+
+From: office@elmlanepoultry.example
+To: orders@greenfieldsupply.example
+Subject: Re: GF-10488
+
+Customer:
+Can you resend the invoice? AP says they need the ref again.
+
+GreenField:
+Attached invoice GF-10488. Total is $1,847.12. Payment ref AUTH-704201.
+
+Customer:
+ok thanks. should go out 2026-08-09.
+
+---END RAW CONTENT---

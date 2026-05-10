@@ -1,0 +1,86 @@
+{
+  "doc_id": "tx_000050_gf_10530_email_thread",
+  "doc_type": "email_thread",
+  "raw_text_path": "raw/artifacts/tx_000050_gf_10530_email_thread.txt",
+  "image_path": null,
+  "entities": [
+    {
+      "type": "transaction_id",
+      "text": "TX-000050"
+    },
+    {
+      "type": "invoice_number",
+      "text": "GF-10530"
+    },
+    {
+      "type": "customer_name",
+      "text": "Oak Valley Dairy"
+    },
+    {
+      "type": "date",
+      "text": "2026-01-08"
+    },
+    {
+      "type": "due_date",
+      "text": "2026-03-09"
+    },
+    {
+      "type": "paid_date",
+      "text": "2026-02-23"
+    },
+    {
+      "type": "total",
+      "text": "1,434.31",
+      "number": 1434.31
+    },
+    {
+      "type": "payment_ref",
+      "text": "AUTH-145471"
+    },
+    {
+      "type": "payment_method",
+      "text": "Visa"
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-SITE-TARP-1012",
+      "description": "Blue tarp 10x12 (heavy duty-ish)",
+      "messy_description": "blue tarp",
+      "qty": 2,
+      "unit": "ea",
+      "unit_price": 16.21,
+      "line_total": 32.42
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FENCE-WIRE-200",
+      "description": "Fence wire galvanized 200m spool",
+      "messy_description": "galv fence wire",
+      "qty": 8,
+      "unit": "spool",
+      "unit_price": 128.45,
+      "line_total": 1027.6
+    },
+    {
+      "type": "line_item",
+      "sku": "GF-FEED-CHKN-LAYER20",
+      "description": "Chicken Feed Layer Pellets 20kg",
+      "messy_description": "chicken feed 20kg",
+      "qty": 6,
+      "unit": "bag",
+      "unit_price": 22.38,
+      "line_total": 134.28
+    },
+    {
+      "type": "line_item",
+      "sku": "SERV-DELIVERY",
+      "description": "Delivery / truck run",
+      "messy_description": "delivery charge",
+      "qty": 1,
+      "unit": "ea",
+      "unit_price": 75,
+      "line_total": 75
+    }
+  ],
+  "bbox_status": "populate_after_real_ocr"
+}

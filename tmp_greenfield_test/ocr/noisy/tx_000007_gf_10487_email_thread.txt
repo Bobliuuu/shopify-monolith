@@ -1,0 +1,12 @@
+EMAIL THREAD EXPORT
+
+From: kyle at greenscapelandscaping.example
+To: orders at greenfieldsupply.example
+Subject: Re: GF-l0487
+
+Customer:
+Can you resend the invoice? AP says they need the ref again.
+
+GreenField:
+Customer:
+ok thanks. should go out 2026-03-l7.

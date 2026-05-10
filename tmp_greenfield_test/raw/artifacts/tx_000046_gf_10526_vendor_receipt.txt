@@ -1,0 +1,13 @@
+Waterloo Farm Hardware
+RECEIPT / YARD TICKET #73033       2026-07-08
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+top soil premium                   25.9     yd        34.84     902.36
+handling / fuel / pallet fee        1        ea         18.00      18.00
+
+Subtotal: 920.36
+HST:      119.65
+TOTAL:    $1,040.01
+Paid by: account charge

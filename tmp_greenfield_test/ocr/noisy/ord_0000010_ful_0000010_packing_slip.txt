@@ -1,0 +1,11 @@
+PACKING SLIP
+Order: ord_0000010
+Customer: UrbanRoot Gardens Co. #2
+Carrier: Purolator
+Tracking: TRK-0000010
+Fulfilled at: 2026-08-10
+
+GF-SOIL-TOP-BASIC  qty=6  loc=LOC-KIT-STAGE
+GF-SITE-TARP-1012  qty=6  loc=LOC-KIT-STAGE
+ GF-BULK-SAND-MASON  qty=12  loc=LOC-KIT-STAGE
+GF-SEED-ALF-50  qty=4  loc=LOC-KIT-STAGE

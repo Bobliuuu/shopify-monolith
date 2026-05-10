@@ -1,0 +1,15 @@
+SHOP ORDER CONFIRMATION
+ Customer: Maple Ridge Farms Ltd. #2
+Date: 2O26-O6-O6
+Status: open
+ Currency: CAD
+
+Items:
+- GF-CHEM-GLY-4L 2 jug @ $75.58 (l5l.l6)
+ - GF-IRR-DRIP-lOO 2 roll @ $5l.9l (lO3.82)
+- GF-CHEM-INSECT-ORCH 8 jug @ $89.69 (7l7.52)
+
+Subtotal: $972.5O
+Discount: $O.OO
+Tax: $l29.68
+Shipping: $25.OO

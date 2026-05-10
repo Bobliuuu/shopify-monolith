@@ -1,0 +1,8 @@
+{
+  "doc_id": "batch_0001_bank_csv",
+  "doc_type": "bank_csv",
+  "raw_text_path": "raw/artifacts/batch_0001_bank_csv.csv",
+  "image_path": null,
+  "entities": [],
+  "bbox_status": "populate_after_real_ocr"
+}

@@ -1,0 +1,6 @@
+CHEQUE STUB / REMITTANCE
+Cheque/ref: NORTHL-0S29
+Date: 2026-04-l2
+lnvoice: GF-l0S29
+Arnount: $48S.26
+ Notes: hold receipt

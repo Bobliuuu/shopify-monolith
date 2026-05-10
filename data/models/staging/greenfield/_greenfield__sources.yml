@@ -1,0 +1,18 @@
+version: 2
+
+sources:
+  - name: greenfield_raw
+    description: Greenfield synthetic corpus ingested into DuckDB (see repo ``greenfield/`` package).
+    schema: greenfield
+    tables:
+      - name: retail_orders
+        description: Ground-truth orders from raw/retail/orders.jsonl
+      - name: retail_products
+      - name: retail_customers
+      - name: retail_payment_transactions
+      - name: extracted_orders
+        description: DocAI-derived Shopify-shaped orders
+      - name: extracted_line_items
+      - name: extracted_products
+      - name: documents
+      - name: shopify_id_mapping

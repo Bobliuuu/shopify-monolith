@@ -1,0 +1,13 @@
+Fertilizer Depot Inc.
+RECEIPT / YARD TICKET #9l77l       2O26-ll-l2
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+clear stone                        5.7      ton       4O.l6     228.9l
+handling / fuel / pallet fee        l        ea         6O.OO      6O.OO
+
+Subtotal: 288.9l
+HST:      37.56
+TOTAL:    $326.47
+ Paid by: Interac

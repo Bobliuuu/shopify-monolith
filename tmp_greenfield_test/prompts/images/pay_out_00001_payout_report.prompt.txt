@@ -1,0 +1,25 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create a payout summary report table showing gross, fees, and net settlement.
+
+Image condition:
+wrinkles, stains, pen marks, imperfect alignment
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+SHOPIFY PAYOUT REPORT
+Payout id: pay_out_00001
+Payout date: 2026-10-14
+Gross: $69,255.34
+Fees: $1,592.87
+Net: $67,662.47
+Transactions: 30
+
+---END RAW CONTENT---

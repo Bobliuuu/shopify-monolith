@@ -1,0 +1,46 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create a realistic photographed paper invoice with itemized table, HST, total, account terms, and handwritten circle around total.
+
+Image condition:
+mostly readable, mild desk shadow
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+GreenField Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (519) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10535          Date: 2026-06-09
+Due: 2026-06-16                Terms: Due on receipt
+PO: PO-6909
+
+BILL TO:
+HighPoint Property Services
+Cambridge, ON
+Attn: Jason Reid
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-SITE-GLOVES-50    gloves 50 pack                         1       case       52.14      52.14
+GF-BULK-SAND-MASON   washed sand                            1       yd         39.57      39.57
+GF-SITE-TARP-1012    10x12 tarp                             4       ea         17.41      69.64
+GF-SOIL-TOP-BASIC    cheap top soil                         8       yd         27.99     223.92
+SERV-DELIVERY        local run                              1       ea         75.00      75.00
+
+Subtotal:      460.27
+HST 13%:       59.84
+TOTAL DUE:    $520.11
+
+Payment method expected: cheque
+Payment ref: CHK-8972
+PEN NOTE: crossed out old total, total circled
+
+---END RAW CONTENT---

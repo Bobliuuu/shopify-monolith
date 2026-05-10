@@ -1,0 +1,8 @@
+Mobile banking transaction detail
+
+Account: Business Chequing ****ll82
+Date posted: 2O26-O3-O4
+Description: e-transfer Maple Ridge Farms Ltd. MAPLER-O53l
+Arnount: +$2,55l.96
+Memo: invoice GF-lO53l
+Status: posted

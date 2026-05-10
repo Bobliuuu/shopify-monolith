@@ -1,0 +1,13 @@
+Fertilizer Depot Inc.
+RECEIPT / YARD TICKET #2088l       2026-0l-28
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+ration mix 4                       8.3      ton      34l.07   2,830.88
+handling / fuel / pallet fee        l        ea         25.00      25.00
+
+Subtotal: 2,855.88
+HST:      37l.26
+ TOTAL:    $3227.l4
+Paid by: Interac

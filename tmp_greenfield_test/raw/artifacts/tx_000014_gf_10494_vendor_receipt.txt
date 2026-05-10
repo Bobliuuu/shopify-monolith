@@ -1,0 +1,13 @@
+County Hardware & Farm Supply
+RECEIPT / YARD TICKET #63420       2026-05-25
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+lime dump trailer                  3.5      load     455.22   1,593.27
+handling / fuel / pallet fee        1        ea         12.00      12.00
+
+Subtotal: 1,605.27
+HST:      208.69
+TOTAL:    $1,813.96
+Paid by: Interac

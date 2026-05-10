@@ -1,0 +1,13 @@
+GREENFIELD FARM & SITE SUPPLY       DELIVERY TICKET #89118
+Date: 2026-03-06
+Customer: NorthLine Contracting
+Location: Kitchener, ON
+Driver: Mike
+
+QTY      UNIT   DESCRIPTION
+-----------------------------------------
+8        yd     basic fill
+4        ton    crush run
+
+Notes: Road muddy, use side lane
+Received by: ____________________

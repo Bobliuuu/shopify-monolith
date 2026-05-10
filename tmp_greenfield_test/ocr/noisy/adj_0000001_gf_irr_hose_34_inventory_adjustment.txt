@@ -1,0 +1,7 @@
+INVENTORY ADJUSTMENT LOG
+Adjustment id: adj_OOOOOOl_gf_irr_hose_34
+SKU: GF-IRR-HOSE-34
+Location: LOC-KIT-STAGE
+Delta: -l
+Reason: order_fulfillment
+Timestamp: 2O26-O2-27

@@ -1,0 +1,34 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create an ecommerce order confirmation page or email screenshot with totals and line items.
+
+Image condition:
+slight skew, natural paper texture
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+SHOP ORDER CONFIRMATION
+Order: ord_0000025
+Customer: HighPoint Property Services #1
+Date: 2026-05-10
+Status: open
+Currency: CAD
+
+Items:
+- GF-SEED-GRASS-CON25 50 bag @ $95.20 (4,760.00)
+- GF-SEASON-SALT-20 50 bag @ $12.01 (600.50)
+
+Subtotal: $5,360.50
+Discount: $536.05
+Tax: $627.18
+Shipping: $0.00
+Total: $5,451.63
+
+---END RAW CONTENT---

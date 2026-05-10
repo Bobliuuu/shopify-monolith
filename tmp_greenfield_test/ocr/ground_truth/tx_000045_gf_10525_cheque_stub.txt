@@ -1,0 +1,7 @@
+CHEQUE STUB / REMITTANCE
+Customer: HighPoint Property Services
+Cheque/ref: CHK-2479
+Date: 2026-10-08
+Invoice: GF-10525
+Amount: $1,811.28
+Notes: hold receipt

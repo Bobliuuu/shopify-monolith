@@ -1,0 +1,27 @@
+GreenField Farm & Site Supply
+l7 Sideroad 8, Guelph, ON NlH 6J2     (5l9) 822-44l9
+HST # 84203 l234 RT000l
+
+INVOICE: GF-l0492          Date: 2026-l0-l7
+Due: 2026-ll-l6                Terms: Net 30
+PO: n/a / txt order
+
+BILL TO:
+Brampton Turf Solutions
+Brampton, ON
+Attn: Owen Patel
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-SEED-ALF-50       alfalfa coated                         2       sack      2ll.95     423.90
+GF-SEED-TURF-l0      turf mix                               80      bag        32.64   2,6ll.20
+GF-SEASON-SALT-20    road salt 20kg                         20      bag        l3.05     26l.00
+GF-IRR-DRIP-l00      irrigation drip roll                   l       roll       47.62      47.62
+
+Subtotal:      3,3l8.72
+HST l3%:       43l.43
+TOTAL DUE:    $3,750.l5
+
+ Payment method expected: Visa
+Payment ref: AUTH-378082
+PEN NOTE: customer asked why price changed

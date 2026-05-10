@@ -1,0 +1,18 @@
+SHOP ORDER CONFIRMATION
+Order: ord_0000002
+Customer: Brampton Turf Solutions #1
+Date: 2026-04-21
+Status: closed
+Currency: CAD
+
+Items:
+- GF-SEED-GRASS-CON2S 12 bag  at  $92.61 (1,111.32)
+- GF-BULK-SAND-MASON 10 yd  at  $41.13 (411.30)
+- GF-SEASON-PETMELT 8 bag  at  $19.62 (1S6.96)
+- GF-SOIL-TOP-BASIC 12 yd  at  $31.3S (376.20)
+
+Subtotal: $2,0SS.78
+Discount: $20S.S8
+Tax: $240.S3
+Shipping: $0.00
+Total: $2,090.73

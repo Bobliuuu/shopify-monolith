@@ -1,0 +1,34 @@
+GreenField Farm & Site Supply, fictional Ontario farm supply company.
+Stable brand palette: forest green #1F4D2B, cream #F4F0DD, muted beige #C9B88D, soil brown #4A3520.
+Style: rural Ontario, practical, slightly outdated, real small-business paperwork.
+Images should be data-dense and realistic, not clean corporate mockups.
+Use imperfections: skew, shadows, wrinkles, stains, folds, uneven alignment, phone-photo perspective.
+Preserve key names, dates, invoice numbers, totals, SKUs, quantities, and payment references as much as possible.
+
+
+Task:
+Create an ecommerce order confirmation page or email screenshot with totals and line items.
+
+Image condition:
+low-resolution fax/scan look, slightly washed out
+
+Raw source content to represent:
+---BEGIN RAW CONTENT---
+SHOP ORDER CONFIRMATION
+Order: ord_0000024
+Customer: Elm Lane Poultry #2
+Date: 2026-03-26
+Status: fulfilled
+Currency: CAD
+
+Items:
+- GF-FENCE-WIRE-200 3 spool @ $140.90 (422.70)
+- GF-SITE-GLOVES-50 3 case @ $53.64 (160.92)
+
+Subtotal: $583.62
+Discount: $58.36
+Tax: $72.83
+Shipping: $35.00
+Total: $633.09
+
+---END RAW CONTENT---

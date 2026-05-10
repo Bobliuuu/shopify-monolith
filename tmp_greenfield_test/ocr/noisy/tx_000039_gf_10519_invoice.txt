@@ -1,0 +1,27 @@
+GreenFieId Farm & Site Supply
+HST # 84203 1234 RT0001
+INVOICE: GF-10S19          Date: 2026-10-10
+Due: 2026-10-17                Terms: Due on receipt
+
+BILL TO:
+HighPoint Property Services
+Cambridge, ON
+Attn: Jason Reid
+
+SKU                  Description                            Qty     Unit    Unit Price      Arnount
+-----------------------------------------------------------------------------------------------
+GF-BULK-GRAVEL-34    clear stone                            4.S     ton        40.41     181.84
+GF-IRR-DRIP-100      half inch poly                         1       roll       46.42      46.42
+GF-SEED-TURF-10      grass seed prem                        2S      bag        31.17     779.2S
+GF-SEASON-PETMELT    premium ice melt                       80      bag        20.29   1,623.20
+GF-BULK-SAND-MASON   sand yard                              1       yd         3S.82      3S.82
+SERV-DELIVERY        delivery charge                        1       ea         7S.00      7S.00
+SERV-DISCOUNT        acct discount                          1       ea        -SS.00     -SS.00
+
+Subtotal:      2,686.S3
+HST 13%:       349.2S
+TOTAL DUE:    $3,03S.78
+
+Payment method expected: EFT
+Payment ref: HIGHPO-0S19
+PEN NOTE: customer asked why price changed

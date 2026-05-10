@@ -1,0 +1,14 @@
+From: jason@highpointproperty.example
+To: orders@greenfieldsupply.example
+Subject: order for 2026-06-06
+
+hey,
+
+can you get us turf mix, top soil premium for 2026-06-06?
+also can you double check the total on the invoice
+
+ship/deliver to Cambridge if possible.
+
+thanks,
+Jason
+HighPoint Property Services

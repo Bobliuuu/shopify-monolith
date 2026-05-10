@@ -1,0 +1,11 @@
+batch_id,date,description,amount,type,invoice_no,payment_ref,customer
+BATCH-0002,2026-03-04,e-transfer Maple Ridge Farms Ltd. MAPLER-0531,2,551.96,credit,GF-10531,MAPLER-0531,Maple Ridge Farms Ltd.
+BATCH-0002,2026-08-08,on account Silver Creek Stables AUTH-886730,721.71,credit,GF-10532,AUTH-886730,Silver Creek Stables
+BATCH-0002,2026-06-17,Visa Maple Ridge Farms Ltd. AUTH-743378,2,713.37,credit,GF-10533,AUTH-743378,Maple Ridge Farms Ltd.
+BATCH-00022026-05-19e-transfer Stonebridge Estates Maintenance STONEB-0534834.03creditGF-10534STONEB-0534Stonebridge Estates Maintenance
+BATCH-00022026-06-21cheque HighPoint Property Services CHK-8972520.11creditGF-10535CHK-8972HighPoint Property Services
+BATCH-00022026-01-18cheque Maple Ridge Farms Ltd. CHK-80333397.94creditGF-10536CHK-8033Maple Ridge Farms Ltd.
+BATCH-0002,2026-03-07,cheque Riverbend Organics CHK-6562,6,140.08,credit,GF-10537,CHK-6562,Riverbend Organics
+ BATCH-0002,2026-09-27,on account GreenScape Landscaping Inc. AUTH-618119,1,172.58,credit,GF-10538,AUTH-618119,GreenScape Landscaping Inc.
+BATCH-00022026-09-24Visa Brampton Turf Solutions AUTH-7229372168.31creditGF-10539AUTH-722937Brampton Turf Solutions
+BATCH-0002,2026-02-20,Visa Stonebridge Estates Maintenance AUTH-648141,1,146.55,credit,GF-10540,AUTH-648141,Stonebridge Estates Maintenance

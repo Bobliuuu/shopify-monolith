@@ -1,0 +1,25 @@
+GreenFieId Farm & Site Supply
+17 Sideroad 8, Guelph, ON N1H 6J2     (S19) 822-4419
+HST # 84203 1234 RT0001
+
+INVOICE: GF-10S34          Date: 2026-0S-17
+Due: 2026-06-16                Terms: Net 30
+PO: PO-3289
+
+BILL TO:
+Stonebridge Estates Maintenance
+Burlington, ON
+Attn: Laura Chen
+
+SKU                  Description                            Qty     Unit    Unit Price      Amount
+-----------------------------------------------------------------------------------------------
+GF-SEED-ALF-S0       alfalfa coated                         3       sack      21S.32     64S.96
+GF-SEASON-PETMELT    premium ice melt                       8       bag        18.91     1S1.28
+GF-SITE-TARP-1012    hd-ish tarp                            1       ea         1S.84      1S.84
+SERV-DISCOUNT        acct discount                          1       ea        -7S.00     -7S.00
+
+HST 13%:       9S.9S
+T0TAL DUE:    $834.03
+
+Payment method expected: e-transfer
+PEN NOTE: substituted equivalent product

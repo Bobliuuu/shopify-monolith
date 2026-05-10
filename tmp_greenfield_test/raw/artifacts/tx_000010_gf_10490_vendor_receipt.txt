@@ -1,0 +1,13 @@
+Waterloo Farm Hardware
+RECEIPT / YARD TICKET #84441       2026-08-05
+Sold to: GreenField Supply Co. Ltd.
+
+Item                               Qty      Unit    Price       Amount
+----------------------------------------------------------------------
+work glove box                     7.7      case      39.08     300.92
+handling / fuel / pallet fee        1        ea          0.00       0.00
+
+Subtotal: 300.92
+HST:      39.12
+TOTAL:    $340.04
+Paid by: Visa ending 4102
